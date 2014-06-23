@@ -1,0 +1,456 @@
+[
+    {
+        "name": "フェイスケア製品",
+        "img": "/jp/kao_imgs/products/facecare.jpg",
+        "product": [
+            {
+                "key": "facialcleansing",
+                "name":"洗顔料",
+                "product_num": 31
+            },
+            {
+                "key": "makecleansing",
+                "name":"メイク落とし",
+                "product_num": 21
+            },
+            {
+                "key": "facesheet",
+                "name":"顔用シート",
+                "product_num": 14
+            },
+            {
+                "key": "lotion",
+                "name":"化粧水・乳液・クリーム",
+                "product_num": 48
+            },
+            {
+                "key": "essence",
+                "name":"美容液",
+                "product_num": 2
+            },
+            {
+                "key": "facesunscreen",
+                "name":"日やけ止め〔顔用〕",
+                "product_num": 10
+            },
+            {
+                "key": "foundation",
+                "name":"ファンデーション",
+                "product_num": 14
+            },
+            {
+                "key": "pack",
+                "name":"パック",
+                "product_num": 6
+            },
+            {
+                "key": "lipcare",
+                "name":"リップケア",
+                "product_num": 21
+            },
+            {
+                "key": "shaving",
+                "name":"シェービング",
+                "product_num": 9
+            }
+        ]
+    },
+    {
+        "name": "ボディケア製品",
+        "img": "/jp/kao_imgs/products/bodycare.jpg",
+        "product": [
+            {
+                "key": "soap",
+                "name":"石鹸",
+                "product_num": 12
+            },
+            {
+                "key": "bodysoap",
+                "name":"全身洗浄料・洗浄用具",
+                "product_num": 51
+            },
+            {
+                "key": "handsoap",
+                "name":"ハンドソープ",
+                "product_num": 12
+            },
+            {
+                "key": "handcare",
+                "name":"ハンドケア",
+                "product_num": 16
+            },
+            {
+                "key": "bodycream",
+                "name":"ボディケア",
+                "product_num": 33
+            },
+            {
+                "key": "facebodysunscreen",
+                "name":"日やけ止め〔顔・からだ用〕",
+                "product_num": 17
+            },
+            {
+                "key": "sunscreen",
+                "name":"日やけ止め〔からだ用〕",
+                "product_num": 1
+            },
+            {
+                "key": "bodysheet",
+                "name":"ボディ用シート",
+                "product_num": 20
+            },
+            {
+                "key": "deodorant",
+                "name":"制汗・デオドラント剤",
+                "product_num": 56
+            }
+        ]
+    },
+    {
+        "name": "オーラルケア製品",
+        "img": "/jp/kao_imgs/products/oralcare.jpg",
+        "product": [
+            {
+                "key": "toothpaste",
+                "name":"ハミガキ",
+                "product_num": 30
+            },
+            {
+                "key": "toothseat",
+                "name":"歯みがきシート",
+                "product_num": 1
+            },
+            {
+                "key": "toothliquid",
+                "name":"液体ハミガキ",
+                "product_num": 4
+            },
+            {
+                "key": "mouthwash",
+                "name":"洗口液",
+                "product_num": 5
+            },
+            {
+                "key": "toothbrush",
+                "name":"ハブラシ",
+                "product_num": 35
+            },
+            {
+                "key": "travelgoods",
+                "name":"携帯用歯みがきセット",
+                "product_num": 4
+            }
+        ]
+    },
+    {
+        "name": "インバスヘルスケア",
+        "img": "/jp/kao_imgs/products/bath.jpg",
+        "product": [
+            {
+                "key": "bathpowder",
+                "name":"入浴剤",
+                "product_num": 36
+            },
+            {
+                "key": "showercare",
+                "name":"シャワーケア",
+                "product_num": 13
+            }
+        ]
+    },
+    {
+        "name": "ヘアケア製品",
+        "img": "/jp/kao_imgs/products/haircare.jpg",
+        "product": [
+            {
+                "key": "shampoo",
+                "name":"シャンプー・リンス・トリートメント",
+                "product_num": 89
+            },
+            {
+                "key": "treatment",
+                "name":"洗い流さないトリートメント",
+                "product_num": 13
+            },
+            {
+                "key": "scalpconditioner",
+                "name":"地肌コンディショナー＆地肌マッサージャー",
+                "product_num": 4
+            },
+            {
+                "key": "scalpesthetique",
+                "name":"地肌エステ（育毛剤）",
+                "product_num": 1
+            },
+            {
+                "key": "hairrestorer",
+                "name":"育毛剤",
+                "product_num": 10
+            }
+        ]
+    },
+    {
+        "name": "ヘアスタイリング剤",
+        "img": "/jp/kao_imgs/products/hairstyling.jpg",
+        "product": [
+            {
+                "key": "hairstyle",
+                "name":"ヘアスタイリング剤",
+                "product_num": 50
+            },
+            {
+                "key": "hairspray",
+                "name":"ヘアスプレー",
+                "product_num": 25
+            },
+            {
+                "key": "brushingspray",
+                "name":"ブラッシング剤",
+                "product_num": 1
+            }
+        ]
+    },
+    {
+        "name": "ヘアカラーリング剤",
+        "img": "/jp/kao_imgs/products/haircoloring.jpg",
+        "product": [
+            {
+                "key": "haircolor",
+                "name":"ヘアカラー",
+                "product_num": 98
+            },
+            {
+                "key": "hairbleach",
+                "name":"ヘアブリーチ",
+                "product_num": 2
+            },
+            {
+                "key": "hairmanicure",
+                "name":"ヘアマニキュア",
+                "product_num": 14
+            },
+            {
+                "key": "hairdye",
+                "name":"ヘアカラーリングの合間に染めるタイプ",
+                "product_num": 7
+            },
+            {
+                "key": "whitecare",
+                "name":"白髪ケア",
+                "product_num": 1
+            }
+        ]
+    },
+    {
+        "name": "衣類・布製品のお手入れ品",
+        "img": "/jp/kao_imgs/products/fabriccare.jpg",
+        "product": [
+            {
+                "key": "clothcleanser",
+                "name":"洗たく用洗剤",
+                "product_num": 25
+            },
+            {
+                "key": "softcleanser",
+                "name":"柔軟仕上げ剤",
+                "product_num": 34
+            },
+            {
+                "key": "clothbleach",
+                "name":"衣料用漂白剤",
+                "product_num": 13
+            },
+            {
+                "key": "starch",
+                "name":"のり剤",
+                "product_num": 4
+            },
+            {
+                "key": "clothfinisher",
+                "name":"衣料用スタイリング剤",
+                "product_num": 4
+            },
+            {
+                "key": "clothfregrance",
+                "name":"衣料用フレグランス",
+                "product_num": 8
+            },
+            {
+                "key": "clothdeodorant",
+                "name":"衣類・布製品・空間用消臭剤",
+                "product_num": 16
+            },
+            {
+                "key": "clotharomamist",
+                "name":"空間・衣類・布用アロマミスト",
+                "product_num": 6
+            }
+        ]
+    },
+    {
+        "name": "台所のお手入れ品",
+        "img": "/jp/kao_imgs/products/kitchencare.jpg",
+        "product": [
+            {
+                "key": "kitchencleanser",
+                "name":"食器用洗剤",
+                "product_num": 30
+            },
+            {
+                "key": "kitchenbleach",
+                "name":"台所用漂白剤",
+                "product_num": 6
+            },
+            {
+                "key": "kitchencleaning",
+                "name":"台所のそうじ用品",
+                "product_num": 15
+            },
+            {
+                "key": "cleanser",
+                "name":"クレンザー類",
+                "product_num": 4
+            }
+        ]
+    },
+    {
+        "name": "住まいのお手入れ品",
+        "img": "/jp/kao_imgs/products/housecare.jpg",
+        "product": [
+            {
+                "key": "housecleanser",
+                "name":"住居用洗剤",
+                "product_num": 14
+            },
+            {
+                "key": "housewiper",
+                "name":"住居用ワイパー",
+                "product_num": 18
+            },
+            {
+                "key": "housecleaning",
+                "name":"ハウスダスト除去剤",
+                "product_num": 2
+            },
+            {
+                "key": "bathcare",
+                "name":"お風呂のお手入れ品",
+                "product_num": 14
+            },
+            {
+                "key": "toiletcare",
+                "name":"トイレのお手入れ品",
+                "product_num": 23
+            }
+        ]
+    },
+    {
+        "name": "食品",
+        "img": "/jp/kao_imgs/products/food.jpg",
+        "product": [
+            {
+                "key": "drink",
+                "name":"飲料",
+                "product_num": 12
+            }
+        ]
+    },
+    {
+        "name": "衛生用品",
+        "img": "/jp/kao_imgs/products/sanitary.jpg",
+        "product": [
+            {
+                "key": "babydiaper",
+                "name":"ベビー用紙おむつ",
+                "product_num": 15
+            },
+            {
+                "key": "hipsheet",
+                "name":"おしりふき",
+                "product_num": 5
+            },
+            {
+                "key": "napkin",
+                "name":"生理用ナプキン",
+                "product_num": 33
+            },
+            {
+                "key": "menstruationpanties",
+                "name":"サニタリーショーツ",
+                "product_num": 18
+            },
+            {
+                "key": "dischargesheet",
+                "name":"パンティライナー",
+                "product_num": 10
+            },
+            {
+                "key": "pantyliner",
+                "name":"吸水パンティライナー・ナプキン（軽失禁）",
+                "product_num": 24
+            },
+            {
+                "key": "malepad",
+                "name":"男性用吸水ガード（軽失禁）",
+                "product_num": 2
+            },
+            {
+                "key": "adultdiaper",
+                "name":"大人用紙おむつ〔パンツ・テープ式〕",
+                "product_num": 19
+            },
+            {
+                "key": "urinepad",
+                "name":"大人用紙おむつ〔尿とりパッド〕",
+                "product_num": 9
+            },
+            {
+                "key": "incontinencegoods",
+                "name":"軽失禁用パッド",
+                "product_num": 2
+            },
+            {
+                "key": "caregoods",
+                "name":"介護用品",
+                "product_num": 6
+            },
+            {
+                "key": "hipscare",
+                "name":"おしりのケア用品",
+                "product_num": 6
+            }
+        ]
+    },
+    {
+        "name": "温熱用品",
+        "img": "/jp/kao_imgs/products/medicaltools.jpg",
+        "product": [
+            {
+                "key": "onnetsu",
+                "name":"蒸気が出る温熱シート（一般医療機器）",
+                "product_num": 7
+            },
+            {
+                "key": "steamsheet",
+                "name":"おやすみ前に蒸気で温めるシート",
+                "product_num": 4
+            },
+            {
+                "key": "eyemask",
+                "name":"蒸気で温めるアイマスク",
+                "product_num": 14
+            }
+        ]
+    },
+    {
+        "name": "ペット用品",
+        "img": "/jp/kao_imgs/products/petcare.jpg",
+        "product": [
+            {
+                "key": "pettoilet",
+                "name":"ペットのトイレ",
+                "product_num": 9
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+<ons-page class="center">
+    <div ng-controller="CategoryCtrl">
+        <ons-list>
+            <div style="margin:5px 5px 5px 10px" align="left" ng-click="ons.slidingMenu.setBehindPage('views/brand.html')">
+                <i class="fa fa-repeat"></i>&nbsp;<u>ブランド一覧へ</u>
+            </div>
+            <div ng-repeat="item in items">
+                <div style="background-color:white">
+                    <ons-row align="center">
+                        <ons-col class="center" size="10">
+                            <div style="margin-top:5px">
+                                <img ng-src="http://www.kao.com{{item.img}}" width="40">
+                            </div>
+                        </ons-col>
+                        <ons-col class="left">
+                            <div style="margin:0px 10px 0px 5px; line-height:110%">
+                                <font size="2px" color="#16A87A">{{item.name}}</font>
+                            </div>
+                        </ons-col>
+                    </ons-row>
+                </div>
+                <div style="border-color: white">
+                    <ons-list-item
+                            class="topcoat-list__item--tappable topcoat-list__item__line-height"
+                            ng-repeat="product in item.product"
+                            ng-click="showProduct(product.key)">
+                        <ons-row align="center">
+                            <ons-col class="left">
+                                <div style="margin:13px 10px 0px 10px; line-height:110%">
+                                    <font size="2px">{{product.name}}<font color="grey">（{{product.product_num}}）</font></font>
+                                </div>
+                            </ons-col>
+                            <ons-col size="20">
+                                <!-- スライドで隠れてしまう部分 -->
+                            </ons-col>
+                        </ons-row>
+                    </ons-list-item>
+                </div>
+            </div>
+        </ons-list>
+    </div>
+</ons-page>

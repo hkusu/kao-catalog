@@ -1,0 +1,37 @@
+<ons-navigator title="詳細"
+               right-button-icon="fa fa-lg fa-times-circle"
+               on-right-button-click="ons.screen.dismissPage()">
+    <ons-page class="center">
+        <ons-scroller>
+        <div style="margin:0px 30px 0px 30px">
+            <div ng-controller="ItemCtrl">
+                <h4>{{item.name}}</h4>
+                <br>
+                <div align="center">
+                    <img ng-src="http://www.kao.com{{item.img_l}}" width="250">
+                </div>
+                <br>
+                <div align="left">
+                    <font color="grey">{{item.text}}</font>
+                </div>
+                <div ng-show={{show_lineup}}>
+                <span class="kao-color">
+                    <h4>その他のラインアップ</h4>
+                </span>
+                <ons-row>
+                    <ons-col align="center" ng-repeat="lineup in item.lineup">
+                         <img ng-src="http://www.kao.com{{lineup.img}}" width="100">
+                         <br>
+                         <font size="2px">{{lineup.name}}</font>
+                         </ons-col>
+                    </ons-row>
+                </div>
+                <br>
+                <ons-button ng-click="ons.screen.dismissPage()"><i class="fa fa-times-circle" style="font-size:14px"></i>&nbsp;閉じる</ons-button>
+                <br>
+                <br>
+            </div>
+        </div>
+        </ons-scroller>
+    </ons-page>
+</ons-navigator>

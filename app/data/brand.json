@@ -1,0 +1,380 @@
+[
+  {
+    "key": "asience",
+    "img": "/jp/kao_imgs/asience/asience_logo_s.jpg",
+    "name":"アジエンス",
+    "product_num": 21
+  },
+  {
+    "key": "attack",
+    "img": "/jp/kao_imgs/attack/attack_logo_s.jpg",
+    "name":"アタック",
+    "product_num": 15
+  },
+  {
+    "key": "atrix",
+    "img": "/jp/kao_imgs/atrix/atrix_logo_s.jpg",
+    "name":"アトリックス",
+    "product_num": 12
+  },
+  {
+    "key": "8x4",
+    "img": "/jp/kao_imgs/8x4/8x4_logo_s.jpg",
+    "name":"８×４",
+    "product_num": 42
+  },
+  {
+    "key": "8x4men",
+    "img": "/jp/kao_imgs/8x4men/8x4men_logo_s.jpg",
+    "name":"８×４ MEN",
+    "product_num": 12
+  },
+  {
+    "key": "essential",
+    "img": "/jp/kao_imgs/essential/essential_logo_s.jpg",
+    "name":"エッセンシャル",
+    "product_num": 23
+  },
+  {
+    "key": "emal",
+    "img": "/jp/kao_imgs/emal/emal_logo_s.jpg",
+    "name":"エマール",
+    "product_num": 4
+  },
+  {
+    "key": "emollica",
+    "img": "/jp/kao_imgs/emollica/emollica_logo_s.jpg",
+    "name":"エモリカ",
+    "product_num": 6
+  },
+  {
+    "key": "guardhalo",
+    "img": "/jp/kao_imgs/guardhalo/guardhalo_logo_s.jpg",
+    "name":"ガードハロー",
+    "product_num": 1
+  },
+  {
+    "key": "keeping",
+    "img": "/jp/kao_imgs/keeping/keeping_logo_s.jpg",
+    "name":"キーピング",
+    "product_num": 6
+  },
+  {
+    "key": "kyukyutto",
+    "img": "/jp/kao_imgs/kyukyutto/kyukyutto_logo_s.jpg",
+    "name":"キュキュット",
+    "product_num": 24
+  },
+  {
+    "key": "curel",
+    "img": "/jp/kao_imgs/curel/curel_logo_s.jpg",
+    "name":"キュレル",
+    "product_num": 65
+  },
+  {
+    "key": "safety",
+    "img": "/jp/kao_imgs/safety/safety_logo_s.jpg",
+    "name":"吸水セーフティ",
+    "product_num": 10
+  },
+  {
+    "key": "quickpunch",
+    "img": "/jp/kao_imgs/quickpunch/quickpunch_logo_s.jpg",
+    "name":"クイックパンチ",
+    "product_num": 1
+  },
+  {
+    "key": "quickle",
+    "img": "/jp/kao_imgs/quickle/quickle_logo_s.jpg",
+    "name":"クイックル",
+    "product_num": 32
+  },
+  {
+    "key": "clearclean",
+    "img": "/jp/kao_imgs/clearclean/clearclean_logo_s.jpg",
+    "name":"クリアクリーン",
+    "product_num": 41
+  },
+  {
+    "key": "cape",
+    "img": "/jp/kao_imgs/cape/cape_logo_s.jpg",
+    "name":"ケープ",
+    "product_num": 25
+  },
+  {
+    "key": "success",
+    "img": "/jp/kao_imgs/success/success_logo_s.jpg",
+    "name":"サクセス",
+    "product_num": 42
+  },
+  {
+    "key": "sanina",
+    "img": "/jp/kao_imgs/sanina/sanina_logo_s.jpg",
+    "name":"サニーナ",
+    "product_num": 6
+  },
+  {
+    "key": "showertimebub",
+    "img": "/jp/kao_imgs/showertimebub/showertimebub_logo_s.jpg",
+    "name":"シャワータイムバブ",
+    "product_num": 10
+  },
+  {
+    "key": "stylecare",
+    "img": "/jp/kao_imgs/stylecare/stylecare_logo_s.jpg",
+    "name":"スタイルケア",
+    "product_num": 2
+  },
+  {
+    "key": "smartguard",
+    "img": "/jp/kao_imgs/smartguard/smartguard_logo_s.jpg",
+    "name":"スマートガード",
+    "product_num": 2
+  },
+  {
+    "key": "segreta",
+    "img": "/jp/kao_imgs/segreta/segreta_logo_s.jpg",
+    "name":"セグレタ",
+    "product_num": 22
+  },
+  {
+    "key": "check",
+    "img": "/jp/kao_imgs/check/check_logo_s.jpg",
+    "name":"チェック",
+    "product_num": 2
+  },
+  {
+    "key": "tsubushio",
+    "img": "/jp/kao_imgs/tsubushio/tsubushio_logo_s.jpg",
+    "name":"つぶ塩",
+    "product_num": 1
+  },
+  {
+    "key": "deepclean",
+    "img": "/jp/kao_imgs/deepclean/deepclean_logo_s.jpg",
+    "name":"ディープクリーン",
+    "product_num": 17
+  },
+  {
+    "key": "nivea",
+    "img": "/jp/kao_imgs/nivea/nivea_logo_s.jpg",
+    "name":"ニベア",
+    "product_num": 55
+  },
+  {
+    "key": "niveaformen",
+    "img": "/jp/kao_imgs/niveaformen/niveaformen_logo_s.jpg",
+    "name":"ニベアフォーメン",
+    "product_num": 16
+  },
+  {
+    "key": "nyantomo",
+    "img": "/jp/kao_imgs/nyantomo/nyantomo_logo_s.jpg",
+    "name":"ニャンとも",
+    "product_num": 9
+  },
+  {
+    "key": "newbeads",
+    "img": "/jp/kao_imgs/newbeads/newbeads_logo_s.jpg",
+    "name":"ニュービーズ",
+    "product_num": 6
+  },
+  {
+    "key": "haiter",
+    "img": "/jp/kao_imgs/haiter/haiter_logo_s.jpg",
+    "name":"ハイター",
+    "product_num": 19
+  },
+  {
+    "key": "bub",
+    "img": "/jp/kao_imgs/bub/bub_logo_s.jpg",
+    "name":"バブ",
+    "product_num": 26
+  },
+  {
+    "key": "bubshower",
+    "img": "/jp/kao_imgs/bubshower/bubshower_logo_s.jpg",
+    "name":"バブ爽快シャワー",
+    "product_num": 3
+  },
+  {
+    "key": "humming",
+    "img": "/jp/kao_imgs/humming/humming_logo_s.jpg",
+    "name":"ハミング",
+    "product_num": 26
+  },
+  {
+    "key": "biore",
+    "img": "/jp/kao_imgs/biore/biore_logo_s.jpg",
+    "name":"ビオレ",
+    "product_num": 57
+  },
+  {
+    "key": "bioreurusara",
+    "img": "/jp/kao_imgs/bioreurusara/bioreurusara_logo_s.jpg",
+    "name":"ビオレ うるさらボディケアシート",
+    "product_num": 4
+  },
+  {
+    "key": "bioresarasarauv",
+    "img": "/jp/kao_imgs/bioresarasarauv/bioresarasarauv_logo_s.jpg",
+    "name":"ビオレ さらさらUV",
+    "product_num": 10
+  },
+  {
+    "key": "bioresarasara",
+    "img": "/jp/kao_imgs/bioresarasara/bioresarasara_logo_s.jpg",
+    "name":"ビオレ さらさらパウダーシート",
+    "product_num": 14
+  },
+  {
+    "key": "biorebodydeli",
+    "img": "/jp/kao_imgs/biorebodydeli/biorebodydeli_logo_s.jpg",
+    "name":"ビオレ ボディデリ",
+    "product_num": 12
+  },
+  {
+    "key": "bioreu",
+    "img": "/jp/kao_imgs/bioreu/bioreu_logo_s.jpg",
+    "name":"ビオレu",
+    "product_num": 47
+  },
+  {
+    "key": "pyuora",
+    "img": "/jp/kao_imgs/pyuora/pyuora_logo_s.jpg",
+    "name":"ピュオーラ",
+    "product_num": 17
+  },
+  {
+    "key": "purewhip",
+    "img": "/jp/kao_imgs/purewhip/purewhip_logo_s.jpg",
+    "name":"花王ピュアホイップ",
+    "product_num": 4
+  },
+  {
+    "key": "family",
+    "img": "/jp/kao_imgs/family/family_logo_s.jpg",
+    "name":"ファミリー",
+    "product_num": 6
+  },
+  {
+    "key": "prettia",
+    "img": "/jp/kao_imgs/prettia/prettia_logo_s.jpg",
+    "name":"プリティア",
+    "product_num": 33
+  },
+  {
+    "key": "flairfragrance",
+    "img": "/jp/kao_imgs/flairfragrance/flairfragrance_logo_s.jpg",
+    "name":"フレア フレグランス",
+    "product_num": 16
+  },
+  {
+    "key": "blaune",
+    "img": "/jp/kao_imgs/blaune/blaune_logo_s.jpg",
+    "name":"ブローネ",
+    "product_num": 86
+  },
+  {
+    "key": "blauneikumou",
+    "img": "/jp/kao_imgs/blauneikumou/blauneikumou_logo_s.jpg",
+    "name":"ブローネ薬用育毛",
+    "product_num": 3
+  },
+  {
+    "key": "furomizuwonder",
+    "img": "/jp/kao_imgs/furomizuwonder/furomizuwonder_logo_s.jpg",
+    "name":"ふろ水ワンダー",
+    "product_num": 1
+  },
+  {
+    "key": "healthya",
+    "img": "/jp/kao_imgs/healthya/healthya_logo_s.jpg",
+    "name":"ヘルシア",
+    "product_num": 12
+  },
+  {
+    "key": "homing",
+    "img": "/jp/kao_imgs/homing/homing_logo_s.jpg",
+    "name":"ホーミング",
+    "product_num": 4
+  },
+  {
+    "key": "white",
+    "img": "/jp/kao_imgs/white/white_logo_s.jpg",
+    "name":"花王ホワイト",
+    "product_num": 8
+  },
+  {
+    "key": "mypet",
+    "img": "/jp/kao_imgs/mypet/mypet_logo_s.jpg",
+    "name":"マイペット",
+    "product_num": 4
+  },
+  {
+    "key": "magiclean",
+    "img": "/jp/kao_imgs/magiclean/magiclean_logo_s.jpg",
+    "name":"マジックリン",
+    "product_num": 39
+  },
+  {
+    "key": "megurhythm",
+    "img": "/jp/kao_imgs/megurhythm/megurhythm_logo_s.jpg",
+    "name":"めぐりズム",
+    "product_num": 25
+  },
+  {
+    "key": "merries",
+    "img": "/jp/kao_imgs/merries/merries_logo_s.jpg",
+    "name":"メリーズ",
+    "product_num": 20
+  },
+  {
+    "key": "merit",
+    "img": "/jp/kao_imgs/merit/merit_logo_s.jpg",
+    "name":"メリット",
+    "product_num": 15
+  },
+  {
+    "key": "mensbiore",
+    "img": "/jp/kao_imgs/mensbiore/mensbiore_logo_s.jpg",
+    "name":"メンズビオレ",
+    "product_num": 39
+  },
+  {
+    "key": "mensblaune",
+    "img": "/jp/kao_imgs/mensblaune/mensblaune_logo_s.jpg",
+    "name":"メンズブローネ",
+    "product_num": 2
+  },
+  {
+    "key": "liese",
+    "img": "/jp/kao_imgs/liese/liese_logo_s.jpg",
+    "name":"リーゼ",
+    "product_num": 44
+  },
+  {
+    "key": "resesh",
+    "img": "/jp/kao_imgs/resesh/resesh_logo_s.jpg",
+    "name":"リセッシュ",
+    "product_num": 22
+  },
+  {
+    "key": "relief",
+    "img": "/jp/kao_imgs/relief/relief_logo_s.jpg",
+    "name":"リリーフ",
+    "product_num": 36
+  },
+  {
+    "key": "laurier",
+    "img": "/jp/kao_imgs/laurier/laurier_logo_s.jpg",
+    "name":"ロリエ",
+    "product_num": 75
+  },
+  {
+    "key": "widehaiter",
+    "img": "/jp/kao_imgs/widehaiter/widehaiter_logo_s.jpg",
+    "name":"ワイドハイター",
+    "product_num": 9
+  }
+]

@@ -1,0 +1,32 @@
+<ons-navigator title="花王 カタログ"
+               left-button-icon="fa fa-lg fa-bars"
+               on-left-button-click="ons.slidingMenu.toggleMenu()">
+    <ons-page class="center">
+        <div ng-controller="TopCtrl">
+            <br>
+            <br>
+            <img ng-src="images/kao_common_header_ci.gif">
+            <br>
+            <br>
+            <br>
+            <ons-button ng-click="showBrand()"><i class="fa fa-search" style="font-size:14px"></i>&nbsp;ブランド名から探す</ons-button>
+            <br>
+            <br>
+            <ons-button ng-click="showCategory()"><i class="fa fa-search" style="font-size:14px"></i>&nbsp;カテゴリーから探す</ons-button>
+            <br>
+            <br>
+            <br>
+            <div ng-click="ons.screen.presentPage('views/about.html')">
+                <font color="grey" size="2px">
+                    <i class="fa fa-info-circle"></i>&nbsp;<u>このサイトについて</u>
+                </font>
+            </div>
+            <br>
+            <div ng-click="ons.screen.presentPage('views/creator.html')">
+                <font color="grey" size="2px">
+                    <i class="fa fa-user"></i>&nbsp;<u>作成者について</u>
+                </font>
+            </div>
+        </div>
+    </ons-page>
+</ons-navigator>
