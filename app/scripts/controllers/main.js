@@ -1,6 +1,6 @@
 'use strict';
 
-/* メモ：ボタンの挙動はViewにも書けるが、方針としてViewに書かざるを得ないもの（ナビゲーションのボタン）を除きここに書く */
+/* メモ：ボタンの挙動はViewにも書けるが、方針としてViewに書かざるを得ないもの（ナビゲーションのボタン等）を除きここに書く */
 
 angular.module('kaoCatalogApp')
     // トップページ用（views/top.html）のController
@@ -9,7 +9,6 @@ angular.module('kaoCatalogApp')
         // [ブラント名から探す]ボタン
         $scope.showBrand = function(){
             // スライドメニューにブランド一覧ページを表示（特に引数なし）
-            //$scope.ons.navigator.pushPage('views/brand.html');
             $scope.ons.slidingMenu.setBehindPage('views/brand.html');
             $scope.ons.slidingMenu.toggleMenu();
         };
@@ -17,7 +16,6 @@ angular.module('kaoCatalogApp')
         // [カテゴリーから探す]ボタン
         $scope.showCategory = function(){
             // スライドメニューにカテゴリ一覧ページを表示（特に引数なし）
-            //$scope.ons.navigator.pushPage('views/category.html');
             $scope.ons.slidingMenu.setBehindPage('views/category.html');
             $scope.ons.slidingMenu.toggleMenu();
         };
@@ -34,9 +32,8 @@ angular.module('kaoCatalogApp')
 
             // 選択したブランドのキー（アルファベット）を引き渡したいのでFactoryへ保存
             ShareData.list_key = list_key;
-            // 各製品の一覧ページを表示（引数としてブランド名を渡す）
+            // 各製品の一覧ページを表示
             $scope.ons.slidingMenu.toggleMenu();
-            //$scope.ons.navigator.pushPage('views/product.html', { title : brand_name });
             $scope.ons.slidingMenu.setAbovePage('views/product.html');
         };
     }])
@@ -52,9 +49,8 @@ angular.module('kaoCatalogApp')
 
             // 選択したカテゴリーのキー（アルファベット）を引き渡したいのでFactoryへ保存
             ShareData.list_key = list_key;
-            // 各製品の一覧ページを表示（引数としてブランド名を渡す）
+            // 各製品の一覧ページを表示
             $scope.ons.slidingMenu.toggleMenu();
-            //$scope.ons.navigator.pushPage('views/product.html', { title : brand_name });
             $scope.ons.slidingMenu.setAbovePage('views/product.html');
         };
     }])
@@ -73,8 +69,7 @@ angular.module('kaoCatalogApp')
             var selectedItem = $scope.items[index];
             // 選択した製品を引き渡したいのでFactoryへ保存
             ShareData.selectedItem = selectedItem;
-            // 各製品の詳細ページを表示（引数として製品名を渡す）
-            //$scope.ons.navigator.pushPage('views/item.html', { title : selectedItem.name });
+            // 各製品の詳細ページを表示
             $scope.ons.screen.presentPage('views/item.html');
         };
     }])
