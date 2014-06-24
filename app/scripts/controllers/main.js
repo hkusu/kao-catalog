@@ -1,6 +1,6 @@
 'use strict';
 
-/* メモ：ボタンの挙動はViewにも書けるが、方針としてViewに書かざるを得ないもの（ナビゲーションのボタン等）を除きここに書く */
+// メモ：ボタンの挙動はViewにも書けるが、方針としてViewに書かざるを得ないもの（ナビゲーションのボタン等）を除きここに書く
 
 angular.module('kaoCatalogApp')
     // トップページ用（views/top.html）のController

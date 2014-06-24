@@ -8,21 +8,25 @@
                     class="topcoat-list__item--tappable topcoat-list__item__line-height"
                     ng-repeat="item in items"
                     ng-click="showProduct(item.key)">
-                <ons-row align="center">
-                    <ons-col class="center" size="10">
-                        <div style="margin-top:20px">
-                            <img ng-src="http://www.kao.com{{item.img}}" width="40">
-                        </div>
-                    </ons-col>
-                    <ons-col class="left">
-                        <div style="margin:5px 10px 0px 15px; line-height:110%">
-                            <font size="2px">{{item.name}}<font color="grey">（{{item.product_num}}）</font></font>
-                        </div>
-                    </ons-col>
-                    <ons-col size="20">
-                        <!-- スライドで隠れてしまう部分 -->
-                    </ons-col>
-                </ons-row>
+                <!-- なぜか ons-row、ons-col を使うとAndroid端末で崩れるため、Tableタグを利用-->
+                <table>
+                    <tr>
+                        <td>
+                            <div align ="center" style="margin-top:20px">
+                                <img ng-src="http://www.kao.com{{item.img}}" width="50">
+                            </div>
+                        </td>
+                        <td>
+                            <!-- line-height で行間をあける -->
+                            <div align="left" style="margin:5px 10px 0px 15px; line-height:110%">
+                                <font size="2px">{{item.name}}<font color="grey">（{{item.product_num}}）</font></font>
+                            </div>
+                        </td>
+                        <td width="20%">
+                            <!-- スライドで隠れてしまう部分 -->
+                        </td>
+                    </tr>
+                </table>
             </ons-list-item>
         </ons-list>
     </div>

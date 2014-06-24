@@ -4,38 +4,42 @@
             <div style="margin:5px 5px 5px 10px" align="left" ng-click="ons.slidingMenu.setBehindPage('views/brand.html')">
                 <i class="fa fa-repeat"></i>&nbsp;<u>ブランド一覧へ</u>
             </div>
-            <div ng-repeat="item in items">
-                <div style="background-color:white">
-                    <ons-row align="center">
-                        <ons-col class="center" size="10">
-                            <div style="margin-top:5px">
+            <div ng-repeat="item in items" style="background-color:white">
+                <!-- なぜか ons-row、ons-col を使うとAndroid端末で崩れるため、Tableタグを利用-->
+                <table>
+                    <tr>
+                        <td>
+                            <div align ="center" style="margin-top:5px">
                                 <img ng-src="http://www.kao.com{{item.img}}" width="40">
                             </div>
-                        </ons-col>
-                        <ons-col class="left">
-                            <div style="margin:0px 10px 0px 5px; line-height:110%">
-                                <font size="2px" color="#16A87A">{{item.name}}</font>
+                        </td>
+                        <td>
+                            <!-- line-height で行間をあける -->
+                            <div align="left" style="margin:0px 10px 0px 5px; line-height:110%">
+                                <span class="kao-color"><font size="2px">{{item.name}}</font></span>
                             </div>
-                        </ons-col>
-                    </ons-row>
-                </div>
-                <div style="border-color: white">
-                    <ons-list-item
-                            class="topcoat-list__item--tappable topcoat-list__item__line-height"
-                            ng-repeat="product in item.product"
-                            ng-click="showProduct(product.key)">
-                        <ons-row align="center">
-                            <ons-col class="left">
-                                <div style="margin:13px 10px 0px 10px; line-height:110%">
+                        </td>
+                    </tr>
+                </table>
+                <ons-list-item
+                        class="topcoat-list__item--tappable topcoat-list__item__line-height"
+                        ng-repeat="product in item.product"
+                        ng-click="showProduct(product.key)">
+                    <!-- なぜか ons-row、ons-col を使うとAndroid端末で崩れるため、Tableタグを利用-->
+                    <table>
+                        <tr>
+                            <td>
+                                <!-- line-height で行間をあける -->
+                                <div align="left" style="margin:13px 10px 0px 10px; line-height:110%">
                                     <font size="2px">{{product.name}}<font color="grey">（{{product.product_num}}）</font></font>
                                 </div>
-                            </ons-col>
-                            <ons-col size="20">
+                            </td>
+                            <td width="20%">
                                 <!-- スライドで隠れてしまう部分 -->
-                            </ons-col>
-                        </ons-row>
-                    </ons-list-item>
-                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </ons-list-item>
             </div>
         </ons-list>
     </div>

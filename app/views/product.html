@@ -7,21 +7,25 @@
         <div ng-controller="ProductCtrl">
             <ons-list>
                 <ons-list-item
-                        class="topcoat-list__item--tappable topcoat-list__item__line-height"
-                        ng-repeat="item in items"
-                        ng-click="showItem($index)">
-                    <ons-row align="center">
-                        <ons-col class="center" size="10">
-                            <div style="margin-top:20px">
-                                <img ng-src="http://www.kao.com{{item.img_s}}" width="40">
-                            </div>
-                        </ons-col>
-                        <ons-col class="left">
-                            <div style="margin:5px 10px 0px 10px; line-height:90%">
-                                <font size="2px">{{item.name}}<font color="grey">（{{item.lineup_num}}）</font></font>
-                            </div>
-                        </ons-col>
-                    </ons-row>
+                    class="topcoat-list__item--tappable topcoat-list__item__line-height"
+                    ng-repeat="item in items"
+                    ng-click="showItem($index)">
+                    <!-- なぜか ons-row、ons-col を使うとAndroid端末で崩れるため、Tableタグを利用-->
+                    <table>
+                        <tr>
+                            <td>
+                                <div align ="center" style="margin-top:20px">
+                                    <img ng-src="http://www.kao.com{{item.img_s}}" width="50">
+                                </div>
+                            </td>
+                            <td>
+                                <!-- line-height で行間をつめる -->
+                                <div align="left" style="margin:5px 10px 0px 10px; line-height:90%">
+                                    <font size="2px">{{item.name}}<font color="grey">（{{item.lineup_num}}）</font></font>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
                 </ons-list-item>
             </ons-list>
         </div>

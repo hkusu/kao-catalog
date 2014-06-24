@@ -15,15 +15,15 @@
                     <font color="grey">{{item.text}}</font>
                 </div>
                 <div ng-show={{show_lineup}}>
-                <span class="kao-color">
-                    <h4>その他のラインアップ</h4>
-                </span>
-                <ons-row>
-                    <ons-col align="center" ng-repeat="lineup in item.lineup">
-                         <img ng-src="http://www.kao.com{{lineup.img}}" width="100">
-                         <br>
-                         <font size="2px">{{lineup.name}}</font>
-                         </ons-col>
+                    <span class="kao-color">
+                        <h4>その他のラインアップ</h4>
+                    </span>
+                    <ons-row>
+                        <ons-col align="center" ng-repeat="lineup in item.lineup">
+                             <img ng-src="http://www.kao.com{{lineup.img}}" width="100">
+                             <br>
+                             <font size="2px">{{lineup.name}}</font>
+                             </ons-col>
                     </ons-row>
                 </div>
                 <br>
