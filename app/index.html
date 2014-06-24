@@ -5,30 +5,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
     <title>花王 カタログ</title>
     <meta name="description" content="">
+    <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.ico">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" type="image/png">
 
     <!-- monaca plugin loader -->
     <script src="plugins/plugin-loader.js"></script>
     <link rel="stylesheet" href="plugins/plugin-loader.css">
 
-    <!-- onsen ui -->
-    <link rel="stylesheet" href="bower_components/onsenui/build/css/onsenui.css">
+    <!-- build:css styles/vendor.css -->
     <link rel="stylesheet" href="bower_components/onsenui/build/css/topcoat-mobile-onsen-ios7.css">
+    <!-- endbuild -->
+    <!-- onsen.cssをminifyすると何故かアイコンが表示されなかったので対象から外す -->
+    <link rel="stylesheet" href="bower_components/onsenui/build/css/onsenui.css">
 
-    <!-- my CSS -->
+    <!-- build:css({.tmp,app}) styles/main.css -->
     <link rel="stylesheet" href="styles/main.css">
+    <!-- endbuild -->
   </head>
   <body ng-app="kaoCatalogApp">
 
     <ons-screen page="views/slide.html"></ons-screen>
 
-    <!-- AngularJS & onsen ui -->
+    <!-- build:js scripts/vendor.js -->
     <script src="bower_components/angular/angular.js"></script>
     <script src="bower_components/onsenui/build/js/onsenui.js"></script>
+    <!-- endbuild -->
 
-    <!-- my JS -->
+    <!-- build:js({.tmp,app}) scripts/scripts.js -->
     <script src="scripts/app.js"></script>
     <script src="scripts/controllers/main.js"></script>
     <script src="scripts/services/data.js"></script>
-
+    <!-- endbuild -->
   </body>
 </html>
