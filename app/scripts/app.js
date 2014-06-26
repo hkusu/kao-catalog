@@ -1,6 +1,7 @@
 'use strict';
 
 angular.module('kaoCatalogApp', [
-  'onsen.directives'
+  'onsen.directives',
+  'angular-intro'
 ]);
 

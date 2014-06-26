@@ -19,6 +19,39 @@ angular.module('kaoCatalogApp')
             $scope.ons.slidingMenu.setBehindPage('views/category.html');
             $scope.ons.slidingMenu.toggleMenu();
         };
+
+        // チュートリアル（angular-intro.js）用の設定
+        $scope.IntroOptions = {
+            steps:[
+                {
+                    element: '#step1',
+                    intro: "花王製品を商品のブランド名から探します。<br><font size='1px'>例）アジエンス</font>",
+                    position: 'bottom'
+                },
+                {
+                    element: '#step2',
+                    intro: "花王製品を商品のカテゴリー名から探します。<br><font size='1px'>例）フェイスケア</font>",
+                    position: 'top'
+                },
+                {
+                    element: '#step3',
+                    intro: "左上のボタンを押すとスライドメニューが開きます。",
+                    position: 'bottom'
+                },
+                {
+                    element: '#step4',
+                    intro: "スライドメニューは画面を右にフリックしても開くことができます。",
+                    position: 'right'
+                }
+            ],
+            showStepNumbers: false,
+            exitOnOverlayClick: true,
+            exitOnEsc: true,
+            nextLabel: '<span style="color:blue"><strong>次へ</strong></span>',
+            prevLabel: '<span style="color:green">戻る</span>',
+            skipLabel: 'スキップする',
+            doneLabel: '<span style="color:black"><strong>終了</strong></span>'
+        };
     }])
     // ブランド一覧ページ用（views/brand.html）のController
     .controller('BrandCtrl', ['$scope', 'JsonData', 'ShareData', function ($scope, JsonData, ShareData) {
