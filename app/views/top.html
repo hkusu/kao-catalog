@@ -9,21 +9,7 @@
                  ng-intro-method="CallMe"
                  ng-intro-autostart="false">
                 <br>
-                <img ng-src="images/kao_common_header_ci.gif">
-                <br>
-                <br>
-                <ons-button ng-click="showBrand()"><i class="fa fa-search" style="font-size:14px"></i>&nbsp;<span id="step1">ブラ</span>ンド名から探す</ons-button>
-                <br>
-                <span id="step4" style="margin-right:380px">&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <br>
-                <ons-button ng-click="showCategory()"><i class="fa fa-search" style="font-size:14px"></i>&nbsp;<span id="step2">カテ</span>ゴリーから探す</ons-button>
-                <br>
-                <br>
-                <span ng-click="ons.screen.presentPage('views/about.html')">
-                    <font color="grey" size="2px">
-                        <i class="fa fa-info-circle"></i>&nbsp;<u>このサイトについて</u>
-                    </font>
-                </span>
+                <img ng-src="images/kao_common_header_ci.gif" width="120">
                 <br>
                 <br>
                 <span ng-click="CallMe()">
@@ -31,9 +17,23 @@
                         <i class="fa fa-book"></i>&nbsp;<u>つかいかた</u>
                     </font>
                 </span>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <br>
+                <span id="step4" style="margin-right:350px">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                <br>
+                <ons-button ng-click="showBrand()"><i class="fa fa-search" style="font-size:14px"></i>&nbsp;ブ<span id="step1">ラン</span>ドから探す</ons-button>
+                <br>
+                <br>
+                <ons-button ng-click="showCategory()"><i class="fa fa-search" style="font-size:14px"></i>&nbsp;&nbsp;&nbsp;&nbsp;<span id="step2">目的</span>から探す&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ons-button>
+                <br>
+                <br>
+                <span ng-click="ons.screen.presentPage('views/about.html')">
+                    <font color="grey" size="1px">
+                        <i class="fa fa-info-circle"></i>&nbsp;<u>このサイトについて</u>
+                    </font>
+                </span>
+                &nbsp;&nbsp;
                 <span ng-click="ons.screen.presentPage('views/creator.html')">
-                    <font color="grey" size="2px">
+                    <font color="grey" size="1px">
                         <i class="fa fa-user"></i>&nbsp;<u>つくったひと</u>
                     </font>
                 </span>

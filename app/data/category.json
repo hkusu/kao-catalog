@@ -1,455 +1,480 @@
 [
     {
-        "name": "フェイスケア製品",
+        "name": "フェイスケア",
         "img": "/jp/kao_imgs/products/facecare.jpg",
-        "product": [
+        "brand": [
             {
-                "key": "facialcleansing",
-                "name":"洗顔料",
-                "product_num": 31
+                "key": "biore",
+                "img": "/jp/kao_imgs/biore/biore_logo_s.jpg",
+                "name":"ビオレ"
             },
             {
-                "key": "makecleansing",
-                "name":"メイク落とし",
-                "product_num": 21
+                "key": "mensbiore",
+                "img": "/jp/kao_imgs/mensbiore/mensbiore_logo_s.jpg",
+                "name":"メンズビオレ"
             },
             {
-                "key": "facesheet",
-                "name":"顔用シート",
-                "product_num": 14
+                "key": "curel",
+                "img": "/jp/kao_imgs/curel/curel_logo_s.jpg",
+                "name":"キュレル"
             },
             {
-                "key": "lotion",
-                "name":"化粧水・乳液・クリーム",
-                "product_num": 48
+                "key": "niveaformen",
+                "img": "/jp/kao_imgs/niveaformen/niveaformen_logo_s.jpg",
+                "name":"ニベアフォーメン"
             },
             {
-                "key": "essence",
-                "name":"美容液",
-                "product_num": 2
+                "key": "bioresarasarauv",
+                "img": "/jp/kao_imgs/bioresarasarauv/bioresarasarauv_logo_s.jpg",
+                "name":"ビオレ さらさらUV"
             },
             {
-                "key": "facesunscreen",
-                "name":"日やけ止め〔顔用〕",
-                "product_num": 10
+                "key": "nivea",
+                "img": "/jp/kao_imgs/nivea/nivea_logo_s.jpg",
+                "name":"ニベア"
             },
             {
-                "key": "foundation",
-                "name":"ファンデーション",
-                "product_num": 14
-            },
-            {
-                "key": "pack",
-                "name":"パック",
-                "product_num": 6
-            },
-            {
-                "key": "lipcare",
-                "name":"リップケア",
-                "product_num": 21
-            },
-            {
-                "key": "shaving",
-                "name":"シェービング",
-                "product_num": 9
+                "key": "success",
+                "img": "/jp/kao_imgs/success/success_logo_s.jpg",
+                "name":"サクセス"
             }
         ]
     },
     {
-        "name": "ボディケア製品",
+        "name": "ボディケア",
         "img": "/jp/kao_imgs/products/bodycare.jpg",
-        "product": [
+        "brand": [
             {
-                "key": "soap",
-                "name":"石鹸",
-                "product_num": 12
+                "key": "white",
+                "img": "/jp/kao_imgs/white/white_logo_s.jpg",
+                "name":"花王ホワイト"
             },
             {
-                "key": "bodysoap",
-                "name":"全身洗浄料・洗浄用具",
-                "product_num": 51
+                "key": "purewhip",
+                "img": "/jp/kao_imgs/purewhip/purewhip_logo_s.jpg",
+                "name":"花王ピュアホイップ"
             },
             {
-                "key": "handsoap",
-                "name":"ハンドソープ",
-                "product_num": 12
+                "key": "bioreu",
+                "img": "/jp/kao_imgs/bioreu/bioreu_logo_s.jpg",
+                "name":"ビオレu"
             },
             {
-                "key": "handcare",
-                "name":"ハンドケア",
-                "product_num": 16
+                "key": "biorebodydeli",
+                "img": "/jp/kao_imgs/biorebodydeli/biorebodydeli_logo_s.jpg",
+                "name":"ビオレ ボディデリ"
             },
             {
-                "key": "bodycream",
-                "name":"ボディケア",
-                "product_num": 33
+                "key": "mensbiore",
+                "img": "/jp/kao_imgs/mensbiore/mensbiore_logo_s.jpg",
+                "name":"メンズビオレ"
             },
             {
-                "key": "facebodysunscreen",
-                "name":"日やけ止め〔顔・からだ用〕",
-                "product_num": 17
+                "key": "curel",
+                "img": "/jp/kao_imgs/curel/curel_logo_s.jpg",
+                "name":"キュレル"
             },
             {
-                "key": "sunscreen",
-                "name":"日やけ止め〔からだ用〕",
-                "product_num": 1
+                "key": "nivea",
+                "img": "/jp/kao_imgs/nivea/nivea_logo_s.jpg",
+                "name":"ニベア"
             },
             {
-                "key": "bodysheet",
-                "name":"ボディ用シート",
-                "product_num": 20
+                "key": "atrix",
+                "img": "/jp/kao_imgs/atrix/atrix_logo_s.jpg",
+                "name":"アトリックス"
             },
             {
-                "key": "deodorant",
-                "name":"制汗・デオドラント剤",
-                "product_num": 56
+                "key": "emollica",
+                "img": "/jp/kao_imgs/emollica/emollica_logo_s.jpg",
+                "name":"エモリカ"
+            },
+            {
+                "key": "bioresarasarauv",
+                "img": "/jp/kao_imgs/bioresarasarauv/bioresarasarauv_logo_s.jpg",
+                "name":"ビオレ さらさらUV"
+            },
+            {
+                "key": "niveaformen",
+                "img": "/jp/kao_imgs/niveaformen/niveaformen_logo_s.jpg",
+                "name":"ニベアフォーメン"
+            },
+            {
+                "key": "bioresarasara",
+                "img": "/jp/kao_imgs/bioresarasara/bioresarasara_logo_s.jpg",
+                "name":"ビオレ さらさらパウダーシート"
+            },
+            {
+                "key": "bioreurusara",
+                "img": "/jp/kao_imgs/bioreurusara/bioreurusara_logo_s.jpg",
+                "name":"ビオレ うるさらボディケアシート"
+            },
+            {
+                "key": "8x4",
+                "img": "/jp/kao_imgs/8x4/8x4_logo_s.jpg",
+                "name":"８×４"
+            },
+            {
+                "key": "8x4men",
+                "img": "/jp/kao_imgs/8x4men/8x4men_logo_s.jpg",
+                "name":"８×４ MEN"
             }
         ]
     },
     {
-        "name": "オーラルケア製品",
+        "name": "オーラルケア",
         "img": "/jp/kao_imgs/products/oralcare.jpg",
-        "product": [
+        "brand": [
             {
-                "key": "toothpaste",
-                "name":"ハミガキ",
-                "product_num": 30
+                "key": "clearclean",
+                "img": "/jp/kao_imgs/clearclean/clearclean_logo_s.jpg",
+                "name":"クリアクリーン"
             },
             {
-                "key": "toothseat",
-                "name":"歯みがきシート",
-                "product_num": 1
+                "key": "pyuora",
+                "img": "/jp/kao_imgs/pyuora/pyuora_logo_s.jpg",
+                "name":"ピュオーラ"
             },
             {
-                "key": "toothliquid",
-                "name":"液体ハミガキ",
-                "product_num": 4
+                "key": "deepclean",
+                "img": "/jp/kao_imgs/deepclean/deepclean_logo_s.jpg",
+                "name":"ディープクリーン"
             },
             {
-                "key": "mouthwash",
-                "name":"洗口液",
-                "product_num": 5
+                "key": "tsubushio",
+                "img": "/jp/kao_imgs/tsubushio/tsubushio_logo_s.jpg",
+                "name":"つぶ塩"
             },
             {
-                "key": "toothbrush",
-                "name":"ハブラシ",
-                "product_num": 35
+                "key": "guardhalo",
+                "img": "/jp/kao_imgs/guardhalo/guardhalo_logo_s.jpg",
+                "name":"ガードハロー"
             },
             {
-                "key": "travelgoods",
-                "name":"携帯用歯みがきセット",
-                "product_num": 4
+                "key": "check",
+                "img": "/jp/kao_imgs/check/check_logo_s.jpg",
+                "name":"チェック"
             }
         ]
     },
     {
-        "name": "インバスヘルスケア",
+        "name": "インバスヘルス",
         "img": "/jp/kao_imgs/products/bath.jpg",
-        "product": [
+        "brand": [
             {
-                "key": "bathpowder",
-                "name":"入浴剤",
-                "product_num": 36
+                "key": "bub",
+                "img": "/jp/kao_imgs/bub/bub_logo_s.jpg",
+                "name":"バブ"
             },
             {
-                "key": "showercare",
-                "name":"シャワーケア",
-                "product_num": 13
+                "key": "emollica",
+                "img": "/jp/kao_imgs/emollica/emollica_logo_s.jpg",
+                "name":"エモリカ"
+            },
+            {
+                "key": "bioreu",
+                "img": "/jp/kao_imgs/bioreu/bioreu_logo_s.jpg",
+                "name":"ビオレu"
+            },
+            {
+                "key": "curel",
+                "img": "/jp/kao_imgs/curel/curel_logo_s.jpg",
+                "name":"キュレル"
+            },
+            {
+                "key": "showertimebub",
+                "img": "/jp/kao_imgs/showertimebub/showertimebub_logo_s.jpg",
+                "name":"シャワータイムバブ"
+            },
+            {
+                "key": "bubshower",
+                "img": "/jp/kao_imgs/bubshower/bubshower_logo_s.jpg",
+                "name":"バブ爽快シャワー"
             }
         ]
     },
     {
-        "name": "ヘアケア製品",
+        "name": "ヘアケア",
         "img": "/jp/kao_imgs/products/haircare.jpg",
-        "product": [
+        "brand": [
             {
-                "key": "shampoo",
-                "name":"シャンプー・リンス・トリートメント",
-                "product_num": 89
+                "key": "segreta",
+                "img": "/jp/kao_imgs/segreta/segreta_logo_s.jpg",
+                "name":"セグレタ"
             },
             {
-                "key": "treatment",
-                "name":"洗い流さないトリートメント",
-                "product_num": 13
+                "key": "asience",
+                "img": "/jp/kao_imgs/asience/asience_logo_s.jpg",
+                "name":"アジエンス"
             },
             {
-                "key": "scalpconditioner",
-                "name":"地肌コンディショナー＆地肌マッサージャー",
-                "product_num": 4
+                "key": "essential",
+                "img": "/jp/kao_imgs/essential/essential_logo_s.jpg",
+                "name":"エッセンシャル"
             },
             {
-                "key": "scalpesthetique",
-                "name":"地肌エステ（育毛剤）",
-                "product_num": 1
+                "key": "merit",
+                "img": "/jp/kao_imgs/merit/merit_logo_s.jpg",
+                "name":"メリット"
             },
             {
-                "key": "hairrestorer",
-                "name":"育毛剤",
-                "product_num": 10
+                "key": "curel",
+                "img": "/jp/kao_imgs/curel/curel_logo_s.jpg",
+                "name":"キュレル"
+            },
+            {
+                "key": "success",
+                "img": "/jp/kao_imgs/success/success_logo_s.jpg",
+                "name":"サクセス"
+            },
+            {
+                "key": "blauneikumou",
+                "img": "/jp/kao_imgs/blauneikumou/blauneikumou_logo_s.jpg",
+                "name":"ブローネ薬用育毛"
             }
         ]
     },
     {
-        "name": "ヘアスタイリング剤",
+        "name": "ヘアスタイリング",
         "img": "/jp/kao_imgs/products/hairstyling.jpg",
-        "product": [
+        "brand": [
             {
-                "key": "hairstyle",
-                "name":"ヘアスタイリング剤",
-                "product_num": 50
+                "key": "liese",
+                "img": "/jp/kao_imgs/liese/liese_logo_s.jpg",
+                "name":"リーゼ"
             },
             {
-                "key": "hairspray",
-                "name":"ヘアスプレー",
-                "product_num": 25
+                "key": "success",
+                "img": "/jp/kao_imgs/success/success_logo_s.jpg",
+                "name":"サクセス"
             },
             {
-                "key": "brushingspray",
-                "name":"ブラッシング剤",
-                "product_num": 1
+                "key": "cape",
+                "img": "/jp/kao_imgs/cape/cape_logo_s.jpg",
+                "name":"ケープ"
             }
         ]
     },
     {
-        "name": "ヘアカラーリング剤",
+        "name": "ヘアカラーリング",
         "img": "/jp/kao_imgs/products/haircoloring.jpg",
-        "product": [
+        "brand": [
             {
-                "key": "haircolor",
-                "name":"ヘアカラー",
-                "product_num": 98
+                "key": "blaune",
+                "img": "/jp/kao_imgs/blaune/blaune_logo_s.jpg",
+                "name":"ブローネ"
             },
             {
-                "key": "hairbleach",
-                "name":"ヘアブリーチ",
-                "product_num": 2
+                "key": "prettia",
+                "img": "/jp/kao_imgs/prettia/prettia_logo_s.jpg",
+                "name":"プリティア"
             },
             {
-                "key": "hairmanicure",
-                "name":"ヘアマニキュア",
-                "product_num": 14
+                "key": "mensblaune",
+                "img": "/jp/kao_imgs/mensblaune/mensblaune_logo_s.jpg",
+                "name":"メンズブローネ"
             },
             {
-                "key": "hairdye",
-                "name":"ヘアカラーリングの合間に染めるタイプ",
-                "product_num": 7
-            },
-            {
-                "key": "whitecare",
-                "name":"白髪ケア",
-                "product_num": 1
+                "key": "success",
+                "img": "/jp/kao_imgs/success/success_logo_s.jpg",
+                "name":"サクセス"
             }
         ]
     },
     {
-        "name": "衣類・布製品のお手入れ品",
+        "name": "衣類・布製品のお手入れ",
         "img": "/jp/kao_imgs/products/fabriccare.jpg",
-        "product": [
+        "brand": [
             {
-                "key": "clothcleanser",
-                "name":"洗たく用洗剤",
-                "product_num": 25
+                "key": "attack",
+                "img": "/jp/kao_imgs/attack/attack_logo_s.jpg",
+                "name":"アタック"
             },
             {
-                "key": "softcleanser",
-                "name":"柔軟仕上げ剤",
-                "product_num": 34
+                "key": "newbeads",
+                "img": "/jp/kao_imgs/newbeads/newbeads_logo_s.jpg",
+                "name":"ニュービーズ"
             },
             {
-                "key": "clothbleach",
-                "name":"衣料用漂白剤",
-                "product_num": 13
+                "key": "emal",
+                "img": "/jp/kao_imgs/emal/emal_logo_s.jpg",
+                "name":"エマール"
             },
             {
-                "key": "starch",
-                "name":"のり剤",
-                "product_num": 4
+                "key": "humming",
+                "img": "/jp/kao_imgs/humming/humming_logo_s.jpg",
+                "name":"ハミング"
             },
             {
-                "key": "clothfinisher",
-                "name":"衣料用スタイリング剤",
-                "product_num": 4
+                "key": "flairfragrance",
+                "img": "/jp/kao_imgs/flairfragrance/flairfragrance_logo_s.jpg",
+                "name":"フレア フレグランス"
             },
             {
-                "key": "clothfregrance",
-                "name":"衣料用フレグランス",
-                "product_num": 8
+                "key": "haiter",
+                "img": "/jp/kao_imgs/haiter/haiter_logo_s.jpg",
+                "name":"ハイター"
             },
             {
-                "key": "clothdeodorant",
-                "name":"衣類・布製品・空間用消臭剤",
-                "product_num": 16
+                "key": "widehaiter",
+                "img": "/jp/kao_imgs/widehaiter/widehaiter_logo_s.jpg",
+                "name":"ワイドハイター"
             },
             {
-                "key": "clotharomamist",
-                "name":"空間・衣類・布用アロマミスト",
-                "product_num": 6
+                "key": "keeping",
+                "img": "/jp/kao_imgs/keeping/keeping_logo_s.jpg",
+                "name":"キーピング"
+            },
+            {
+                "key": "stylecare",
+                "img": "/jp/kao_imgs/stylecare/stylecare_logo_s.jpg",
+                "name":"スタイルケア"
+            },
+            {
+                "key": "resesh",
+                "img": "/jp/kao_imgs/resesh/resesh_logo_s.jpg",
+                "name":"リセッシュ"
             }
         ]
     },
     {
-        "name": "台所のお手入れ品",
+        "name": "台所のお手入れ",
         "img": "/jp/kao_imgs/products/kitchencare.jpg",
-        "product": [
+        "brand": [
             {
-                "key": "kitchencleanser",
-                "name":"食器用洗剤",
-                "product_num": 30
+                "key": "kyukyutto",
+                "img": "/jp/kao_imgs/kyukyutto/kyukyutto_logo_s.jpg",
+                "name":"キュキュット"
             },
             {
-                "key": "kitchenbleach",
-                "name":"台所用漂白剤",
-                "product_num": 6
+                "key": "family",
+                "img": "/jp/kao_imgs/family/family_logo_s.jpg",
+                "name":"ファミリー"
             },
             {
-                "key": "kitchencleaning",
-                "name":"台所のそうじ用品",
-                "product_num": 15
+                "key": "haiter",
+                "img": "/jp/kao_imgs/haiter/haiter_logo_s.jpg",
+                "name":"ハイター"
             },
             {
-                "key": "cleanser",
-                "name":"クレンザー類",
-                "product_num": 4
+                "key": "magiclean",
+                "img": "/jp/kao_imgs/magiclean/magiclean_logo_s.jpg",
+                "name":"マジックリン"
+            },
+            {
+                "key": "quickle",
+                "img": "/jp/kao_imgs/quickle/quickle_logo_s.jpg",
+                "name":"クイックル"
+            },
+            {
+                "key": "quickpunch",
+                "img": "/jp/kao_imgs/quickpunch/quickpunch_logo_s.jpg",
+                "name":"クイックパンチ"
+            },
+            {
+                "key": "homing",
+                "img": "/jp/kao_imgs/homing/homing_logo_s.jpg",
+                "name":"ホーミング"
             }
         ]
     },
     {
-        "name": "住まいのお手入れ品",
+        "name": "住まいのお手入れ",
         "img": "/jp/kao_imgs/products/housecare.jpg",
-        "product": [
+        "brand": [
             {
-                "key": "housecleanser",
-                "name":"住居用洗剤",
-                "product_num": 14
+                "key": "magiclean",
+                "img": "/jp/kao_imgs/magiclean/magiclean_logo_s.jpg",
+                "name":"マジックリン"
             },
             {
-                "key": "housewiper",
-                "name":"住居用ワイパー",
-                "product_num": 18
+                "key": "mypet",
+                "img": "/jp/kao_imgs/mypet/mypet_logo_s.jpg",
+                "name":"マイペット"
             },
             {
-                "key": "housecleaning",
-                "name":"ハウスダスト除去剤",
-                "product_num": 2
+                "key": "haiter",
+                "img": "/jp/kao_imgs/haiter/haiter_logo_s.jpg",
+                "name":"ハイター"
             },
             {
-                "key": "bathcare",
-                "name":"お風呂のお手入れ品",
-                "product_num": 14
+                "key": "quickle",
+                "img": "/jp/kao_imgs/quickle/quickle_logo_s.jpg",
+                "name":"クイックル"
             },
             {
-                "key": "toiletcare",
-                "name":"トイレのお手入れ品",
-                "product_num": 23
+                "key": "furomizuwonder",
+                "img": "/jp/kao_imgs/furomizuwonder/furomizuwonder_logo_s.jpg",
+                "name":"ふろ水ワンダー"
             }
         ]
     },
     {
         "name": "食品",
         "img": "/jp/kao_imgs/products/food.jpg",
-        "product": [
+        "brand": [
             {
-                "key": "drink",
-                "name":"飲料",
-                "product_num": 12
+                "key": "healthya",
+                "img": "/jp/kao_imgs/healthya/healthya_logo_s.jpg",
+                "name":"ヘルシア"
             }
         ]
     },
     {
         "name": "衛生用品",
         "img": "/jp/kao_imgs/products/sanitary.jpg",
-        "product": [
+        "brand": [
             {
-                "key": "babydiaper",
-                "name":"ベビー用紙おむつ",
-                "product_num": 15
+                "key": "merries",
+                "img": "/jp/kao_imgs/merries/merries_logo_s.jpg",
+                "name":"メリーズ"
             },
             {
-                "key": "hipsheet",
-                "name":"おしりふき",
-                "product_num": 5
+                "key": "laurier",
+                "img": "/jp/kao_imgs/laurier/laurier_logo_s.jpg",
+                "name":"ロリエ"
             },
             {
-                "key": "napkin",
-                "name":"生理用ナプキン",
-                "product_num": 33
+                "key": "safety",
+                "img": "/jp/kao_imgs/safety/safety_logo_s.jpg",
+                "name":"吸水セーフティ"
             },
             {
-                "key": "menstruationpanties",
-                "name":"サニタリーショーツ",
-                "product_num": 18
+                "key": "smartguard",
+                "img": "/jp/kao_imgs/smartguard/smartguard_logo_s.jpg",
+                "name":"スマートガード"
             },
             {
-                "key": "dischargesheet",
-                "name":"パンティライナー",
-                "product_num": 10
+                "key": "relief",
+                "img": "/jp/kao_imgs/relief/relief_logo_s.jpg",
+                "name":"リリーフ"
             },
             {
-                "key": "pantyliner",
-                "name":"吸水パンティライナー・ナプキン（軽失禁）",
-                "product_num": 24
-            },
-            {
-                "key": "malepad",
-                "name":"男性用吸水ガード（軽失禁）",
-                "product_num": 2
-            },
-            {
-                "key": "adultdiaper",
-                "name":"大人用紙おむつ〔パンツ・テープ式〕",
-                "product_num": 19
-            },
-            {
-                "key": "urinepad",
-                "name":"大人用紙おむつ〔尿とりパッド〕",
-                "product_num": 9
-            },
-            {
-                "key": "incontinencegoods",
-                "name":"軽失禁用パッド",
-                "product_num": 2
-            },
-            {
-                "key": "caregoods",
-                "name":"介護用品",
-                "product_num": 6
-            },
-            {
-                "key": "hipscare",
-                "name":"おしりのケア用品",
-                "product_num": 6
+                "key": "sanina",
+                "img": "/jp/kao_imgs/sanina/sanina_logo_s.jpg",
+                "name":"サニーナ"
             }
         ]
     },
     {
         "name": "温熱用品",
         "img": "/jp/kao_imgs/products/medicaltools.jpg",
-        "product": [
+        "brand": [
             {
-                "key": "onnetsu",
-                "name":"蒸気が出る温熱シート（一般医療機器）",
-                "product_num": 7
-            },
-            {
-                "key": "steamsheet",
-                "name":"おやすみ前に蒸気で温めるシート",
-                "product_num": 4
-            },
-            {
-                "key": "eyemask",
-                "name":"蒸気で温めるアイマスク",
-                "product_num": 14
+                "key": "megurhythm",
+                "img": "/jp/kao_imgs/megurhythm/megurhythm_logo_s.jpg",
+                "name":"めぐりズム"
             }
         ]
     },
     {
         "name": "ペット用品",
         "img": "/jp/kao_imgs/products/petcare.jpg",
-        "product": [
+        "brand": [
             {
-                "key": "pettoilet",
-                "name":"ペットのトイレ",
-                "product_num": 9
+                "key": "nyantomo",
+                "img": "/jp/kao_imgs/nyantomo/nyantomo_logo_s.jpg",
+                "name":"ニャンとも"
             }
         ]
     }

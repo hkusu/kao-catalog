@@ -1,15 +1,19 @@
 <ons-page class="center">
-    <div ng-controller="BrandCtrl">
+    <div ng-controller="SubCategoryCtrl">
         <ons-list>
             <div align="left" style="margin:10px 10px 10px 10px">
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <span ng-click="ons.slidingMenu.setBehindPage('views/category.html')">
-                    <i class="fa fa-repeat"></i>&nbsp;<u>目的一覧へ</u>
+                    <!-- popPage() だと setAbovePage() 後にスタックが消えてしまっている為、ここは setBehindPage() を利用 -->
+                    <i class="fa fa-chevron-left"></i>&nbsp;戻る
                 </span>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <font size="1px" color="black">
+                    {{items.name}}
+                </font>
             </div>
             <ons-list-item
                     class="topcoat-list__item--tappable topcoat-list__item__line-height"
-                    ng-repeat="item in items"
+                    ng-repeat="item in items.brand"
                     ng-click="showProduct(item.key)">
                 <!-- なぜか ons-row、ons-col を使うとAndroid端末で崩れるため、Tableタグを利用-->
                 <table>
@@ -22,7 +26,7 @@
                         <td>
                             <!-- line-height で行間をあける -->
                             <div align="left" style="margin:5px 10px 0px 15px; line-height:110%">
-                                <font size="2px">{{item.name}}<font color="grey">（{{item.product_num}}）</font></font>
+                                <font size="2px">{{item.name}}</font>
                             </div>
                         </td>
                         <td width="20%">

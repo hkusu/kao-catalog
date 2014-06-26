@@ -26,11 +26,11 @@ angular.module('kaoCatalogApp')
                 {
                     element: '#step1',
                     intro: "花王製品を商品のブランド名から探します。<br><font size='1px'>例）アジエンス</font>",
-                    position: 'bottom'
+                    position: 'top'
                 },
                 {
                     element: '#step2',
-                    intro: "花王製品を商品のカテゴリー名から探します。<br><font size='1px'>例）フェイスケア</font>",
+                    intro: "花王製品を目的から探します。<br><font size='1px'>例）フェイスケア</font>",
                     position: 'top'
                 },
                 {
@@ -70,13 +70,27 @@ angular.module('kaoCatalogApp')
             $scope.ons.slidingMenu.setAbovePage('views/product.html');
         };
     }])
-    // カテゴリー一覧ページ用（views/category.html）のController
+    // カテゴリーページ用（views/category.html）のController
     .controller('CategoryCtrl', ['$scope', 'JsonData', 'ShareData', function ($scope, JsonData, ShareData) {
 
         // カテゴリー一覧用のデータをJSONファイルから取得
         JsonData.getCategoryData().then(function($response) {
             $scope.items = $response.data;
         });
+
+        $scope.showSubCategory = function(index){
+
+            // 選択したカテゴリーを引き渡したいのでFactoryへ保存
+            ShareData.selectedCategory = $scope.items[index];
+            // 目的一覧サブページを表示
+            $scope.ons.navigator.pushPage('views/category_sub.html');
+        };
+    }])
+    // サブカテゴリーページ用（views/category_sub.html）のController
+    .controller('SubCategoryCtrl', ['$scope', 'ShareData', function ($scope, ShareData) {
+
+        // Factoryからカテゴリーのデータを取得
+        $scope.items = ShareData.selectedCategory;
 
         $scope.showProduct = function(list_key){
 
@@ -98,10 +112,8 @@ angular.module('kaoCatalogApp')
 
         $scope.showItem = function(index){
 
-            // 画面で選択した製品のデータを取得
-            var selectedItem = $scope.items[index];
             // 選択した製品を引き渡したいのでFactoryへ保存
-            ShareData.selectedItem = selectedItem;
+            ShareData.selectedItem = $scope.items[index];
             // 各製品の詳細ページを表示
             $scope.ons.screen.presentPage('views/item.html');
         };
