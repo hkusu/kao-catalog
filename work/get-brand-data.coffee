@@ -63,7 +63,6 @@
 #  "laurier"
 #  "widehaiter"
 
-links = []
 casper = require("casper").create()
 
 getPtag = ->
@@ -85,21 +84,31 @@ getLinupText = ->
 casper.start "http://google.fr/", ->
 
   # ブランド名をここに指定
-  brand = "asience"
+  brand = "humming"
 
   url = "http://www.kao.com/jp/" + brand + "/index.html"
   @thenOpen url, ->
     @echo "["
 
+    urls = []
+
     # 各商品のURLの一覧を取得
-    links = @evaluate((brand_name) ->
-      links = document.querySelectorAll("a[href^=\"/jp/" + brand_name + "/\"]")
-      Array::map.call links, (e) ->
+    urls = @evaluate((brand_name) ->
+      urls = document.querySelectorAll("a[href^=\"/jp/" + brand_name + "/\"]")
+      Array::map.call urls, (e) ->
         e.getAttribute('href');
         #e.getAttribute('src');
         #e.text
     , brand)
     #@echo(" - " + links.join("\n - "))
+
+    links = []
+    n = 0
+    while n < urls.length
+      if urls[n].match(/index.html/)
+      else
+        links.push(urls[n])
+      n++
 
     j = 0
     k = links.length
@@ -112,10 +121,12 @@ casper.start "http://google.fr/", ->
         @echo "  {"
 
         # 画像URL(S)用の出力
-        @echo "    \"img_s\": " + "\"#AAAAA#" + link + "#BBBBB#\","
+        link = link.replace(/\.html/g,"");
+        link = link.replace(/\/jp/g,"");
+        @echo "    \"img_s\": " + "\"/jp/kao_imgs" + link + "_img_s.jpg\","
 
         # 画像URL(L)用の出力
-        @echo "    \"img_l\": " + "\"#BBBBB#" + link + "#CCCCC#\","
+        @echo "    \"img_l\": " + "\"/jp/kao_imgs" + link + "_img_l.jpg\","
 
         # 商品名の出力
         @echo "    \"name\": " + "\"" + @getTitle() + "\","
@@ -128,13 +139,52 @@ casper.start "http://google.fr/", ->
           m++
         m = 0
         while m < links_sub.length
-          links_sub[m] = links_sub[m].replace(/[<br>]/g,"");
+          links_sub[m] = links_sub[m].replace(/<br>/g,"");
           m++
-        @echo("    \"text\": \"" + links_sub.join("\",\n    \"text\": \"") + "\",")
+        m = 0
+        while m < links_sub.length
+          links_sub[m] = links_sub[m].replace(/\"/g,"");
+          m++
+        m = 0
+        while m < links_sub.length
+          links_sub[m] = links_sub[m].replace(/<span.+?>/g,"")
+          m++
+        m = 0
+        while m < links_sub.length
+          links_sub[m] = links_sub[m].replace(/<\/span>/g,"")
+          m++
+        m = 0
+        while m < links_sub.length
+          links_sub[m] = links_sub[m].replace(/<font.+?>/g,"")
+          m++
+        m = 0
+        while m < links_sub.length
+          links_sub[m] = links_sub[m].replace(/<\/font>/g,"")
+          m++
+        m = 0
+        while m < links_sub.length
+          links_sub[m] = links_sub[m].replace(/【.+?】$/g,"")
+          m++
+        o = 0
+        while o < links_sub.length
+          if links_sub[o].match(/^2014/)
+          else
+            @echo("    \"text\": \"" + links_sub[o] + "\",")
+            o = links_sub.length
+          o++
 
         # ラインナップ欄の出力
-        links_sub = @evaluate getLinup
-        links_sub2 = @evaluate getLinupText
+        links_sub = []
+        links_sub2 = []
+        links_sub_P = @evaluate getLinup
+        links_sub2_P = @evaluate getLinupText
+        p = 0
+        while p < links_sub_P.length
+          if links_sub_P[p].match(/^\/common/)
+          else
+            links_sub.push(links_sub_P[p])
+            links_sub2.push(links_sub2_P[p])
+          p++
 
         num = links_sub.length + 1
         if num is 1
