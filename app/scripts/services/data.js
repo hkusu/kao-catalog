@@ -17,10 +17,9 @@ angular.module('kaoCatalogApp')
                 });
             },
             getProductData: function(list_key) {
-                // TODO: とりあえずどのブランドでもアジエンスのJSONを利用
                 return $http({
                     method : 'GET',
-                    url : 'data/asience.json'
+                    url : 'data/' + list_key + '.json'
                 });
             }
         };
