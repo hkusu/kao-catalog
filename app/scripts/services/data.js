@@ -7,13 +7,13 @@ angular.module('kaoCatalogApp')
             getBrandData: function() {
                 return $http({
                     method : 'GET',
-                    url : 'data/brand.json'
+                    url : 'data/menu_brand.json'
                 });
             },
             getCategoryData: function() {
                 return $http({
                     method : 'GET',
-                    url : 'data/category.json'
+                    url : 'data/menu_category.json'
                 });
             },
             getProductData: function(list_key) {
