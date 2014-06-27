@@ -25,12 +25,12 @@ angular.module('kaoCatalogApp')
             steps:[
                 {
                     element: '#step1',
-                    intro: "花王製品を商品のブランド名から探します。<br><font size='1px'>例）アジエンス</font>",
+                    intro: "花王製品を商品のブランド名から探します。<br><span class='kao-color'><font size='1px'>例）アジエンス</font></span>",
                     position: 'top'
                 },
                 {
                     element: '#step2',
-                    intro: "花王製品を目的から探します。<br><font size='1px'>例）フェイスケア</font>",
+                    intro: "花王製品を目的から探します。<br><span class='kao-color'><font size='1px'>例）フェイスケア</font></span>",
                     position: 'top'
                 },
                 {
