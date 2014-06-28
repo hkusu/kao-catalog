@@ -7,11 +7,13 @@
             <div ng-controller="ItemCtrl">
                 <span ng-click="ons.screen.dismissPage()">
                     <h4>{{item.name}}</h4>
-                    <div align="center">
-                        <img ng-src="http://www.kao.com{{item.img_l}}" width="200">
-                    </div>
                 </span>
-                <span ng-click="showImage()"><font size="2px" color="#1e90ff">[&nbsp;<i class="fa fa-search-plus"></i> 拡大する&nbsp;]</font></span>
+                    <div align="center">
+                        <span ng-click="showImage()">
+                            <img ng-src="http://www.kao.com{{item.img_l}}" width="200">
+                        </span>
+                    </div>
+                <font size="2px" color="#1e90ff">[&nbsp;<i class="fa fa-search-plus"></i> 画像タップで拡大&nbsp;]</font>
                 <span ng-click="ons.screen.dismissPage()">
                     <br>
                     <br>
@@ -31,7 +33,7 @@
                         </ons-row>
                     </div>
                     <br>
-                    <span class="kao-color"><font size="2px">※画面をタップするとこのウィンドウは閉じます</font></span>
+                    <font size="2px" color="#1e90ff">※画面のどこかをタップするとこのウィンドウは閉じます</font>
                     <br>
                     <br>
                 </span>
