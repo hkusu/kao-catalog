@@ -148,5 +148,36 @@ angular.module('kaoCatalogApp')
         } else {
             $scope.show_lineup = false;
         }
+
+        $scope.showImage = function(){
+
+            // 選択したURLを引き渡したいのでFactoryへ保存
+            ShareData.image_url = "http://www.kao.com" + $scope.item.img_l;
+            // 画像拡大ページを表示
+            $scope.ons.navigator.pushPage('views/image.html',{title: '拡大'});
+        };
+    }])
+    // このサイトについてページ用（views/about.html）のController
+    .controller('AboutCtrl', ['$scope', 'ShareData', function ($scope, ShareData) {
+
+        $scope.showLink = function(url){
+
+            // 選択したURLを引き渡したいのでFactoryへ保存
+            ShareData.link_url = url;
+            // リンク確認ページを表示
+            $scope.ons.navigator.pushPage('views/link.html',{title: '確認'});
+        };
+    }])
+    // 外部サイトリンク確認ページ用（views/link.html）のController
+    .controller('LinkCtrl', ['$scope', 'ShareData', function ($scope, ShareData) {
+
+        // FactoryからURLを取得
+        $scope.link_url = ShareData.link_url;
+    }])
+    // 画像拡大ページ用（views/image.html）のController
+    .controller('ImageCtrl', ['$scope', 'ShareData', function ($scope, ShareData) {
+
+        // FactoryからURLを取得
+        $scope.image_url = ShareData.image_url;
     }])
 ;

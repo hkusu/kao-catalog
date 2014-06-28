@@ -3,25 +3,26 @@
                on-right-button-click="ons.screen.dismissPage()">
     <ons-page class="center">
         <ons-scroller>
-            <div style="margin:20px 20px 20px 20px">
-            <font color="grey" size="2px">
-                このサイトは&nbsp;<a ng-href="https://5jcup.org">HTML5 Japan Cup 2014</a>&nbsp;の応募作品として個人で作成されたものです。<br>
-                <br>
-                <img ng-src="images/5jCup-logo-horizontal.png"><br>
-                <br>
-                このサイトの素材は&nbsp;<a ng-href="https://5jcup.org/awards/kao">こちら</a>&nbsp;に記載された利用形態の範囲内で&nbsp;<a ng-href="http://www.kao.com/jp/products/">花王製品カタログサイト</a>&nbsp;から取得し利用しています。<br>
-                <br>
-                <br>
-                HTML版URL&nbsp;<i class="fa fa-html5"></i>：<a ng-href="http://○○○○○○○○○○○○○"></a><br>
-                Androidアプリ版&nbsp;<i class="fa fa-android"></i>：<a ng-href="http://○○○○○○○○○○○○○"></a><br>
-                <br>
-                <br>
-                お問い合わせ&nbsp;<i class="fa fa-envelope-o"></i>：<u>kusu0806@gmail.com</u>
-                <br>
-                <br>
-                <br>
-                <ons-button ng-click="ons.screen.dismissPage()"><i class="fa fa-times-circle" style="font-size:14px"></i>&nbsp;閉じる</ons-button>
-            </font>
+            <div ng-controller="AboutCtrl" style="margin:20px 20px 20px 20px">
+                <font color="grey" size="2px">
+                    このサイトは&nbsp;<u ng-click="showLink('https://5jcup.org')"><font color="#1e90ff">HTML5 Japan Cup 2014</font></u>&nbsp;の応募作品として個人で作成されたものです。<br>
+                    <br>
+                    <img ng-src="images/5jCup-logo-horizontal.png"><br>
+                    <br>
+                    このサイトの素材は&nbsp;<u ng-click="showLink('https://5jcup.org/awards/kao')"><font color="#1e90ff">こちら</font></u>&nbsp;に記載された利用形態の範囲内で&nbsp;<u ng-click="showLink('http://www.kao.com/jp/products/')"><font color="#1e90ff">花王製品カタログサイト</font></u>&nbsp;から取得し利用しています。<br>
+                    <br>
+                    <br>
+                    HTML版URL&nbsp;<i class="fa fa-html5"></i>：<u ng-click="showLink('http://hkusu.github.io/gp-kao-catalog')"><font color="#1e90ff">http://hkusu.github.io/gp-kao-catalog</font></u><br>
+                    Androidアプリ版&nbsp;<i class="fa fa-android"></i>：<u ng-click="showLink('http://○○○○○○○○○○○○○')"><font color="#1e90ff">http://○○○○○○○○○○○○○</font></u><br>
+                    <br>
+                    <br>
+                    お問い合わせ&nbsp;<i class="fa fa-envelope-o"></i>：kusu0806@gmail.com
+                    <br>
+                    <br>
+                    <ons-button ng-click="ons.screen.dismissPage()"><i class="fa fa-times-circle" style="font-size:14px"></i>&nbsp;閉じる</ons-button>
+                    <br>
+                    <br>
+                </font>
             </div>
         </ons-scroller>
     </ons-page>

@@ -1,0 +1,16 @@
+<span ng-click="ons.navigator.popPage()">
+    <ons-page class="center">
+        <ons-scroller>
+            <div ng-controller="ImageCtrl" style="margin:20px 20px 20px 20px">
+                <font color="grey" size="2px">
+                    <br>
+                    <img ng-src="{{image_url}}" width="350">
+                    <br>
+                    <ons-button ng-click="ons.navigator.popPage()"><i class="fa fa-hand-o-left" style="font-size:14px"></i>&nbsp;戻る</ons-button>
+                    <br>
+                    <br>
+                </font>
+            </div>
+        </ons-scroller>
+    </ons-page>
+</span>

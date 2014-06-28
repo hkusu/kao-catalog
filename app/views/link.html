@@ -1,0 +1,23 @@
+<ons-page class="center">
+    <ons-scroller>
+        <div ng-controller="LinkCtrl" style="margin:20px 20px 20px 20px">
+        <font color="grey" size="2px">
+            <br>
+            外部のサイト（{{link_url}}）<br>
+            へ遷移しようとしています。<br>
+            よろしいですか？
+            <br>
+            <br>
+            <i class="fa fa-spinner fa-spin" style="font-size:20px"></i>
+            <br>
+            <br>
+            <a ng-href="{{link_url}}"><ons-button><i class="fa fa-check" style="font-size:14px"></i>&nbsp;はい</ons-button></a>
+            <br>
+            <br>
+            <ons-button ng-click="ons.navigator.popPage()"><i class="fa fa-hand-o-left" style="font-size:14px"></i>&nbsp;戻る</ons-button>
+            <br>
+            <br>
+        </font>
+        </div>
+    </ons-scroller>
+</ons-page>
