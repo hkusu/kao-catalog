@@ -84,7 +84,12 @@ getLinupText = ->
 casper.start "http://google.fr/", ->
 
   # ブランド名をここに指定
-  brand = "humming"
+  #brand = "humming"
+  if casper.cli.args.length isnt 1
+    @log 'Missing required argument.', 'error'
+    @exit()
+
+  brand = @cli.args[0]
 
   url = "http://www.kao.com/jp/" + brand + "/index.html"
   @thenOpen url, ->

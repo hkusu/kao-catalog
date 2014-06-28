@@ -19,7 +19,7 @@ angular.module('kaoCatalogApp')
             getProductData: function(list_key) {
                 return $http({
                     method : 'GET',
-                    url : 'data/' + list_key + '.json'
+                    url : 'data/d_' + list_key + '.json'
                 });
             }
         };
