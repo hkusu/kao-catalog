@@ -19,32 +19,37 @@ getLinupText = ->
 # 何かをスタートしないといけないみたいなので意味なくGoogleを指定
 casper.start "http://google.fr/", ->
 
-  # ブランド名をスクリプト起動時の引数で受取り
+  # カテゴリー名をスクリプト起動時の引数で受取り
   if casper.cli.args.length isnt 1
     @log 'Missing required argument.', 'error'
     @exit()
-  brand = @cli.args[0]
+  category = @cli.args[0]
 
-  url = "http://www.kao.com/jp/" + brand + "/index.html"
+  url = "http://www.kao.com/jp/products/" + category + ".html"
   @thenOpen url, ->
     @echo "["
 
     urls = []
 
     # 各商品のURLの一覧を取得
-    urls = @evaluate((brand_name) ->
-      urls = document.querySelectorAll("a[href^=\"/jp/" + brand_name + "/\"]")
+    urls = @evaluate((category_name) ->
+      #urls = document.querySelectorAll("a[href^=\"/jp/" + category_name + "/\"]")
+      urls = document.querySelectorAll("a[href^=\"/jp/\"]")
       Array::map.call urls, (e) ->
         e.getAttribute('href');
         #e.getAttribute('src');
         #e.text
-    , brand)
+    , category)
     #@echo(" - " + urls.join("\n - "))
 
     links = []
     n = 0
     while n < urls.length
-      if urls[n].match(/index.html/)
+      if urls[n].match(/index.html$/)
+      else if urls[n].match(/\/$/)
+      else if urls[n].match(/^\/jp\/products\//)
+      else if urls[n].match(/^\/jp\/qa_cate\//)
+      else if urls[n].match(/^\/jp\/corp\//)
       else
         links.push(urls[n])
       n++

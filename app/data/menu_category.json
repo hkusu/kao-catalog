@@ -6,7 +6,7 @@
             {
                 "key": "c_facialcleansing",
                 "name":"洗顔料",
-                "product_num": 31
+                "product_num": 32
             },
             {
                 "key": "c_makecleansing",
@@ -67,7 +67,7 @@
             {
                 "key": "c_bodysoap",
                 "name":"全身洗浄料・洗浄用具",
-                "product_num": 51
+                "product_num": 53
             },
             {
                 "key": "c_handsoap",
@@ -118,7 +118,7 @@
             {
                 "key": "c_toothseat",
                 "name":"歯みがきシート",
-                "product_num": 1
+                "product_num": 2
             },
             {
                 "key": "c_toothliquid",
@@ -253,7 +253,7 @@
             {
                 "key": "c_softcleanser",
                 "name":"柔軟仕上げ剤",
-                "product_num": 34
+                "product_num": 36
             },
             {
                 "key": "c_clothbleach",
@@ -335,7 +335,7 @@
             {
                 "key": "c_bathcare",
                 "name":"お風呂のお手入れ品",
-                "product_num": 14
+                "product_num": 12
             },
             {
                 "key": "c_toiletcare",
@@ -351,7 +351,7 @@
             {
                 "key": "c_drink",
                 "name":"飲料",
-                "product_num": 12
+                "product_num": 11
             }
         ]
     },
@@ -387,7 +387,7 @@
             {
                 "key": "c_pantyliner",
                 "name":"吸水パンティライナー・ナプキン（軽失禁）",
-                "product_num": 24
+                "product_num": 23
             },
             {
                 "key": "c_malepad",
@@ -397,7 +397,7 @@
             {
                 "key": "c_adultdiaper",
                 "name":"大人用紙おむつ〔パンツ・テープ式〕",
-                "product_num": 19
+                "product_num": 20
             },
             {
                 "key": "c_urinepad",

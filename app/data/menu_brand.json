@@ -69,7 +69,7 @@
     "key": "b_curel",
     "img": "/jp/kao_imgs/curel/curel_logo_s.jpg",
     "name":"キュレル",
-    "product_num": 65
+    "product_num": 66
   },
   {
     "key": "b_safety",
@@ -237,13 +237,13 @@
     "key": "b_bioreu",
     "img": "/jp/kao_imgs/bioreu/bioreu_logo_s.jpg",
     "name":"ビオレu",
-    "product_num": 47
+    "product_num": 49
   },
   {
     "key": "b_pyuora",
     "img": "/jp/kao_imgs/pyuora/pyuora_logo_s.jpg",
     "name":"ピュオーラ",
-    "product_num": 17
+    "product_num": 18
   },
   {
     "key": "b_purewhip",
@@ -267,7 +267,7 @@
     "key": "b_flairfragrance",
     "img": "/jp/kao_imgs/flairfragrance/flairfragrance_logo_s.jpg",
     "name":"フレア フレグランス",
-    "product_num": 16
+    "product_num": 18
   },
   {
     "key": "b_blaune",
@@ -291,7 +291,7 @@
     "key": "b_healthya",
     "img": "/jp/kao_imgs/healthya/healthya_logo_s.jpg",
     "name":"ヘルシア",
-    "product_num": 12
+    "product_num": 11
   },
   {
     "key": "b_homing",
@@ -315,7 +315,7 @@
     "key": "b_magiclean",
     "img": "/jp/kao_imgs/magiclean/magiclean_logo_s.jpg",
     "name":"マジックリン",
-    "product_num": 39
+    "product_num": 37
   },
   {
     "key": "b_megurhythm",
@@ -363,13 +363,13 @@
     "key": "b_relief",
     "img": "/jp/kao_imgs/relief/relief_logo_s.jpg",
     "name":"リリーフ",
-    "product_num": 36
+    "product_num": 37
   },
   {
     "key": "b_laurier",
     "img": "/jp/kao_imgs/laurier/laurier_logo_s.jpg",
     "name":"ロリエ",
-    "product_num": 75
+    "product_num": 74
   },
   {
     "key": "b_widehaiter",

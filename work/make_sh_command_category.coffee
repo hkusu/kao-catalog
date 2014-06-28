@@ -1,4 +1,4 @@
-categories = [
+tmp = [
   "facialcleansing"
   "makecleansing"
   "facesheet"
@@ -9,7 +9,6 @@ categories = [
   "pack"
   "lipcare"
   "shaving"
-  "----------"
   "soap"
   "bodysoap"
   "handsoap"
@@ -19,33 +18,27 @@ categories = [
   "sunscreen"
   "bodysheet"
   "deodorant"
-  "----------"
   "toothpaste"
   "toothseat"
   "toothliquid"
   "mouthwash"
   "toothbrush"
   "travelgoods"
-  "----------"
   "bathpowder"
   "showercare"
-  "----------"
   "shampoo"
   "treatment"
   "scalpconditioner"
   "scalpesthetique"
   "hairrestorer"
-  "----------"
   "hairstyle"
   "hairspray"
   "brushingspray"
-  "----------"
   "haircolor"
   "hairbleach"
   "hairmanicure"
   "hairdye"
   "whitecare"
-  "----------"
   "clothcleanser"
   "softcleanser"
   "clothbleach"
@@ -54,20 +47,16 @@ categories = [
   "clothfregrance"
   "clothdeodorant"
   "clotharomamist"
-  "----------"
   "kitchencleanser"
   "kitchenbleach"
   "kitchencleaning"
   "cleanser"
-  "----------"
   "housecleanser"
   "housewiper"
   "housecleaning"
   "bathcare"
   "toiletcare"
-  "----------"
   "drink"
-  "----------"
   "babydiaper"
   "hipsheet"
   "napkin"
@@ -80,43 +69,14 @@ categories = [
   "incontinencegoods"
   "caregoods"
   "hipscare"
-  "----------"
   "onnetsu"
   "steamsheet"
   "eyemask"
-  "----------"
   "pettoilet"
 ]
 
-categoriesAAA = [
-  "facialcleansing"
-]
-
-getLinks = ->
-  links = document.querySelectorAll "section"
-  Array::map.call links, (e) ->
-    e.getAttribute "id"
-
-links = []
-casper = require("casper").create()
-
-casper.start().each categories, (self, category) ->
-#casper.start().each categoriesAAA, (self, category) ->
-  url = "http://www.kao.com/jp/products/" + category + ".html"
-  self.thenOpen url, ->
-    @echo "=========="
-    @echo category
-    @echo "=========="
-    links = @evaluate getLinks
-    #links = @evaluate(getLinks(key))
-    @echo(" - " + links.join("\n - "))
-
-casper.run ->
-#  @echo links.length + " links found:"
-#  @echo(" - " + links.join("\n - "))
-  @exit()
-
-
-
-
+i = 0
+while i < tmp.length
+  console.log "casperjs work/get-category-data.coffee " + tmp[i] + " > app/data/c_" + tmp[i] + ".json"
+  i++
 

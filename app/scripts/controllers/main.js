@@ -61,10 +61,6 @@ angular.module('kaoCatalogApp')
             $scope.items = $response.data;
         });
 
-        // 同一Viewだと setAbovePage で Viewが更新されない事象の対応
-        // product.html と product2.html を随時、切り替える
-        ShareData.product_view = 'views/product.html';
-
         $scope.showProduct = function(list_key){
 
             if (ShareData.list_key !== list_key){
@@ -72,6 +68,8 @@ angular.module('kaoCatalogApp')
                 // 選択したブランドのキー（アルファベット）を引き渡したいのでFactoryへ保存
                 ShareData.list_key = list_key;
 
+                // 同一Viewだと setAbovePage で Viewが更新されない事象の対応
+                // product.html と product2.html を随時、切り替える
                 if (ShareData.product_view === 'views/product.html') {
                     ShareData.product_view = 'views/product2.html';
                 } else {
@@ -96,10 +94,6 @@ angular.module('kaoCatalogApp')
             $scope.items = $response.data;
         });
 
-        // 同一Viewだと setAbovePage で Viewが更新されない事象の対応
-        // product.html と product2.html を随時、切り替える
-        ShareData.product_view = 'views/product.html';
-
         $scope.showProduct = function(list_key){
 
             if (ShareData.list_key !== list_key){
@@ -107,6 +101,8 @@ angular.module('kaoCatalogApp')
                 // 選択したカテゴリーのキー（アルファベット）を引き渡したいのでFactoryへ保存
                 ShareData.list_key = list_key;
 
+                // 同一Viewだと setAbovePage で Viewが更新されない事象の対応
+                // product.html と product2.html を随時、切り替える
                 if (ShareData.product_view === 'views/product.html') {
                     ShareData.product_view = 'views/product2.html';
                 } else {
