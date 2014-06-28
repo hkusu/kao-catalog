@@ -1,0 +1,125 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/curel/crl_lip_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/curel/crl_lip_00_img_l.jpg",
+    "name": "キュレル リップケアスティック 【医薬部外品】",
+    "text": "○密着コート処方で、唇内部の潤いをしっかり閉じこめて乾燥を防ぎ、表面を外部刺激からも保護する2つの効果。○角層の薄い唇を考えて、潤い成分「潤浸保湿セラミド機能成分（湿潤剤）」、植物由来のモイストキープ成分配合。唇の角層に浸透、潤い密度を高めます。○消炎剤（有効成分）配合。唇の荒れ、ひび割れを防ぎます。○乾燥して敏感な唇に、やさしく密着するやわらかなスティックタイプ。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_lip_moisture_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_lip_moisture_00_img_l.jpg",
+    "name": "ニベア ディープモイスチャーリップ 無香料",
+    "text": "「保水持続ヴェール＊」が唇に広がり、ひと塗りでしっかり潤う高保湿リップクリーム。＊アミノ酸系保水成分とダイマー酸エステル（保水成分）の保水構造体●4つの保湿成分（アミノ酸系保水成分・はちみつ・ローヤルゼリーエキス・オリーブオイル）配合。●2つの有効成分配合で、唇の荒れ・ひび割れを防ぎます。●紫外線から唇を守ります。UVカット成分配合（SPF16・PA+）。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_moisture_01_img_s.jpg",
+        "name": "はちみつの香り"
+      },
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_moisture_03_img_s.jpg",
+        "name": "オリーブ＆レモンの香り"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_lip_basic_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_lip_basic_00_img_l.jpg",
+    "name": "ニベア モイスチャーリップ 無香料",
+    "text": "濃厚保湿の薬用リップクリーム。3つの効果で美しい唇に保ちます。●自然由来の保湿成分（シアバター・ホホバオイル）配合。なめらかな付け心地で保湿成分が唇にひろがります。乾燥を防いでしっとり感を長続きさせます。●ビタミンE（血行促進成分）配合。健やかな唇に保ちます。●グリチルレチン酸ステアリル（消炎成分）配合。唇の荒れ・ひび割れを防ぎます。無香料・無着色・無味。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_basic_01_img_s.jpg",
+        "name": "ビタミンＥ"
+      },
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_basic_02_img_s.jpg",
+        "name": "ＵＶ"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_lip_watering_02_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_lip_watering_02_img_l.jpg",
+    "name": "ニベア モイスチャーリップ ウォータータイプ 無香料",
+    "text": "自然なツヤのある、みずみずしいぷるぷる唇が続きます。3つの保湿成分でうるおいチャージ！（アミノ酸系保水成分、植物性コラーゲンC＊、ヒアルロン酸配合）。＊ニンジンエキス●つけた瞬間水が浸透するようにすーっとなじんでのびる、潤うのにべたつかない使い心地。●2つの有効成分配合。唇の荒れ・ひび割れを防ぎます。●紫外線から唇を守ります。UVカット成分配合（SPF20、PA++）。●無香料",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_watering_04_img_s.jpg",
+        "name": "モイスチャーリッチ"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_lip_natural_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_lip_natural_00_img_l.jpg",
+    "name": "ニベア ナチュラルカラーリップ ウォータータイプ ピンクベージュ",
+    "text": "ほんのり色づいた、みずみずしいぷるぷる唇が続きます。3つの保湿成分でうるおいチャージ！（アミノ酸系保水成分、植物性コラーゲンC＊、ヒアルロン酸配合）。＊ニンジンエキス●ほんのりとした色づきです。●つけた瞬間水が浸透するようにすーっとなじんでのびる潤うのにべたつかない使い心地。●紫外線から唇を守ります。UVカット成分配合（SPF20、PA++）。●ほのかなフレッシュフルーティーの香り",
+    "lineup_num": 4,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_natural_01_img_s.jpg",
+        "name": "ピンクヴェール"
+      },
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_natural_02_img_s.jpg",
+        "name": "チェリーレッド"
+      },
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_natural_03_img_s.jpg",
+        "name": "ローズピンク"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_lip_essence_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_lip_essence_00_img_l.jpg",
+    "name": "ニベア ナチュラルカラーリップ パーフェクトエッセンス ほんのりピンク",
+    "text": "1本でナチュラルメイク＆高保湿。これ1本でふっくらみずみずしいピンク色の唇になる多機能リップ美容液。●美容液成分（ヒアルロン酸・マカデミアナッツオイル）配合。荒れ・乾燥を防ぎ、しっとり唇を保ちます。●グロス効果で、自然で上品なツヤ唇に。●くすみがちな唇をほんのりピンク色に仕上げます。●なめらかにのびて、サラリとなじむつけ心地。●UVカット成分配合（SPF20・PA++）●無香料",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_essence_01_img_s.jpg",
+        "name": "レッド"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_lip_flavor_deli_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_lip_flavor_deli_00_img_l.jpg",
+    "name": "ニベア フレーバーリップ デリシャスドロップ ピーチの香り",
+    "text": "ベースのピーチの香りにアクセントとなるバニラの香りが入った香りのドロップ*を配合。塗ってからしばらくすると香りのドロップがとろけて、バニラの香りのアクセントがふわっと広がります。*シクロデキストリン・香料包接成分●果実由来の保湿成分（オリーブオイル、植物スクワラン）配合●紫外線から唇を守ります。UVカット成分配合（SPF11）●雫型の容器を新採用！",
+    "lineup_num": 4,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_flavor_deli_01_img_s.jpg",
+        "name": "グレープフルーツの香り"
+      },
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_flavor_deli_02_img_s.jpg",
+        "name": "イチゴの香り"
+      },
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_flavor_deli_03_img_s.jpg",
+        "name": "ラ・フランスの香り"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/niveaformen/nfm_lip_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/niveaformen/nfm_lip_00_img_l.jpg",
+    "name": "ニベアフォーメン リップケア 無香料",
+    "text": "べたつかずにうるおう、男性用薬用リップクリーム。■水分を抱え込んで、長時間キープするつの保湿成分（アミノ酸系保水成分・コラーゲンC*・ヒアルロン酸）を配合■唇の荒れ・ひび割れを防ぎます。有効成分ビタミンE（血行促進成分）・グリチルレチン酸ステアリル（消炎成分）配合。■紫外線から唇を守ります。UVカット成分配合（SPF16）■無香料・ノンメントールタイプ*ニンジンエキス",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/niveaformen/nfm_lip_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/niveaformen/nfm_lip_01_img_l.jpg",
+    "name": "ニベアフォーメン リップケア ローズメントールの香り",
+    "text": "べたつかずにうるおう、男性用薬用リップクリーム。■水分を抱え込んで、長時間キープする3つの保湿成分（アミノ酸系保水成分・コラーゲンC*・ヒアルロン酸）を配合。■唇の荒れ・ひび割れを防ぎます。有効成分ビタミンE（血行促進成分）・グリチルレチン酸ステアリル（消炎成分）配合。■紫外線から唇を守ります。UVカット成分配合（SPF16）。■爽やかなローズメントールの香り*ニンジンエキス",
+    "lineup_num": 1
+  }
+]

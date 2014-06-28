@@ -1,0 +1,54 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/flairfragrance/ffr_mist_floral_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/flairfragrance/ffr_mist_floral_00_img_l.jpg",
+    "name": "フレア フレグランス 衣類のリフレッシュミスト フローラル＆スウィート",
+    "text": "香りをプラスしてもっと楽しめる衣料用フレグランスです。いろいろな衣類で、新鮮な香りが楽しめます。除菌・消臭、シワとり、静電気防止もできます。スプレー回数で香りの強さを調節できます。香りセンサーの働きで水分や汗を感じるたび、さらに香りがわきたちます。摘みたてのフローラルスウィートの香り。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/flairfragrance/ffr_mist_floral_01_img_s.jpg",
+        "name": "つめかえ用　400ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/flairfragrance/ffr_mist_passion_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/flairfragrance/ffr_mist_passion_00_img_l.jpg",
+    "name": "フレア フレグランス 衣類のリフレッシュミスト パッション＆ベリー",
+    "text": "香りをプラスしてもっと楽しめる衣料用フレグランスです。いろいろな衣類で、新鮮な香りが楽しめます。除菌・消臭、シワとり、静電気防止もできます。スプレー回数で香りの強さを調節できます。香りセンサーの働きで水分や汗を感じるたび、さらに香りがわきたちます。もぎたてのパッションベリーの香り。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/flairfragrance/ffr_mist_passion_01_img_s.jpg",
+        "name": "つめかえ用　400ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/flairfragrance/ffr_mist_bouquet_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/flairfragrance/ffr_mist_bouquet_00_img_l.jpg",
+    "name": "フレア フレグランス 衣類のリフレッシュミスト ブリリアント＆ブーケ",
+    "text": "香りをプラスしてもっと楽しめる衣料用フレグランスです。いろいろな衣類で、新鮮な香りが楽しめます。除菌・消臭、シワとり、静電気防止もできます。スプレー回数で香りの強さを調節できます。香りセンサーの働きで水分や汗を感じるたび、さらに香りがわきたちます。咲きたてのブリリアントブーケの香り。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/flairfragrance/ffr_mist_bouquet_01_img_s.jpg",
+        "name": "つめかえ用　400ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/flairfragrance/ffr_mist_sweet_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/flairfragrance/ffr_mist_sweet_00_img_l.jpg",
+    "name": "フレア フレグランス 衣類のリフレッシュミスト スウィート＆スパイス",
+    "text": "香りをプラスしてもっと楽しめる衣料用フレグランスです。いろいろな衣類で、新鮮な香りが楽しめます。除菌・消臭、シワとり、静電気防止もできます。スプレー回数で香りの強さを調節できます。香りセンサーの働きで水分や汗を感じるたび、さらに香りがわきたちます。笑顔つなぐスウィートスパイスの香り。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/flairfragrance/ffr_mist_sweet_01_img_s.jpg",
+        "name": "つめかえ用　400ml"
+      }
+    ]
+  }
+]

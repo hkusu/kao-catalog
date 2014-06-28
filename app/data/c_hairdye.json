@@ -1,0 +1,40 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/blaune/bln_root_color_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/blaune/bln_root_color_01_img_l.jpg",
+    "name": "ブローネ 根元カラー ナチュラルブラウン",
+    "text": "次のヘアカラーまでの気になる根元の白髪に、思い立ったらすぐできる、髪を洗う前の短時間カラーリング。色持ち約10日間だから、次のヘアカラーまで白髪をかくして、きれいな髪色をキープします。根元がぬりやすい「根元ピタッとブラシ」採用。繰り返し使っても髪を傷めないヘアマニキュアタイプ。全3色。【洗い流すタイプ】※使用上の注意をよく読んで正しくお使いください。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/blaune/bln_root_color_00_img_s.jpg",
+        "name": "ライトブラウン"
+      },
+      {
+        "img": "/jp/kao_imgs/blaune/bln_root_color_02_img_s.jpg",
+        "name": "ダークブラウン"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/blaune/bln_pointcover_02_img_s.jpg",
+    "img_l": "/jp/kao_imgs/blaune/bln_pointcover_02_img_l.jpg",
+    "name": "ブローネ ポイントカバー ダークブラウン",
+    "text": "お出かけ前に、生えぎわ・分け目の気になる白髪をひと塗りでしっかりカバーします。今日1日の簡単白髪かくし。「技ありブラシ」が生えぎわ・分け目の細かな部分までキャッチします。乾いてもゴワつきにくく、髪に自然になじむ処方。汗・水に強く、色落ち・色移りしにくいタイプ。シャンプーで簡単に落とせます。ブローネヘアカラーに対応した全4色。",
+    "lineup_num": 4,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/blaune/bln_pointcover_00_img_s.jpg",
+        "name": "ライトブラウン"
+      },
+      {
+        "img": "/jp/kao_imgs/blaune/bln_pointcover_01_img_s.jpg",
+        "name": "ナチュラルブラウン"
+      },
+      {
+        "img": "/jp/kao_imgs/blaune/bln_pointcover_03_img_s.jpg",
+        "name": "ナチュラルブラック"
+      }
+    ]
+  }
+]

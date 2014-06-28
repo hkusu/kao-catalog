@@ -1,0 +1,42 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/sanina/snn_sanina_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/sanina/snn_sanina_00_img_l.jpg",
+    "name": "サニーナ",
+    "text": "おしりの薬用清浄剤。トイレットペーパーをやわらかくして、やさしいふき心地に。さっぱりキレイにふきとれ、おしりはいつも清潔です。赤ちゃんにも使えます。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/sanina/snn_sanina_01_img_s.jpg",
+        "name": "つけかえ用 90ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/sanina/snn_foam_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/sanina/snn_foam_00_img_l.jpg",
+    "name": "薬用 泡サニーナ",
+    "text": "おしりをふくときの痛みをやわらげ、スッキリ清潔に保つ薬用清浄剤です。やさしいフォームタイプで、痔・下痢・便秘の方にもラクにふけます。エアゾール製品です。お使いになる時や廃棄される時は、火気と高温にお気を付けください。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/sanina/snn_toilet_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/sanina/snn_toilet_00_img_l.jpg",
+    "name": "サニーナ トイレットロール",
+    "text": "ふきとり用オイル（スクワラン）を含ませた、仕上げ用のトイレットロールです。水洗トイレに流せます。蒸発しにくいオイル成分を使用しているので、おしりにやさしく、冷たく感じません。※本品は水分を含んでいませんので、水分を含ませたウエットティッシュのような湿り気はありません。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/sanina/snn_toilet_01_img_s.jpg",
+        "name": "つめかえ用 25m×2本"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/sanina/snn_tissue_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/sanina/snn_tissue_00_img_l.jpg",
+    "name": "サニーナ ティッシュ",
+    "text": "ふきとり用オイル（スクワラン）を含ませた、お肌にふんわりやさしいティッシュペーパーです。蒸発しにくいオイル成分を使用しているので、冷たく感じません。水洗トイレに流せます。※水分を含ませたウェットティッシュではありません。寸法：たて210mm×よこ220mm",
+    "lineup_num": 1
+  }
+]

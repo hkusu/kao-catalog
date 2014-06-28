@@ -1,0 +1,121 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_haiter_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_haiter_00_img_l.jpg",
+    "name": "ハイター",
+    "text": "黄ばみ・黒ずみをとり、真っ白に仕上げる塩素系の白物専用漂白剤。除菌もできます。色柄物、一部のせんいには使えません。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/haiter/hit_haiter_01_img_s.jpg",
+        "name": "大 1500ml"
+      },
+      {
+        "img": "/jp/kao_imgs/haiter/hit_haiter_02_img_s.jpg",
+        "name": "特大 2500ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_hydro_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_hydro_00_img_l.jpg",
+    "name": "ハイドロハイター",
+    "text": "鉄分や赤土の汚れに効果的な還元系漂白剤。白物ならすべてのせんいに。白物衣料専用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_kitchen_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_kitchen_00_img_l.jpg",
+    "name": "キッチンハイター",
+    "text": "つけ置きで、すみずみまで除菌・漂白・消臭ができる台所用漂白剤（塩素系）です。スポンジ、ふきんやまな板についている雑菌・ニオイもしっかり取り除きます。食器用洗剤では取れない、シミ、茶シブ、くもり、黒ずみ等をきれいに落とします。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/haiter/hit_kitchen_01_img_s.jpg",
+        "name": "大 1500ml"
+      },
+      {
+        "img": "/jp/kao_imgs/haiter/hit_kitchen_02_img_s.jpg",
+        "name": "特大 2500ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_kitchen_bubble_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_kitchen_bubble_00_img_l.jpg",
+    "name": "キッチン泡ハイター",
+    "text": "気がついた時に手軽に使える、スプレータイプの台所用漂白剤（塩素系）です。まな板、排水口ゴミ受け、スポンジなど台所用品の除菌・漂白・消臭に。まな板※1、排水口ゴミ受けならたった30秒で99.9％強力除菌！※2スポンジも99.9％強力除菌！※2※1 プラスチック製まな板。※2 すべての菌を除菌できるわけではありません。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/haiter/hit_kitchen_bubble_01_img_s.jpg",
+        "name": "つけかえ用 400ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_kitchen_powder_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_kitchen_powder_00_img_l.jpg",
+    "name": "キッチンハイター 粉末酸素系",
+    "text": "においが気にならず、色・柄物のふきんも漂白できる酸素系の台所用漂白剤。サッと溶けて、つけておくだけで茶わん・きゅうす等の茶しぶや黒ずみ、ふきん・おしぼり等のシミや黄ばみもきれいに落とします。ふきん・まな板・スポンジ等の雑菌や悪臭を除き、衛生的に仕上げます。手もヌルヌルしません。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_kitchen_drain_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_kitchen_drain_00_img_l.jpg",
+    "name": "キッチンハイター 除菌ヌメリとり",
+    "text": "使い方は排水口にポン！と置くだけ。水を流すたびカセット内部の錠剤が徐々に溶け出して排水口全体に洗浄成分が行き渡り、除菌効果を発揮し、ヌメリ・ニオイをしっかり予防。洗浄成分は安心な中性タイプ（塩素系非使用）。効果は約60日間持続。つけかえ用もあります。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/haiter/hit_kitchen_drain_01_img_s.jpg",
+        "name": "本体ゴムタイプ 17g"
+      },
+      {
+        "img": "/jp/kao_imgs/haiter/hit_kitchen_drain_02_img_s.jpg",
+        "name": "つけかえ用 17g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_pipe_jell_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_pipe_jell_00_img_l.jpg",
+    "name": "パイプハイター 高粘度ジェル",
+    "text": "高粘度ジェルが髪の毛・ヌメリを溶かしてつまりを解消。香りはマイルド。注ぎやすく液ダレしにくい容器です。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_pipe_powder_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_pipe_powder_00_img_l.jpg",
+    "name": "パイプハイター 連続発泡パウダー",
+    "text": "連続発泡パウダーがつまり・ニオイを解消！手軽に使える粉末分包タイプ。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_washing_tank_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_washing_tank_00_img_l.jpg",
+    "name": "洗たく槽ハイター",
+    "text": "発泡成分が見えない洗たく槽の裏側のカビ・水アカ汚れをはがして浮かせます。除菌もできて、嫌なニオイもスッキリ解消。ツンとしたニオイが気にならない粉末酸素系（つけ置きタイプ）。計量の手間がいらない、1回使い切りタイプです。【洗たく槽用洗浄剤（粉末酸素系）】※塩素系非使用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_bath_superstrong_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_bath_superstrong_00_img_l.jpg",
+    "name": "強力カビハイター",
+    "text": "密着成分配合で、きめ細かい泡が垂直面のカビにもとどまって効きます。壁、棚の下側のゴムパッキンやシャワーホースなど、いままで落としにくかった場所のカビもしっかり落とします。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/haiter/hit_bath_superstrong_01_img_s.jpg",
+        "name": "つけかえ用 400ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_toilet_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_toilet_00_img_l.jpg",
+    "name": "除菌洗浄トイレハイター",
+    "text": "たれにくい液がフチ裏のしつこい黒ずみ・バイ菌に密着し、ブラシいらずで一度にスッキリ落とす塩素系クリーナーです。除菌漂白効果もあります。",
+    "lineup_num": 1
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/success/scs_tonic_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/success/scs_tonic_01_img_l.jpg",
+    "name": "サクセス 薬用育毛トニック 無香料",
+    "text": "有効成分",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/success/scs_tonic_03_img_s.jpg",
+        "name": "無香料 小 73g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/success/scs_tonic_02_img_s.jpg",
+    "img_l": "/jp/kao_imgs/success/scs_tonic_02_img_l.jpg",
+    "name": "サクセス 薬用育毛トニック エクストラクール 無香料",
+    "text": "有効成分",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/success/scs_tonic_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/success/scs_tonic_00_img_l.jpg",
+    "name": "サクセス 薬用育毛トニック 微香性",
+    "text": "有効成分",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/success/scs_remedy_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/success/scs_remedy_01_img_l.jpg",
+    "name": "サクセス 薬用毛髪活性 無香料",
+    "text": "毛髪の成長を促す毛乳頭に働きかけ、抜け毛を防ぎ、毛髪の成長を促進します。頭皮の気になる部分に薬効成分が直接行き届くダイレクトタッチ式。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/success/scs_remedy_00_img_s.jpg",
+        "name": "微香性 185g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/success/scs_vitalcharge_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/success/scs_vitalcharge_00_img_l.jpg",
+    "name": "サクセス バイタルチャージ 薬用育毛剤",
+    "text": "「髪は年齢とともに細くなり、これも薄く見える原因のひとつ」ということに着目した育毛剤です。有効成分「t-フラバノン」が「毛根」に直接作用。髪を根元から太く・長く育て、「薄毛・抜け毛を予防」します。無香料。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/blauneikumou/bli_lotion_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/blauneikumou/bli_lotion_00_img_l.jpg",
+    "name": "ブローネ 薬用育毛ローション 無香料",
+    "text": "地肌の血行を促進し、抜け毛を防いで髪の成長を助ける女性向けの育毛ローションです。無香料。（医薬部外品）",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/blauneikumou/bli_lotion_01_img_s.jpg",
+        "name": "微香性"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/blauneikumou/bli_essence_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/blauneikumou/bli_essence_00_img_l.jpg",
+    "name": "ブローネ 薬用育毛エッセンス",
+    "text": "毛根の中心、「毛乳頭」のメカニズムに注目した女性用育毛剤。抜け毛予防、発毛促進効果があります。",
+    "lineup_num": 1
+  }
+]

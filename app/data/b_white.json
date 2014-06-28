@@ -1,0 +1,44 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/white/wht_white_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/white/wht_white_01_img_l.jpg",
+    "name": "花王ホワイト レギュラーサイズ",
+    "text": "花王の石けんは、泡にこだわって120年。肌をやさしく洗える、きめ細かでのびの良い、クリームみたいな石けん。植物原料「天然やしミルク*」をたっぷり使用。*パームやしの種子に含まれる胚乳・100％天然植物原料（石けん素地）・天然由来スクワラン配合（保湿成分）・気品あるホワイトフローラルの香り",
+    "lineup_num": 5,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/white/wht_white_02_img_s.jpg",
+        "name": "レギュラーサイズ 6コ箱"
+      },
+      {
+        "img": "/jp/kao_imgs/white/wht_white_03_img_s.jpg",
+        "name": "バスサイズ 1コ"
+      },
+      {
+        "img": "/jp/kao_imgs/white/wht_white_04_img_s.jpg",
+        "name": "バスサイズ 3コパック"
+      },
+      {
+        "img": "/jp/kao_imgs/white/wht_white_05_img_s.jpg",
+        "name": "バスサイズ 6コ箱"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/white/wht_aroma_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/white/wht_aroma_00_img_l.jpg",
+    "name": "花王ホワイト アロマティック・ローズの香り レギュラーサイズ",
+    "text": "花王の石けんは、泡にこだわって120年。肌をやさしく洗える、きめ細かでのびの良い、クリームみたいな石けん。植物原料「天然やしミルク*」をたっぷり使用。*パームやしの種子に含まれる胚乳・100％天然植物原料（石けん素地）・天然由来スクワラン配合（保湿成分）・ふわっとやさしいアロマティック・ローズの香り",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/white/wht_aroma_01_img_s.jpg",
+        "name": "レギュラーサイズ 6コ箱"
+      },
+      {
+        "img": "/jp/kao_imgs/white/wht_aroma_02_img_s.jpg",
+        "name": "バスサイズ 3コパック"
+      }
+    ]
+  }
+]

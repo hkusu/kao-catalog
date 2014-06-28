@@ -1,0 +1,88 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/merit/mrt_shampoo_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/merit/mrt_shampoo_01_img_l.jpg",
+    "name": "メリット シャンプー",
+    "text": "地肌から清潔、根元から髪サラサラ。いつも通り洗うだけで皮脂や汚れをふわっと「浮かせる泡」。●髪と地肌と同じ弱酸性●すっきり洗えるノンシリコーン処方●地肌にうるおいをあたえ、角層を整えます。（ユーカリエキス・カモミラエキス・フルーツ酸配合）●フケやかゆみを防ぎます。●ナチュラルフローラルのやさしい香り（医薬部外品）",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/merit/mrt_shampoo_02_img_s.jpg",
+        "name": "つめかえ用 340ml"
+      },
+      {
+        "img": "/jp/kao_imgs/merit/mrt_shampoo_00_img_s.jpg",
+        "name": "レギュラー 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/merit/mrt_rinse_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/merit/mrt_rinse_01_img_l.jpg",
+    "name": "メリット リンス",
+    "text": "地肌から清潔、根元から髪サラサラ。うるおうのに軽い仕上がり。根元からサラサラの髪に。●髪と地肌と同じ弱酸性●髪のからまりを防ぎます。●地肌にうるおいをあたえ、角層を整えます。（ユーカリエキス・カモミラエキス・フルーツ酸配合）●フケやかゆみを防ぎます。●ナチュラルフローラルのやさしい香り（医薬部外品）",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/merit/mrt_rinse_02_img_s.jpg",
+        "name": "つめかえ用 340ml"
+      },
+      {
+        "img": "/jp/kao_imgs/merit/mrt_rinse_00_img_s.jpg",
+        "name": "レギュラー 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/merit/mrt_shampoo_rinsein_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/merit/mrt_shampoo_rinsein_01_img_l.jpg",
+    "name": "メリット リンスのいらないシャンプー",
+    "text": "地肌から清潔、根元から髪サラサラ。いつも通り洗うだけで皮脂や汚れをふわっと「浮かせる泡」。(リンス成分（毛髪保護剤）配合)●髪と地肌と同じ弱酸性●地肌にうるおいをあたえ、角層を整えます。（ユーカリエキス・カモミラエキス・フルーツ酸配合）●フケやかゆみを防ぎます。●ナチュラルフローラルのやさしい香り（医薬部外品）",
+    "lineup_num": 4,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/merit/mrt_shampoo_rinsein_02_img_s.jpg",
+        "name": "つめかえ用 340ml"
+      },
+      {
+        "img": "/jp/kao_imgs/merit/mrt_shampoo_rinsein_00_img_s.jpg",
+        "name": "レギュラー 200ml"
+      },
+      {
+        "img": "/jp/kao_imgs/merit/mrt_shampoo_rinsein_03_img_s.jpg",
+        "name": "ミニ 80ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/merit/mrt_shampoo_rinseincool_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/merit/mrt_shampoo_rinseincool_01_img_l.jpg",
+    "name": "メリット リンスのいらないシャンプー クールタイプ",
+    "text": "地肌の汗のニオイまで防ぎ、洗った後もスーッと爽快！気分もリフレッシュ。(リンス成分（毛髪保護剤）配合)●爽快メントール（※清涼剤）●髪と地肌と同じ弱酸性●地肌にうるおいをあたえ、角層を整えます。（ユーカリエキス・カモミラエキス・フルーツ酸配合）●フケやかゆみを防ぎます。●リフレッシュミントの香り（医薬部外品）",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/merit/mrt_shampoo_rinseincool_02_img_s.jpg",
+        "name": "つめかえ用 340ml"
+      },
+      {
+        "img": "/jp/kao_imgs/merit/mrt_shampoo_rinseincool_00_img_s.jpg",
+        "name": "レギュラー 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/merit/mrt_hairmilk_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/merit/mrt_hairmilk_00_img_l.jpg",
+    "name": "メリット さらさらヘアミルク",
+    "text": "パサつきが気になるママの髪や、からまりやすいお子さまの細い髪も、するんとなめらかな指どおりに。親子で使えるトリートメントです。●カモミールミルクα（カモミラエキス・乳清・ユーカリエキス・フルーツ酸）配合＜保湿成分＞●植物由来リコリスC（グリチルリチン酸ジカリウム）が、フケやかゆみを防ぎます。●髪と地肌とおなじ弱酸性●ナチュラルフローラルのやさしい香り（医薬部外品）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/merit/mrt_shampoo_brush_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/merit/mrt_shampoo_brush_00_img_l.jpg",
+    "name": "メリット シャンプーブラシ",
+    "text": "指では洗いにくい地肌まで、きちんと洗えるシャンプーブラシ。地肌まできちんと洗えば、根元から髪サラサラに。●親子で使えるやさしさ設計・細く長い髪でもからまりにくい・ブラシの先端がやわらかいから、地肌にやさしい・お母さまやお子さまの小さな手でも持ちやすいサイズ●毛穴・根元・地肌にはたらく3種類のブラシ・毛穴の汚れをやさしくかきとる・根元の汚れをしっかり落とす・地肌を心地よくマッサージ",
+    "lineup_num": 1
+  }
+]

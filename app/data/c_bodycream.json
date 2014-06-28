@@ -1,0 +1,223 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/emollica/emc_bathlotion_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/emollica/emc_bathlotion_00_img_l.jpg",
+    "name": "エモリカ 密肌ボディ乳液 微香性",
+    "text": "たっぷりとうるおいに満たされて、はずむようにやわらかく、なめらかなキメ美肌に。「蜜肌成分〈ヒアルロン酸・マロニエエキス〉・バリア＆うるおいセラミド機能成分〈セラミドAP+〉」（保湿成分）配合。ぬれた肌の水分となじんで、角層深部まで浸透。うるおいをそのまま閉じ込めます。浴室で全身に手早く使え、ベタつきません。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/emollica/emc_bathlotion_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/emollica/emc_bathlotion_01_img_l.jpg",
+    "name": "エモリカ 密肌ボディ乳液 無香料",
+    "text": "たっぷりとうるおいに満たされて、はずむようにやわらかく、なめらかなキメ美肌に。「蜜肌成分〈ヒアルロン酸・マロニエエキス〉・バリア＆うるおいセラミド機能成分〈セラミドAP+〉」（保湿成分）配合。ぬれた肌の水分となじんで、角層深部まで浸透。うるおいをそのまま閉じ込めます。浴室で全身に手早く使え、ベタつきません。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/bioreu/bru_saramilk_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/bioreu/bru_saramilk_00_img_l.jpg",
+    "name": "ビオレｕ 家族みんなのさらさらミルク",
+    "text": "プッシュで簡単！家族みんなで使える弱酸性の全身用スキンケアミルクです。軽いつけ心地なのに、うるおいを守ってつけた後はすぐさらさら。全身はもちろん、ほお・口もとなど、カサカサが気になるときも、すぐにプッシュ！・アレルギーテスト済み。（全ての方にアレルギーが起こらないというわけではありません）・赤ちゃんにも使えます。・アルコールフリー・無着色・無香料・メントールフリー",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/bioreu/bru_moistmilk_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/bioreu/bru_moistmilk_00_img_l.jpg",
+    "name": "ビオレｕ 家族みんなのうるおいミルク （無香料）",
+    "text": "プッシュで簡単！家族みんなで使える弱酸性の全身用スキンケアミルクです。す～っとなじんで、高保湿なのにベタつかず、しっとりすべすべの素肌に。全身はもちろん、ほお・口もとなど、カサつきが気になるときも、すぐにプッシュ！・アレルギーテスト済み。（全ての方にアレルギーが起こらないというわけではありません）・赤ちゃんにも使えます。・アルコールフリー・無着色・無香料",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/bioreu/bru_moistmilk_01_img_s.jpg",
+        "name": "やさしいフローラルの香り"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/bioreu/bru_moistcream_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/bioreu/bru_moistcream_00_img_l.jpg",
+    "name": "ビオレｕ 家族みんなのしっとりクリーム",
+    "text": "プッシュで簡単！家族みんなで使える弱酸性の全身用スキンケアクリームです。ひじ・ひざ・かかともしっとり感が続きます。（保湿成分配合：ワセリン、アスナロエキス、ユーカリエキス配合）・アレルギーテスト済み。（全ての方にアレルギーが起こらないというわけではありません）・赤ちゃんにも使えます。・アルコールフリー・無着色・無香料",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_moistcream_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_moistcream_00_img_l.jpg",
+    "name": "ビオレボディデリ うるおいケアポット とてもしっとり",
+    "text": "濃厚ボディバターがお肌の温もりですべるように伸びて、うるおいを長時間閉じ込める高保湿ボディクリーム。お風呂あがりの温かい肌になじませるだけで、うるおい美肌ラッピング。ガサガサの角質も、しっとりやわ肌に。心とろけるハチミツ＆ゆずの香り。・からだ用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_moistcream_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_moistcream_01_img_l.jpg",
+    "name": "ビオレボディデリ うるおいケアポット しっとり",
+    "text": "こくのあるクリームがお肌の温もりですべるように伸びて、うるおいを長時間閉じ込める高保湿ボディクリーム。お風呂あがりの温かい肌になじませるだけで、うるおい美肌ラッピング。粉ふき肌も、しっとりなめらか肌に。心うっとりローズ＆ハーブの香り。・からだ用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_moistcream_02_img_s.jpg",
+    "img_l": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_moistcream_02_img_l.jpg",
+    "name": "ビオレボディデリ うるおいケアポット さっぱり",
+    "text": "ぷるぷるクリームがお肌の温もりですべるように伸びて、うるおいを長時間閉じ込める高保湿ボディクリーム。お風呂あがりの温かい肌になじませるだけで、うるおい美肌ラッピング。カサつく肌も、ぷるぷるうるおい肌に。心うるおうピーチ＆プルーンの香り。・からだ用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/curel/crl_bodycream_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/curel/crl_bodycream_00_img_l.jpg",
+    "name": "キュレル クリーム ［ジャー］ 【医薬部外品】",
+    "text": "潤い成分（潤浸保湿セラミド機能成分・ユーカリエキス）が、角層の深部まで浸透。外部刺激から肌を守る働きを助けて、潤いで満たします。荒れ性に。肌荒れを防ぎます。消炎剤（有効成分）配合。赤ちゃんのデリケートな肌にもお使いいただけます。・顔・からだ用",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/curel/crl_bodycream_02_img_s.jpg",
+        "name": "チューブ 35g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/curel/crl_bodylotion_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/curel/crl_bodylotion_00_img_l.jpg",
+    "name": "キュレル ローション ［220ml］ 【医薬部外品】",
+    "text": "のびがよく、ベタつかない全身用乳液。潤い成分（潤浸保湿セラミド機能成分・ユーカリエキス）が、角層の深部まで浸透。外部刺激から肌を守る働きを助けて、潤いで満たします。荒れ性に。肌荒れを防ぎます。消炎剤（有効成分）配合。赤ちゃんのデリケートな肌にもお使いいただけます。・乳液タイプ・顔・からだ用",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/curel/crl_bodylotion_01_img_s.jpg",
+        "name": "110ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/curel/crl_miniset_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/curel/crl_miniset_00_img_l.jpg",
+    "name": "キュレル ボディウォッシュ&ローション ミニセット 【医薬部外品】",
+    "text": "○旅行やお出かけに便利なミニセット◆ボディウォッシュ（45ml）・角層の保湿機能への負担を抑えたマイルド洗浄処方。・肌本来の潤い成分「セラミド」を守りながら、汗や汚れをすっきり洗い流します。・低刺激で肌にやさしい弱酸性。きめ細やかな泡で、肌への負担を抑えて洗えます。・肌荒れを防ぎます。◆ローション（45ml）・潤い成分『潤浸保湿セラミド機能成分』が、肌の角層の深部まで浸透。カサつく肌もしっとり。・荒れ性に。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_cream_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_cream_01_img_l.jpg",
+    "name": "ニベアクリーム",
+    "text": "健康でしっとりした素肌を保つスキンケアクリームです。顔にも身体にも、全身のスキンケアに家族みんなで使えます。肌にうるおいを与えるスクワラン、ホホバオイル配合。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_cream_00_img_s.jpg",
+        "name": "チューブ 50g"
+      },
+      {
+        "img": "/jp/kao_imgs/nivea/nva_cream_02_img_s.jpg",
+        "name": "缶／大 169g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_skincare_cream_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_skincare_cream_00_img_l.jpg",
+    "name": "ニベアソフト スキンケアクリーム",
+    "text": "乳液のようなサラッとした使用感で、顔や身体や手などの全身に。肌に心地よい感覚のウォーターベースのクリームです。・植物性天然保湿成分「ホホバオイル」配合・肌の内側（角層）に保湿成分がすばやく浸透。ベタつかずにうるおいが長続き。・顔、腕、脚、ひじ、ひざなど全身に簡単にのばして使えます。・無着色",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_skincare_cream_01_img_s.jpg",
+        "name": "ジャー 98g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_skinmilk_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_skinmilk_01_img_l.jpg",
+    "name": "ニベア スキンミルク しっとり",
+    "text": "乾燥などの外的環境から肌を守って肌本来のうるおいを保つボディ用乳液。うるおい持続成分（タウリン）配合●肌荒れ防止成分：ベタイン配合。乾燥や肌荒れを防いで、カサつきがちな肌をやわらかく保ちます●保湿成分：セラミドＩＩ・トレハロース配合。肌内部（角層）のセラミドの働きを補って、すべすべの肌に保ちます●コクのあるミルク、しっとりタイプ（W／O処方）《超乾燥肌～乾燥肌》",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_body_skinmilk_00_img_s.jpg",
+        "name": "しっとり 120g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_skinmilk_03_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_skinmilk_03_img_l.jpg",
+    "name": "ニベア スキンミルク さっぱり",
+    "text": "乾燥などの外的環境から肌を守って肌本来のうるおいを保つボディ用乳液。うるおい持続成分（タウリン）配合●肌荒れ防止成分：ベタイン配合。乾燥や肌荒れを防いで、カサつきがちな肌をやわらかく保ちます●保湿成分：セラミドＩＩ・トレハロース配合。肌内部（角層）のセラミドの働きを補って、すべすべの肌に保ちます●サラッとしたミルク　さっぱりタイプ《乾燥肌～普通肌》",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_body_skinmilk_02_img_s.jpg",
+        "name": "さっぱり 120g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_aquamilk_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_aquamilk_00_img_l.jpg",
+    "name": "ニベア アクアボディミルク",
+    "text": "べたつきがちな肌をさらっと仕上げ、爽やかで心地よい「みずみずしい肌」に。自然のうるおいに着目し植物から抽出したエキス、ボタニカルモイスト成分＊配合＊ユキノシタエキス（保湿成分）：すばやく肌（角層）　に浸透し、みずみずしさで満たします＊クインスシードエキス（整肌成分）：うるおいを保ちながら、肌表面をすべすべに整えますアクアソープの香り",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_creamymilk_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_creamymilk_00_img_l.jpg",
+    "name": "ニベア クリーミィボディ ミルク",
+    "text": "すーっと伸びてすばやくなじむ。高保湿で、とろけるようにクリーミィなボディミルク●シアバター（天然保湿成分）配合。一日続く、つややかでなめらかな肌へ●イチョウ葉エキス（保湿成分）配合。肌内部（角層）をうるおいで満たし、カサついた肌をやわらかくほぐしてキメを整えます●うるおい持続成分（タウリン）配合。乾燥などの外的環境から肌を守って、肌本来のうるおいを保ちます*ほのかにやさしい、フローラルの香り",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_happytime_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_happytime_00_img_l.jpg",
+    "name": "ニベア ハッピータイム ボディミルク シトラスハッピー",
+    "text": "触れて感じるすべすべの肌。シトラスの香りも長続きするフレグランスボディミルク。ミルクが肌になじむとともにふわっと心地よい香りが広がり、寝る時も、翌朝、服を着替えるその時までも、ほのかに香り続けます。●フルーツモイスチャーEX成分（ユズエキス・グリセリン）配合。うるおいを肌内部（角層）に閉じこめ、すべすべ肌に整えます。甘すぎず爽やかな、ジューシーカクテルの香り",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_happytime_sweet_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_happytime_sweet_00_img_l.jpg",
+    "name": "ニベア ハッピータイム ボディミルク スウィートハッピー",
+    "text": "触れて感じるすべすべの肌。スウィートな香りも長続きするフレグランスボディミルク。ミルクが肌になじむとともにふわっと心地よい香りが広がり、寝る時も、翌朝、服を着替える時までも、ほのかに香り続けます。●フルーツモイスチャーEX成分（洋ナシエキス・グリセリン）配合。うるおいを肌内部（角層）に閉じこめ、すべすべ肌に整えます。ふんわり可愛い、スウィートカクテルの香り",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_premium_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_premium_00_img_l.jpg",
+    "name": "ニベア プレミアムボディミルク",
+    "text": "指先がするっと軽くなった時が保湿のサイン。カサつきの気になる乾燥肌をしっとりやわらかな肌に整えるドライスキン高保湿ミルク。●高保湿なのに軽やかな使い心地。●たっぷりのうるおいが角層深くまで素早く浸透。（高浸透クイックモイスト処方）●植物から抽出したプレミアムモイスチャー成分 （アボカドオイル、ローズウォーター、カミツレエキス、ヤグルマギクエキス）配合*心もやすらぐ、上質で優雅なローズの香り",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_advance_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_advance_00_img_l.jpg",
+    "name": "ニベア プレミアムボディミルク アドバンス",
+    "text": "カサつきの気になる大人の肌にたっぷりのうるおいを与え弾むようなハリのある肌に導くドライスキン高保湿ミルク●うるおいが角層深くまで素早く浸透し、しっとりなめらか肌に整えます。（高浸透クイックモイスト処方）●保湿成分：コエンザイムQ10（ユビキノン）・グリセリン、植物性コラーゲンC（ニンジンエキス）配合。ふっくら弾むようなハリを与え、いきいきとした肌に導きます。上質でおだやかなカモミール＆ローズの香り",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_whitemilk_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_whitemilk_00_img_l.jpg",
+    "name": "ニベア 薬用ホワイトニングリペアＵＶボディミルク",
+    "text": "紫外線ダメージを受けた肌に、美白+保湿のダブルの効果。デコルテ・背中・二の腕などを透明感のあるうるおいのある肌に保つ薬用美白ミルク●日常紫外線をきちんとカット（SPF26・PA++）●モイストリペア成分（保湿成分）配合（アセロラエキス・L-システイン）日焼けにより失われがちなうるおいを補給します●美白成分配合（安定型ビタミンC）：メラニンの生成を抑えて、シミ・ソバカスを防ぎます",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_whitejell_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_whitejell_00_img_l.jpg",
+    "name": "ニベア 薬用ホワイトニングリペアボディジェル",
+    "text": "紫外線ダメージを受けた肌に、保湿と美白のダブルの効果。デコルテ・背中・二の腕などを透明感のあるうるおいのある肌に保つ薬用美白ボディジェル。●モイストリペア成分（保湿成分）配合（天然美容果実（アセロラ）エキス・L-システイン）日焼けにより失われがちなうるおいを補給します。●美白成分配合（安定型ビタミンC）：メラニンの生成を抑えて、シミ・ソバカスを防ぎます。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_whitecream_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_whitecream_00_img_l.jpg",
+    "name": "ニベア 薬用ホワイトニングリペアボディウォータークリーム",
+    "text": "紫外線ダメージを受けた肌に、保湿と美白のダブル効果。カサつきがちな肌を美白しながら濃密保湿。透明感あるうるおい肌に整える薬用美白ボディウォータークリーム●モイストリペア成分EX配合（保湿）：天然美容果実エキス・L-システイン・グリセリン 日やけにより失われがちなうるおいを補給●美白成分配合（安定型ビタミンC）：メラニンの生成を抑え、シミソバカスを防ぎます●クリームなのにベタつき感ない使い心地",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_leg_beautyjell_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_leg_beautyjell_00_img_l.jpg",
+    "name": "ニベア マイレッグビューティジェル",
+    "text": "ジンジンとしたひきしめ感のあるひんやりとしたジェルで気になるヒップ・太もも・ふくらはぎなどの肌に塗るだけで、すっきりシャープなひきしまった肌に導きます。●4つの天然ひきしめ成分（緑茶エキス・オニいちごエキス・ブッチャーブルームエキス・ハマメリスエキス）配合。肌をキュッと整えすっきりシャープなひきしまった肌に導きます。●肌にうるおいを与え、みずみずしくすべすべな肌を保ちます。",
+    "lineup_num": 1
+  }
+]

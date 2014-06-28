@@ -1,0 +1,256 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_naturalmint_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_naturalmint_00_img_l.jpg",
+    "name": "クリアクリーン ナチュラルミント （薬用ハミガキ）",
+    "text": "くだける顆粒（清掃剤）がハブラシの毛先に押されて、歯のさまざまなすき間の歯垢をすっきり落とします。さらに密着パウダー（清掃助剤）配合で、歯の表面のミクロのデコボコの歯垢まですっきり！ツルツルの歯に。殺菌剤BTC（ベンゼトニウム塩化物）が歯肉炎・口臭を予防します。フッ素がむし歯の発生と進行を防ぎます。さわやかなナチュラルミントの香味。（医薬部外品）",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/clearclean/ccn_naturalmint_01_img_s.jpg",
+        "name": "ナチュラルミント [80g]"
+      },
+      {
+        "img": "/jp/kao_imgs/clearclean/ccn_naturalmint_03_img_s.jpg",
+        "name": "ナチュラルミント [17g×3]"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_naturalmint_04_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_naturalmint_04_img_l.jpg",
+    "name": "クリアクリーン エクストラクール （薬用ハミガキ）",
+    "text": "くだける顆粒（清掃剤）がハブラシの毛先に押されて、歯のさまざまなすき間の歯垢をすっきり落とします。さらに密着パウダー（清掃助剤）配合で、歯の表面のミクロのデコボコの歯垢まですっきり！ツルツルの歯に。殺菌剤BTC（ベンゼトニウム塩化物）が歯肉炎・口臭を予防します。フッ素がむし歯の発生と進行を防ぎます。超爽快なエクストラクールの香味。（医薬部外品）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_naturalmint_06_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_naturalmint_06_img_l.jpg",
+    "name": "クリアクリーン フレッシュシトラス （薬用ハミガキ）",
+    "text": "くだける顆粒（清掃剤）がハブラシの毛先に押されて、歯のさまざまなすき間の歯垢をすっきり落とします。さらに密着パウダー（清掃助剤）配合で、歯の表面のミクロのデコボコの歯垢まですっきり！ツルツルの歯に。殺菌剤BTC（ベンゼトニウム塩化物）が歯肉炎・口臭を予防します。フッ素がむし歯の発生と進行を防ぎます。みずみずしいフレッシュシトラスの香味。（医薬部外品）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_ex_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_ex_00_img_l.jpg",
+    "name": "クリアクリーンEX フレッシュミント（薬用ハミガキ）",
+    "text": "EX顆粒（清掃剤）をたっぷり配合（2012年発売品比）。EX顆粒がくだけながら歯の凸凹にひそむ歯垢まですっきり落とします。クリアクリーン史上最高の歯垢除去力（2013年10月時点）。すみずみまでツルツルの歯に。ゼオライトが歯石の沈着を防ぎます。殺菌剤BTC（ベンゼトニウム塩化物）が歯肉炎・口臭を予防します。フッ素がむし歯の発生と進行を防ぎます。さわやかなフレッシュミントの香味。（医薬部外品）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_ex_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_ex_01_img_l.jpg",
+    "name": "クリアクリーンEX スプラッシュクール（薬用ハミガキ）",
+    "text": "EX顆粒（清掃剤）をたっぷり配合（2012年発売品比）。EX顆粒がくだけながら歯の凸凹にひそむ歯垢まですっきり落とします。クリアクリーン史上最高の歯垢除去力（2013年10月時点）。すみずみまでツルツルの歯に。ゼオライトが歯石の沈着を防ぎます。殺菌剤BTC（ベンゼトニウム塩化物）が歯肉炎・口臭を予防します。フッ素がむし歯の発生と進行を防ぎます。超爽快なスプラッシュクールの香味。（医薬部外品）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_ex_02_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_ex_02_img_l.jpg",
+    "name": "クリアクリーンEX リッチシトラス （薬用ハミガキ）",
+    "text": "EX顆粒（清掃剤）をたっぷり配合（2012年発売品比）。EX顆粒がくだけながら歯の凸凹にひそむ歯垢まですっきり落とします。クリアクリーン史上最高の歯垢除去力（2013年10月時点）。すみずみまでツルツルの歯に。ゼオライトが歯石の沈着を防ぎます。殺菌剤BTC（ベンゼトニウム塩化物）が歯肉炎・口臭を予防します。フッ素がむし歯の発生と進行を防ぎます。はなやかなリッチシトラスの香味。（医薬部外品）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_plus_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_plus_00_img_l.jpg",
+    "name": "クリアクリーンダブルプラス ライトミント （薬用ハミガキ）",
+    "text": "初期むし歯*の再石灰化を促進する2種類のフッ素（モノフルオロリン酸ナトリウム／フッ化ナトリウム）配合で、むし歯の発生と進行を防ぎます。カルシウム補給助剤キシリトール配合。くだける顆粒（清掃剤）配合で、歯垢もスッキリ落としてツルツルの歯に。マイルドなライトミントの香味。*初期むし歯：歯からミネラルが溶け出し、表面からわずかに内側の密度が低くなった、穴のあく一歩手前の状態。（医薬部外品）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_plus_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_plus_01_img_l.jpg",
+    "name": "クリアクリーンダブルプラス クールミント （薬用ハミガキ）",
+    "text": "初期むし歯*の再石灰化を促進する2種類のフッ素（モノフルオロリン酸ナトリウム／フッ化ナトリウム）配合で、むし歯の発生と進行を防ぎます。カルシウム補給助剤キシリトール配合。くだける顆粒（清掃剤）配合で、歯垢もスッキリ落としてツルツルの歯に。爽快感の強いクールミントの香味。*初期むし歯：歯からミネラルが溶け出し、表面からわずかに内側の密度が低くなった、穴のあく一歩手前の状態。（医薬部外品）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_plus_white_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_plus_white_00_img_l.jpg",
+    "name": "クリアクリーンホワイトニング アップルカモミール （薬用ハミガキ）",
+    "text": "着色汚れを落として、本来の白い歯に。ホワイトリセット顆粒（清掃剤）が歯の表面のデコボコにひそむ着色汚れまで、すっきり落とします。リンゴ酸（清掃助剤）が、歯のすみずみにいきわたり、着色汚れを浮き上がらせて、付きにくくします。コーヒー・紅茶などによる着色汚れや、タバコのヤニを落とします。はなやかなアップルカモミールの香味。（医薬部外品）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_plus_white_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_plus_white_01_img_l.jpg",
+    "name": "クリアクリーンホワイトニング クリアミント （薬用ハミガキ）",
+    "text": "着色汚れを落として、本来の白い歯に。ホワイトリセット顆粒（清掃剤）が歯の表面のデコボコにひそむ着色汚れまで、すっきり落とします。リンゴ酸（清掃助剤）が、歯のすみずみにいきわたり、着色汚れを浮き上がらせて、付きにくくします。コーヒー・紅茶などによる着色汚れや、タバコのヤニを落とします。すっきり爽やかなクリアミントの香味。（医薬部外品）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_kids_03_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_kids_03_img_l.jpg",
+    "name": "クリアクリーン Kid's（キッズ） メロンソーダ （薬用ハミガキ）",
+    "text": "ソフト顆粒（清掃剤）が、歯のすき間でくだけながら、やさしくしっかり歯垢を押し出します。フッ素配合でむし歯の発生と進行を防ぎます。さらに、歯のエナメル質へのカルシウムの補給を助けるキシリトール（カルシウム補給助剤）も配合しています。（医薬部外品）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_kids_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_kids_01_img_l.jpg",
+    "name": "クリアクリーン Kid's（キッズ） イチゴ （薬用ハミガキ）",
+    "text": "ソフト顆粒（清掃剤）が、歯のすき間でくだけながら、やさしくしっかり歯垢を押し出します。フッ素配合でむし歯の発生と進行を防ぎます。さらに、歯のエナメル質へのカルシウムの補給を助けるキシリトール（カルシウム補給助剤）も配合しています。（医薬部外品）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_kids_02_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_kids_02_img_l.jpg",
+    "name": "クリアクリーン Kid's（キッズ） グレープ （薬用ハミガキ）",
+    "text": "ソフト顆粒（清掃剤）が、歯のすき間でくだけながら、やさしくしっかり歯垢を押し出します。フッ素配合でむし歯の発生と進行を防ぎます。さらに、歯のエナメル質へのカルシウムの補給を助けるキシリトール（カルシウム補給助剤）も配合しています。（医薬部外品）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_plus_rinse_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_plus_rinse_00_img_l.jpg",
+    "name": "クリアクリーンプラス デンタルリンス ライトミント （薬用液体ハミガキ）",
+    "text": "殺菌剤BTC（塩化ベンゼトニウム）が、お口のすみずみまで届いて、奥歯の溝や歯のすき間にひそむ原因菌を殺菌。むし歯と口臭を予防する薬用デンタルリンスです。さわやかなライトミントの香味です。アルコール含有。（医薬部外品）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_plus_white_rinse_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_plus_white_rinse_00_img_l.jpg",
+    "name": "クリアクリーンプラスホワイトニング デンタルリンス アップルミント （薬用液体ハミガキ）",
+    "text": "リンゴ酸（清掃助剤）が歯の黄ばみ（着色汚れ）を浮き上がらせて落としやすくする薬用デンタルリンスです。キレイになった歯をコーティング。つややかな白い歯に。フレッシュなアップルミントの香味です。アルコール含有。（医薬部外品）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_dental_rinse_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_dental_rinse_00_img_l.jpg",
+    "name": "クリアクリーンデンタルリンス ソフトミント （薬用洗口液）",
+    "text": "歯みがき後の『仕上げすすぎ』で歯肉炎・口臭予防！薬用成分BTC（塩化ベンゼトニウム）が、口中のすみずみにいきわたり、歯のすき間まで長時間殺菌コート。原因菌の繁殖を抑え、歯垢の付着を防ぐとともに歯肉炎・口臭を予防します。家族で使えるソフトミントの香味。刺激が苦手な方やお子様にもお使いいただけるノンアルコール。（医薬部外品）",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/clearclean/ccn_dental_rinse_01_img_s.jpg",
+        "name": "1000ml ポンプタイプ （薬用洗口液）"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_ex_compact_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_ex_compact_00_img_l.jpg",
+    "name": "クリアクリーンEX ハブラシ コンパクト",
+    "text": "様々な長さの毛が植毛された「立体でこぼこカット」で複雑な歯列にも毛先がぴたっとあたる新設計。先端が四角い先細毛の「先細フィット毛」ですき間の汚れも落としきります。歯石のつきやすい歯ぐきのキワまで徹底ケア。すみずみまでツルツルの歯に！全3色：グリーン、ブルー、ピンク",
+    "lineup_num": 6,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/clearclean/ccn_ex_compact_04_img_s.jpg",
+        "name": "超コンパクト やわらかめ"
+      },
+      {
+        "img": "/jp/kao_imgs/clearclean/ccn_ex_compact_05_img_s.jpg",
+        "name": "超コンパクト ふつう"
+      },
+      {
+        "img": "/jp/kao_imgs/clearclean/ccn_ex_compact_01_img_s.jpg",
+        "name": "コンパクト やわらかめ"
+      },
+      {
+        "img": "/jp/kao_imgs/clearclean/ccn_ex_compact_02_img_s.jpg",
+        "name": "レギュラー やわらかめ"
+      },
+      {
+        "img": "/jp/kao_imgs/clearclean/ccn_ex_compact_03_img_s.jpg",
+        "name": "レギュラー ふつう"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_plus_multicare_compact_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_plus_multicare_compact_00_img_l.jpg",
+    "name": "クリアクリーン フロスプラス ハブラシ コンパクト",
+    "text": "むし歯になりやすい歯と歯のすき間まで磨ききる！●歯間、歯と歯ぐきの境目に同時に届く2列フロス毛●奥歯の奥までとどく先端傾斜カット●どんな角度でも歯と歯ぐきにフィットする扇形カット全3色：ピンク、グリーン、ブルー",
+    "lineup_num": 6,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/clearclean/ccn_plus_multicare_compact_04_img_s.jpg",
+        "name": "超コンパクト ふつう"
+      },
+      {
+        "img": "/jp/kao_imgs/clearclean/ccn_plus_multicare_compact_05_img_s.jpg",
+        "name": "超コンパクト かため"
+      },
+      {
+        "img": "/jp/kao_imgs/clearclean/ccn_plus_multicare_compact_01_img_s.jpg",
+        "name": "コンパクト かため"
+      },
+      {
+        "img": "/jp/kao_imgs/clearclean/ccn_plus_multicare_compact_02_img_s.jpg",
+        "name": "レギュラー ふつう"
+      },
+      {
+        "img": "/jp/kao_imgs/clearclean/ccn_plus_multicare_compact_03_img_s.jpg",
+        "name": "レギュラー かため"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_plus_whitebrush_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_plus_whitebrush_00_img_l.jpg",
+    "name": "クリアクリーン ホワイトニング ハブラシ コンパクトヘッド",
+    "text": "着色汚れをかきとる面積が大きい「密着エッジ毛」を採用。更に「ぴったりウェーブ」が表面はもちろん、気になるすき間や磨きにくい裏側にもぴったりフィットし、着色汚れを効率的に落とします。気になるすき間や裏側まで白い歯に。口の中で動かしやすいコンパクトヘッドなので、女性の小さなお口でもすみずみまできちんと磨けます。全4色：ピンク、ブルー、イエロー、ネイビー",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/clearclean/ccn_plus_whitebrush_02_img_s.jpg",
+        "name": "先細スリムヘッド ふつう"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_powerful_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_powerful_00_img_l.jpg",
+    "name": "クリアクリーンパワフルヘッド ハブラシ",
+    "text": "パワフル植毛で奥歯の汚れゾーンにぴったりフィットし、落ちにくい歯垢も残らずスッキリ落とします。全3色：グリーン、ブルー、ピンク",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/clearclean/ccn_powerful_01_img_s.jpg",
+        "name": "かため"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_kids_brush1_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_kids_brush1_00_img_l.jpg",
+    "name": "クリアクリーン Kid's（キッズ） ハブラシ 0～2才向け",
+    "text": "歯の形状に着目。みがきやすさ最適設計。0～2才向けは、お子さまトレーニング用と仕上げみがき用の2本セット。「球状の毛先」でやさしく楽しく磨けます。トレーニング用は「のど突き防止プレート」付きです。はじめての歯磨きを楽しみながら習慣づけできます。全2色：ブルー、ピンク",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_kids_brush2_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_kids_brush2_00_img_l.jpg",
+    "name": "クリアクリーン Kid's（キッズ） ハブラシ 3～8才向け",
+    "text": "歯の形状に着目。みがきやすさ最適設計。3～8才向けは、歯ぐきにやさしい「ぎっしりソフト毛」と「仕上げみがき兼用ハンドル」で、お子さまも痛がらずにしっかり磨けます。全2色：ブルー、ピンク",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_kids_brush3_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_kids_brush3_00_img_l.jpg",
+    "name": "クリアクリーン Kid's（キッズ） ハブラシ 7～12才向け",
+    "text": "歯の形状に着目。みがきやすさ最適設計。7～12才向けは生え変わり期の凸凹や奥歯に強い「でこぼこフィット毛」と「仕上げみがき兼用ハンドル」でしっかり磨けます。全2色：ブルー、ピンク",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_season_regular_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_season_regular_00_img_l.jpg",
+    "name": "クリアクリーン 携帯用",
+    "text": "携帯しやすいクリアクリーンの歯みがきセット。外出先でもしっかりツルツル！薬用ハミガキは、顆粒（清掃剤）が歯のすき間でくだけて、奥の歯垢まですっきり落とし、むし歯・口臭・歯肉炎を予防します。クリアクリーンEXハブラシは様々な長さの毛が植毛された「立体でこぼこカット」と、先端が四角い先細毛の「先細フィット毛」で、歯ぐきのキワまでツルツルに磨けます。携帯に便利なスリムケース。全2色(ブルー・ピンク）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_season_compact_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_season_compact_00_img_l.jpg",
+    "name": "クリアクリーン 携帯用",
+    "text": "携帯しやすいクリアクリーンの歯みがきセット。外出先でもしっかりツルツル！薬用ハミガキは、顆粒（清掃剤）が歯のすき間でくだけて、奥の歯垢まですっきり落とし、むし歯・口臭・歯肉炎を予防します。クリアクリーンEXハブラシ（ミニサイズ）は様々な長さの毛が植毛された「立体でこぼこカット」と、先端が四角い先細毛の「先細フィット毛」で、歯ぐきのキワまでツルツルに磨けます。ポーチに入る超コンパクトケース。全2色(ブルー・ピンク）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/clearclean/ccn_seasonset_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/clearclean/ccn_seasonset_00_img_l.jpg",
+    "name": "クリアクリーン 携帯用",
+    "text": "携帯しやすいクリアクリーンの歯みがきセット。外出先でもしっかりツルツル！薬用ハミガキは、顆粒（清掃剤）が歯のすき間でくだけて、奥の歯垢まですっきり落とし、むし歯・口臭・歯肉炎を予防します。クリアクリーンEXハブラシ（ミニサイズ）は様々な長さの毛が植毛された「立体でこぼこカット」と、先端が四角い先細毛の「先細フィット毛」で、歯ぐきのキワまでツルツルに磨けます。「メリット リンスのいらないシャンプー」と「ビオレu」入り。",
+    "lineup_num": 1
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/biore/bio_porepack_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/biore/bio_porepack_00_img_l.jpg",
+    "name": "ビオレ 毛穴すっきりパック 鼻用 白色タイプ",
+    "text": "小鼻に貼ってはがすだけで、毛穴の黒ずみを取り除くシート状パックです。毛穴を広げている角栓が奥からすっきりとれます。毛穴の目立ちにくい肌に。・ひきしめ成分配合",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/biore/bio_porepack_01_img_s.jpg",
+        "name": "鼻用＋気になる部分用"
+      },
+      {
+        "img": "/jp/kao_imgs/biore/bio_porepack_02_img_s.jpg",
+        "name": "鼻用 黒色タイプ"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/biore/bio_eyepack_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/biore/bio_eyepack_00_img_l.jpg",
+    "name": "ビオレ 目もとうるおいパック",
+    "text": "乾燥による小じわのできやすい目もとに ひと晩貼って、うるおいを与えるシート状パックです。目もとにやさしくフィットする伸縮シートだから、はがれにくく、違和感もありません。リフトトリートメント成分（保湿剤）が、集中的に肌（角層）に浸透します。翌朝はがすと、みずみずしい、ハリのある目もとが実感できます。・アスナロエキス(植物性保湿成分）配合・無着色、無香料",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/mensbiore/mbi_porepack_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/mensbiore/mbi_porepack_00_img_l.jpg",
+    "name": "メンズビオレ 毛穴すっきりパック 白色タイプ",
+    "text": "毛穴につまった角栓や黒ずみが、一度ですみずみまで取れる、シートタイプのパック。毛穴の奥からスッキリ！小鼻つるつる。大きめシートで、鼻全体をすっぽりカバー。立体裁断シートで、小鼻のきわまでぴったり密着。メントール（清涼成分）配合。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/mensbiore/mbi_porepack_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/mensbiore/mbi_porepack_01_img_l.jpg",
+    "name": "メンズビオレ 毛穴すっきりパック 黒色タイプ",
+    "text": "毛穴につまった角栓や黒ずみが、一度ですみずみまで取れる、シートタイプのパック。毛穴の奥からスッキリ！小鼻つるつる。大きめシートで、鼻全体をすっぽりカバー。立体裁断シートで、小鼻のきわまでぴったり密着。メントール（清涼成分）配合。",
+    "lineup_num": 1
+  }
+]

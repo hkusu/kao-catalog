@@ -1,0 +1,58 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/widehaiter/whi_wideex_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/widehaiter/whi_wideex_00_img_l.jpg",
+    "name": "ワイドハイターEXパワー",
+    "text": "洗剤だけでは落ちない汚れ・ニオイの元までディープクレンジング。しみこんだ汗・皮脂や菌まで強力分解。繰り返し洗たくすることで抗菌効果を発揮し、衣類の清潔長続き。ツンとしないさわやかな花の香り。色柄物に安心な酸素系漂白剤（濃縮タイプ）",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/widehaiter/whi_wideex_01_img_s.jpg",
+        "name": "つめかえ用 480ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/widehaiter/whi_wideex_intractable_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/widehaiter/whi_wideex_intractable_00_img_l.jpg",
+    "name": "ワイドハイター EXパワー ガンコなシミ用",
+    "text": "色柄物に安心な酸素系漂白剤。ガンコなシミ汚れも手軽に落とす泡で出るスプレータイプ。食べこぼしのシミもシャツの汗ジミもスッキリ。お洗たく前にひと吹きするだけで、しみ込んだ汚れに泡洗浄成分が浸透し、スピード分解。ツンとしないやさしい香り。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/widehaiter/whi_wideex_intractable_01_img_s.jpg",
+        "name": "つけかえ用 300ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/widehaiter/whi_wide_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/widehaiter/whi_wide_00_img_l.jpg",
+    "name": "ワイドハイター",
+    "text": "色柄物にも安心な酸素系漂白剤の液体タイプ。洗剤だけでは落としきれない汚れや菌をもとから落とします。ニオイもスッキリ。水洗いできるものなら、ウール・シルクを含むすべてのせんいに使えます。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/widehaiter/whi_wide_01_img_s.jpg",
+        "name": "大 2000ml"
+      },
+      {
+        "img": "/jp/kao_imgs/widehaiter/whi_wide_02_img_s.jpg",
+        "name": "つめかえ用 720ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/widehaiter/whi_widepowder_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/widehaiter/whi_widepowder_00_img_l.jpg",
+    "name": "ワイドハイター 粉末タイプ",
+    "text": "色柄物にも安心な酸素系漂白剤の粉末タイプ。毎日のお洗たくに加えるだけで、シミ汚れからくすみ・ニオイまでスッキリ落とします。除菌もできます。毛・絹以外のせんいに。※すべての菌を除菌できるわけではありません。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/widehaiter/whi_widepowder_01_img_s.jpg",
+        "name": "つめかえ用 500g"
+      }
+    ]
+  }
+]

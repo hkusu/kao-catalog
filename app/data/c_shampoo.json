@@ -1,0 +1,545 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/segreta/seg_shampoo_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/segreta/seg_shampoo_00_img_l.jpg",
+    "name": "セグレタ ハリ・つやシリーズ シャンプー",
+    "text": "細く、コシのない髪に。髪の内と外に働いて根元から毛先まで、しなやかなハリと健康的なつやを与えます。乾かすうちに根元から立ち上がり、毛先までつややかに。髪と地肌の美容液成分α*配合。*6つの天然由来成分**と美髪成分***（つや付与・保湿）**ザクロ・バラ・ローヤルゼリー・ダイズ（イソフラボン含有）・センブリ・ユーカリエキス***リンゴ酸気品あるアロマティックフローラルの香り。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/segreta/seg_shampoo_02_img_s.jpg",
+        "name": "つめかえ用 285ml"
+      },
+      {
+        "img": "/jp/kao_imgs/segreta/seg_shampoo_01_img_s.jpg",
+        "name": "レギュラー 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/segreta/seg_conditioner_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/segreta/seg_conditioner_00_img_l.jpg",
+    "name": "セグレタ ハリ・つやシリーズ コンディショナー",
+    "text": "細く、コシのない髪に。髪の内と外に働いて根元から毛先まで、しなやかなハリと健康的なつやを与えます。乾かすうちに根元から立ち上がり、毛先までつややかに。髪と地肌の美容液成分α*配合。*6つの天然由来成分**と美髪成分***（つや付与・保湿）**ザクロ・バラ・ローヤルゼリー・ダイズ（イソフラボン含有）・センブリ・ユーカリエキス***乳酸・ラノリン脂肪酸気品あるアロマティックフローラルの香り。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/segreta/seg_conditioner_02_img_s.jpg",
+        "name": "つめかえ用 285ml"
+      },
+      {
+        "img": "/jp/kao_imgs/segreta/seg_conditioner_01_img_s.jpg",
+        "name": "レギュラー 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/segreta/seg_miniset_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/segreta/seg_miniset_00_img_l.jpg",
+    "name": "セグレタ ハリ・つやシリーズ シャンプー＆コンディショナー ミニセット",
+    "text": "細く、コシのない髪に。髪の内と外に働いて根元から毛先まで、しなやかなハリと健康的なつやを与えます。乾かすうちに根元から立ち上がり、毛先までつややかに。髪と地肌の美容液成分α*配合。*6つの天然由来成分**と美髪成分***（つや付与・保湿）**ザクロ・バラ・ローヤルゼリー・ダイズ（イソフラボン含有）・センブリ・ユーカリエキス***シャンプーはリンゴ酸、コンディショナーは乳酸・ラノリン脂肪酸気品あるアロマティックフローラルの香り。約6回分ミニボトル。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/segreta/seg_treatment_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/segreta/seg_treatment_00_img_l.jpg",
+    "name": "セグレタ トリートメント",
+    "text": "いつまでもかわらない美しさと自信のために。年齢による髪の変化に着目。髪と地肌の美容液成分EX配合（ツヤ付与・保湿成分）＜5つの天然由来成分*と美髪成分** *ザクロ・バラ・ローヤルゼリー・センブリ・ユーカリエキス **乳酸・ラノリン脂肪酸＞。毛髪内部まで浸透。パサつきを防ぐ脂質を補給して補修します。根元はふんわり、毛先はしっとりまとまる仕上がりに。気品あるアロマティックフローラルの香り。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/segreta/seg_esthetique_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/segreta/seg_esthetique_00_img_l.jpg",
+    "name": "セグレタ ヘアエステ",
+    "text": "年齢による髪の変化に着目した、大人の髪の集中美容。髪と地肌の美容液成分EX（ツヤ付与・保湿成分）を高配合（セグレタヘアトリートメント比）＜5つの天然由来成分*と美髪成分** *ザクロ・バラ・ローヤルゼリー・センブリ・ユーカリエキス **乳酸・ラノリン脂肪酸＞。こくのあるクリームが髪を包みこみ、毛髪内部まで集中補修。美しい艶としなやかなコシを与えます。週1～2回のスペシャルケア。髪の傷みや艶のなさが気になるときに、コンディショナーやトリートメントに替えてお使いください。気品あるアロマティックフローラルの香り。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/segreta/seg_full_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/segreta/seg_full_00_img_l.jpg",
+    "name": "セグレタ シャンプー ふっくら仕上げ",
+    "text": "髪のハリ・コシがなくなって、毎朝ペタンコ・・・。そんなボリューム悩みが深刻な、ペタンとする短い髪の方に。コンディショナーなしの、1本で仕上げるシャンプーを新提案。豊かな泡で髪の根元まで気持ちよく洗えます。リンス・コンディショナーはいりません。ドライヤーで乾かすうちに、ボリューム感。髪1本1本にハリ・コシを与え全体がふっくらとした仕上がりに。イキイキ元気な印象に見せます。気品あるアロマティックフローラルの香り。髪と地肌の美容液成分α配合（つや付与・保湿）6つの天然由来成分*と美髪成分***ザクロ・バラ・ローヤルゼリー・ダイズ（イソフラボン含有）・センブリ・ユーカリエキス**ヤシ油誘導体（PPG－3カプリリルエーテル）",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/segreta/seg_full_01_img_s.jpg",
+        "name": "つめかえ用 285ml"
+      },
+      {
+        "img": "/jp/kao_imgs/segreta/seg_full_02_img_s.jpg",
+        "name": "ミニボトル 60ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/asience/asc_moistrich_shampoo_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/asience/asc_moistrich_shampoo_01_img_l.jpg",
+    "name": "アジエンス しっとり仕上がるタイプ シャンプー",
+    "text": "美容液シャンプーで、毎日の髪のお手入れが幸せな美容時間へ。もっちり豊かな泡でやさしくクレンジング。洗う時から、オリエンタル美容成分*1がじっくり髪に浸透。ゴワついた髪も、やわらかな感触に。心ほぐす優美な花果実の香り。しっとり仕上がるタイプ*1 （補修・保湿・柔軟）アルガンオイル*2・椿油・ローズエッセンス・ザクロ果実エキス・レモングラスエッセンス・ホワイトパールエッセンス*3・リンゴ酸*2 アルガニアスピノサ核油*3 加水分解コンキオリン",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/asience/asc_moistrich_shampoo_02_img_s.jpg",
+        "name": "つめかえ用 340ml"
+      },
+      {
+        "img": "/jp/kao_imgs/asience/asc_moistrich_shampoo_00_img_s.jpg",
+        "name": "レギュラー 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/asience/asc_moistrich_conditioner_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/asience/asc_moistrich_conditioner_01_img_l.jpg",
+    "name": "アジエンス しっとり仕上がるタイプ コンディショナー",
+    "text": "毎日の髪のお手入れが幸せな美容時間へ。髪になじむ、こっくりとした質感で、オリエンタル美容成分*1がじっくり髪に浸透。ゴワついた髪も、やわらかな感触に。心ほぐす優美な花果実の香り。しっとり仕上がるタイプ*1 （補修・保湿・柔軟）アルガンオイル*2・椿油・ローズエッセンス・ザクロ果実エキス・レモングラスエッセンス・ホワイトパールエッセンス*3・リンゴ酸*2 アルガニアスピノサ核油*3 加水分解コンキオリン",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/asience/asc_moistrich_conditioner_02_img_s.jpg",
+        "name": "つめかえ用 340ml"
+      },
+      {
+        "img": "/jp/kao_imgs/asience/asc_moistrich_conditioner_00_img_s.jpg",
+        "name": "レギュラー 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/asience/asc_moistrich_miniset_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/asience/asc_moistrich_miniset_00_img_l.jpg",
+    "name": "アジエンス しっとり仕上がるタイプ シャンプー＆コンディショナー ミニセット",
+    "text": "美容液シャンプーで、毎日の髪のお手入れが幸せな美容時間へ。もっちり豊かな泡でやさしくクレンジング。洗う時から、オリエンタル美容成分*1がじっくり髪に浸透。ゴワついた髪も、やわらかな感触に。心ほぐす優美な花果実の香り。しっとり仕上がるタイプ*1 （補修・保湿・柔軟）アルガンオイル*2・椿油・ローズエッセンス・ザクロ果実エキス・レモングラスエッセンス・ホワイトパールエッセンス*3・リンゴ酸*2 アルガニアスピノサ核油*3 加水分解コンキオリン持ち運びに便利なシャンプー＆コンディショナーのミニセット。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/asience/asc_moistrich_treatment_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/asience/asc_moistrich_treatment_00_img_l.jpg",
+    "name": "アジエンス しっとり仕上がるタイプ トリートメント",
+    "text": "毎日の髪のお手入れが幸せな美容時間へ。髪の傷みが気になるときに。髪になじむ、こっくりとした質感で、オリエンタル美容成分*1がじっくり髪に浸透。ゴワついた髪も、やわらかな感触に。心ほぐす優美な花果実の香り。しっとり仕上がるタイプ*1 （補修・保湿・柔軟）アルガンオイル*2・椿油・ローズエッセンス・ザクロ果実エキス・レモングラスエッセンス・ホワイトパールエッセンス*3・リンゴ酸*2 アルガニアスピノサ核油*3 加水分解コンキオリン",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/asience/asc_hairmask_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/asience/asc_hairmask_00_img_l.jpg",
+    "name": "アジエンス濃密ヘアマスク",
+    "text": "週1回の特別な美髪エステ。コクのあるクリームが、髪1本1本をなめらかに包みこみます。パックするように5分間おくと東洋美髪エステ成分*1が内側までじっくり浸透。洗い流した瞬間、指先でとろける、しなやかな髪へ。*1蓮花エキス、朝鮮人参エキス、椿油、アロエエキス、真珠プロテイン*2、月桃エキス、リンゴ酸、グリコール酸（補修・保湿・柔軟）*2加水分解コンキオリン",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/asience/asc_lightsmooth_shampoo_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/asience/asc_lightsmooth_shampoo_01_img_l.jpg",
+    "name": "アジエンス 軽やかに仕上がるタイプ シャンプー",
+    "text": "美容液シャンプーで、毎日の髪のお手入れが幸せな美容時間へ。もっちり豊かな泡でやさしくクレンジング。洗う時から、オリエンタル美容成分*1がじっくり髪に浸透。ゴワついた髪も、やわらかな感触に。心ほぐす清らかな白花蜜の香り。軽やかに仕上がるタイプ*1 （補修・保湿・柔軟）アルガンオイル*2・椿油・ローズエッセンス・ザクロ果実エキス・レモングラスエッセンス・ホワイトパールエッセンス*3・リンゴ酸*2 アルガニアスピノサ核油*3 加水分解コンキオリン",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/asience/asc_lightsmooth_shampoo_02_img_s.jpg",
+        "name": "つめかえ用 340ml"
+      },
+      {
+        "img": "/jp/kao_imgs/asience/asc_lightsmooth_shampoo_00_img_s.jpg",
+        "name": "レギュラー 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/asience/asc_lightsmooth_conditioner_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/asience/asc_lightsmooth_conditioner_01_img_l.jpg",
+    "name": "アジエンス 軽やかに仕上がるタイプ コンディショナー",
+    "text": "毎日の髪のお手入れが幸せな美容時間へ。髪になじむ、こっくりとした質感で、オリエンタル美容成分*1がじっくり髪に浸透。ゴワついた髪も、やわらかな感触に。心ほぐす清らかな白花蜜の香り。軽やかに仕上がるタイプ*1 （補修・保湿・柔軟）アルガンオイル*2・椿油・ローズエッセンス・ザクロ果実エキス・レモングラスエッセンス・ホワイトパールエッセンス*3・リンゴ酸*2 アルガニアスピノサ核油*3 加水分解コンキオリン",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/asience/asc_lightsmooth_conditioner_02_img_s.jpg",
+        "name": "つめかえ用 340ml"
+      },
+      {
+        "img": "/jp/kao_imgs/asience/asc_lightsmooth_conditioner_00_img_s.jpg",
+        "name": "レギュラー 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/asience/asc_lightsmooth_miniset_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/asience/asc_lightsmooth_miniset_00_img_l.jpg",
+    "name": "アジエンス 軽やかに仕上がるタイプ シャンプー＆コンディショナー ミニセット",
+    "text": "美容液シャンプーで、毎日の髪のお手入れが幸せな美容時間へ。もっちり豊かな泡でやさしくクレンジング。洗う時から、オリエンタル美容成分*1がじっくり髪に浸透。ゴワついた髪も、やわらかな感触に。心ほぐす清らかな白花蜜の香り。軽やかに仕上がるタイプ*1 （補修・保湿・柔軟）アルガンオイル*2・椿油・ローズエッセンス・ザクロ果実エキス・レモングラスエッセンス・ホワイトパールエッセンス*3・リンゴ酸*2 アルガニアスピノサ核油*3 加水分解コンキオリン持ち運びに便利なシャンプー＆コンディショナーのミニセット。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/asience/asc_lightsmooth_treatment_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/asience/asc_lightsmooth_treatment_00_img_l.jpg",
+    "name": "アジエンス 軽やかに仕上がるタイプ トリートメント",
+    "text": "毎日の髪のお手入れが幸せな美容時間へ。髪の傷みが気になるときに。髪になじむ、こっくりとした質感で、オリエンタル美容成分*1がじっくり髪に浸透。ゴワついた髪も、やわらかな感触に。心ほぐす清らかな白花蜜の香り。軽やかに仕上がるタイプ*1 （補修・保湿・柔軟）アルガンオイル*2・椿油・ローズエッセンス・ザクロ果実エキス・レモングラスエッセンス・ホワイトパールエッセンス*3・リンゴ酸*2 アルガニアスピノサ核油*3 加水分解コンキオリン",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/essential/esl_nuance_shampoo_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/essential/esl_nuance_shampoo_01_img_l.jpg",
+    "name": "エッセンシャル ダメージケア ニュアンスエアリー シャンプー",
+    "text": "傷んでめくれがちなキューティクルのすきまをうめて補修。さらに髪内部にうるおいを閉じこめてしっかり保湿するキューティクルケア処方。髪1本1本をきめ細かい泡が包み込み、洗っている間もすすいでいるときも、からまりやきしみを防ぎます。揺れ動くたび香るフルーティーフラワーノートの香り。軽やかにまとまる。毛先まで動きのある髪へ。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/essential/esl_nuance_shampoo_02_img_s.jpg",
+        "name": "つめかえ用 360ml"
+      },
+      {
+        "img": "/jp/kao_imgs/essential/esl_nuance_shampoo_00_img_s.jpg",
+        "name": "レギュラー 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/essential/esl_nuance_conditioner_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/essential/esl_nuance_conditioner_01_img_l.jpg",
+    "name": "エッセンシャル ダメージケア ニュアンスエアリー コンディショナー",
+    "text": "傷んでめくれがちなキューティクルのすきまをうめて補修。さらに髪内部にうるおいを閉じこめてしっかり保湿するキューティクルケア処方。高密着リペア成分配合",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/essential/esl_nuance_conditioner_02_img_s.jpg",
+        "name": "つめかえ用 360ml"
+      },
+      {
+        "img": "/jp/kao_imgs/essential/esl_nuance_conditioner_00_img_s.jpg",
+        "name": "レギュラー 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/essential/esl_nuance_miniset_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/essential/esl_nuance_miniset_00_img_l.jpg",
+    "name": "エッセンシャル ダメージケア ニュアンスエアリー ミニセット",
+    "text": "傷んでめくれがちなキューティクルのすきまをうめて補修。さらに髪内部にうるおいを閉じこめてしっかり保湿するキューティクルケア処方。髪1本1本をきめ細かい泡が包み込み、洗っている間もすすいでいるときも、からまりやきしみを防ぎます。揺れ動くたび香るフルーティーフラワーノートの香り。軽やかにまとまる。毛先まで動きのある髪へ。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/essential/esl_nuance_treatment_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/essential/esl_nuance_treatment_00_img_l.jpg",
+    "name": "エッセンシャル ダメージケア ニュアンスエアリー トリートメント",
+    "text": "傷んでめくれがちなキューティクルのすきまをうめて補修。さらに髪内部にうるおいを閉じこめてしっかり保湿するキューティクルケア処方。高密着リペア成分を高濃度に配合",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/essential/esl_nuance_repair_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/essential/esl_nuance_repair_00_img_l.jpg",
+    "name": "エッセンシャル ダメージケア ニュアンスエアリー 集中補修ヘアパック",
+    "text": "○特に傷んだ毛先15cmへのたっぷり集中ケア○傷んだ髪を補修・保湿・保護する新・キューティクルケア処方で、傷んでめくれがちなキューティクルを密着補修。熱ダメージケア成分を新配合。ドライヤーなどの熱を味方に、集中補修。○ハニー＆シアバターex2配合（補修・保湿・保護）○ふんわり香るハニーフローラルノート",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/essential/esl_rich_shampoo_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/essential/esl_rich_shampoo_01_img_l.jpg",
+    "name": "エッセンシャル ダメージケア リッチプレミア シャンプー",
+    "text": "傷んでめくれがちなキューティクルのすきまをうめて補修。さらに髪内部にうるおいを閉じこめてしっかり保湿するキューティクルケア処方。髪1本1本をきめ細かい泡が包み込み、洗っている間もすすいでいるときも、からまりやきしみを防ぎます。揺れ動くたび香るフルーティーフラワーノートの香り。しっとりまとまる。毛先まで広がらない髪へ。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/essential/esl_rich_shampoo_02_img_s.jpg",
+        "name": "つめかえ用 360ml"
+      },
+      {
+        "img": "/jp/kao_imgs/essential/esl_rich_shampoo_00_img_s.jpg",
+        "name": "レギュラー 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/essential/esl_rich_conditioner_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/essential/esl_rich_conditioner_01_img_l.jpg",
+    "name": "エッセンシャル ダメージケア リッチプレミア コンディショナー",
+    "text": "傷んでめくれがちなキューティクルのすきまをうめて補修。さらに髪内部にうるおいを閉じこめてしっかり保湿するキューティクルケア処方。高密着リペア成分配合",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/essential/esl_rich_conditioner_02_img_s.jpg",
+        "name": "つめかえ用 360ml"
+      },
+      {
+        "img": "/jp/kao_imgs/essential/esl_rich_conditioner_00_img_s.jpg",
+        "name": "レギュラー 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/essential/esl_rich_miniset_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/essential/esl_rich_miniset_00_img_l.jpg",
+    "name": "エッセンシャル ダメージケア リッチプレミア ミニセット",
+    "text": "傷んでめくれがちなキューティクルのすきまをうめて補修。さらに髪内部にうるおいを閉じこめてしっかり保湿するキューティクルケア処方。髪1本1本をきめ細かい泡が包み込み、洗っている間もすすいでいるときも、からまりやきしみを防ぎます。揺れ動くたび香るフルーティーフラワーノートの香り。しっとりまとまる。毛先まで広がらない髪へ。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/essential/esl_rich_treatment_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/essential/esl_rich_treatment_00_img_l.jpg",
+    "name": "エッセンシャル ダメージケア リッチプレミア トリートメント",
+    "text": "傷んでめくれがちなキューティクルのすきまをうめて補修。さらに髪内部にうるおいを閉じこめてしっかり保湿するキューティクルケア処方。高密着リペア成分を高濃度に配合",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/essential/esl_rich_repair_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/essential/esl_rich_repair_00_img_l.jpg",
+    "name": "エッセンシャル ダメージケア リッチプレミア 集中補修ヘアパック",
+    "text": "○特に傷んだ毛先15cmへのたっぷり集中ケア○傷んだ髪を補修・保湿・保護する新・キューティクルケア処方で、傷んでめくれがちなキューティクルを密着補修。熱ダメージケア成分を新配合。ドライヤーなどの熱を味方に、集中補修。○ハニー＆シアバターex2配合（補修・保湿・保護）○ふんわり香るハニーフローラルノート",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/essential/esl_gel_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/essential/esl_gel_00_img_l.jpg",
+    "name": "エッセンシャル ダメージケア シャンプー前の高浸透ジェル",
+    "text": "シャンプー前の新習慣。シャンプー前の高浸透ジェル。◆乾いた髪に使うから浸透性ダメージ補修成分（＊1）がぐんぐん浸透、集中補修。◆そのあとシャンプーしても吸着性キューティクル保護成分（＊2）がコートしてうるおい、逃さない。◆ひどく傷んで広がる髪をおさえて、まとまり続く。◆ふんわり香るフルーティーフラワーノートの香り＊1 リンゴ酸＊2 ポリクオタニウム-6",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/merit/mrt_shampoo_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/merit/mrt_shampoo_01_img_l.jpg",
+    "name": "メリット シャンプー",
+    "text": "地肌から清潔、根元から髪サラサラ。いつも通り洗うだけで皮脂や汚れをふわっと「浮かせる泡」。●髪と地肌と同じ弱酸性●すっきり洗えるノンシリコーン処方●地肌にうるおいをあたえ、角層を整えます。（ユーカリエキス・カモミラエキス・フルーツ酸配合）●フケやかゆみを防ぎます。●ナチュラルフローラルのやさしい香り（医薬部外品）",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/merit/mrt_shampoo_02_img_s.jpg",
+        "name": "つめかえ用 340ml"
+      },
+      {
+        "img": "/jp/kao_imgs/merit/mrt_shampoo_00_img_s.jpg",
+        "name": "レギュラー 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/merit/mrt_rinse_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/merit/mrt_rinse_01_img_l.jpg",
+    "name": "メリット リンス",
+    "text": "地肌から清潔、根元から髪サラサラ。うるおうのに軽い仕上がり。根元からサラサラの髪に。●髪と地肌と同じ弱酸性●髪のからまりを防ぎます。●地肌にうるおいをあたえ、角層を整えます。（ユーカリエキス・カモミラエキス・フルーツ酸配合）●フケやかゆみを防ぎます。●ナチュラルフローラルのやさしい香り（医薬部外品）",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/merit/mrt_rinse_02_img_s.jpg",
+        "name": "つめかえ用 340ml"
+      },
+      {
+        "img": "/jp/kao_imgs/merit/mrt_rinse_00_img_s.jpg",
+        "name": "レギュラー 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/merit/mrt_shampoo_rinsein_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/merit/mrt_shampoo_rinsein_01_img_l.jpg",
+    "name": "メリット リンスのいらないシャンプー",
+    "text": "地肌から清潔、根元から髪サラサラ。いつも通り洗うだけで皮脂や汚れをふわっと「浮かせる泡」。(リンス成分（毛髪保護剤）配合)●髪と地肌と同じ弱酸性●地肌にうるおいをあたえ、角層を整えます。（ユーカリエキス・カモミラエキス・フルーツ酸配合）●フケやかゆみを防ぎます。●ナチュラルフローラルのやさしい香り（医薬部外品）",
+    "lineup_num": 4,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/merit/mrt_shampoo_rinsein_02_img_s.jpg",
+        "name": "つめかえ用 340ml"
+      },
+      {
+        "img": "/jp/kao_imgs/merit/mrt_shampoo_rinsein_00_img_s.jpg",
+        "name": "レギュラー 200ml"
+      },
+      {
+        "img": "/jp/kao_imgs/merit/mrt_shampoo_rinsein_03_img_s.jpg",
+        "name": "ミニ 80ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/merit/mrt_shampoo_rinseincool_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/merit/mrt_shampoo_rinseincool_01_img_l.jpg",
+    "name": "メリット リンスのいらないシャンプー クールタイプ",
+    "text": "地肌の汗のニオイまで防ぎ、洗った後もスーッと爽快！気分もリフレッシュ。(リンス成分（毛髪保護剤）配合)●爽快メントール（※清涼剤）●髪と地肌と同じ弱酸性●地肌にうるおいをあたえ、角層を整えます。（ユーカリエキス・カモミラエキス・フルーツ酸配合）●フケやかゆみを防ぎます。●リフレッシュミントの香り（医薬部外品）",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/merit/mrt_shampoo_rinseincool_02_img_s.jpg",
+        "name": "つめかえ用 340ml"
+      },
+      {
+        "img": "/jp/kao_imgs/merit/mrt_shampoo_rinseincool_00_img_s.jpg",
+        "name": "レギュラー 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/merit/mrt_hairmilk_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/merit/mrt_hairmilk_00_img_l.jpg",
+    "name": "メリット さらさらヘアミルク",
+    "text": "パサつきが気になるママの髪や、からまりやすいお子さまの細い髪も、するんとなめらかな指どおりに。親子で使えるトリートメントです。●カモミールミルクα（カモミラエキス・乳清・ユーカリエキス・フルーツ酸）配合＜保湿成分＞●植物由来リコリスC（グリチルリチン酸ジカリウム）が、フケやかゆみを防ぎます。●髪と地肌とおなじ弱酸性●ナチュラルフローラルのやさしい香り（医薬部外品）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/merit/mrt_shampoo_brush_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/merit/mrt_shampoo_brush_00_img_l.jpg",
+    "name": "メリット シャンプーブラシ",
+    "text": "指では洗いにくい地肌まで、きちんと洗えるシャンプーブラシ。地肌まできちんと洗えば、根元から髪サラサラに。●親子で使えるやさしさ設計・細く長い髪でもからまりにくい・ブラシの先端がやわらかいから、地肌にやさしい・お母さまやお子さまの小さな手でも持ちやすいサイズ●毛穴・根元・地肌にはたらく3種類のブラシ・毛穴の汚れをやさしくかきとる・根元の汚れをしっかり落とす・地肌を心地よくマッサージ",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/curel/crl_shampoo_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/curel/crl_shampoo_01_img_l.jpg",
+    "name": "キュレル シャンプー ［ポンプ］ 【医薬部外品】",
+    "text": "健やかな頭皮のために必須の成分「セラミド」を守りながら、皮脂や汚れをスッキリ落とします。乾燥、フケ・かゆみなどの頭皮トラブルを防ぎます。植物由来の消炎剤（有効成分）配合｡きめ細かい豊かな泡立ちで、からまずスムーズな洗い心地。赤ちゃんにもお使いいただけます。頭皮や肌に触れても、肌荒れしにくい低刺激。・弱酸性・無香料・無着色",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/curel/crl_shampoo_03_img_s.jpg",
+        "name": "つめかえ用 360ml"
+      },
+      {
+        "img": "/jp/kao_imgs/curel/crl_shampoo_00_img_s.jpg",
+        "name": "ボトル 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/curel/crl_conditioner_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/curel/crl_conditioner_01_img_l.jpg",
+    "name": "キュレル コンディショナー ［ポンプ］ 【医薬部外品】",
+    "text": "負担を抑えながら、頭皮と髪の潤いを守ります。乾燥、フケ・かゆみなどの頭皮トラブルを防ぎます。植物由来の消炎剤（有効成分）配合｡パサつきがちな毛先まで潤いが浸透して、指どおりなめらかに仕上げます。スッキリすすげて、頭皮や髪に残りにくい低刺激。・弱酸性・無香料・無着色",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/curel/crl_conditioner_02_img_s.jpg",
+        "name": "つめかえ用 360ml"
+      },
+      {
+        "img": "/jp/kao_imgs/curel/crl_conditioner_00_img_s.jpg",
+        "name": "ボトル 200ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/curel/crl_miniset_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/curel/crl_miniset_01_img_l.jpg",
+    "name": "キュレル シャンプー&コンディショナー ミニセット 【医薬部外品】",
+    "text": "旅行やお出かけに便利なミニセット。乾燥、フケ・かゆみなどの頭皮トラブルを防ぎます。植物由来の消炎剤（有効成分）配合。・弱酸性・無香料・無着色",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/success/scs_shampoo_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/success/scs_shampoo_00_img_l.jpg",
+    "name": "サクセス 薬用シャンプー [本体]",
+    "text": "皮脂ミクロ洗浄で毛穴につまったアブラを落として、育毛剤・育毛トニックの浸透を助けます。フケ･かゆみ、汗のニオイを防ぎます。液が頭皮にゆきわたるダイレクトタッチ式容器。※各アイテムを区別しやすいようにS1～S4の識別記号を表記しています。詳しくは右のQ＆Aをごらんください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/success/scs_shampoo_03_img_s.jpg",
+        "name": "つめかえ用 330ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/success/scs_shampoo_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/success/scs_shampoo_01_img_l.jpg",
+    "name": "サクセス 薬用シャンプー エクストラクール [本体]",
+    "text": "皮脂ミクロ洗浄で毛穴につまったアブラを落として、育毛剤・育毛トニックの浸透を助けます。フケ･かゆみ、汗のニオイを防ぎます。液が頭皮にゆきわたるダイレクトタッチ式容器。超爽快タイプのエクストラクール。※各アイテムを区別しやすいようにS1～S4の識別記号を表記しています。詳しくは右のQ＆Aをごらんください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/success/scs_shampoo_02_img_s.jpg",
+        "name": "エクストラクール つめかえ用 330ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/success/scs_shampoo_04_img_s.jpg",
+    "img_l": "/jp/kao_imgs/success/scs_shampoo_04_img_l.jpg",
+    "name": "サクセス 薬用シャンプー （Wリンス成分配合） [本体]",
+    "text": "皮脂ミクロ洗浄で毛穴につまったアブラを落として、育毛剤・育毛トニックの浸透を助けます。W（ダブル）のリンス成分（毛髪保護成分）の働きで、髪からまずにやさしく洗えます。乾いた後はきしまず、サラサラの仕上がりです。フケ･かゆみ、汗のニオイを防ぎます。ポンプタイプ。※各アイテムを区別しやすいようにS1～S4の識別記号を表記しています。詳しくは右のQ＆Aをごらんください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/success/scs_shampoo_05_img_s.jpg",
+        "name": "Wリンス成分配合 つめかえ用 300ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/success/scs_shampoo_06_img_s.jpg",
+    "img_l": "/jp/kao_imgs/success/scs_shampoo_06_img_l.jpg",
+    "name": "サクセス 薬用シャンプー エクストラクール （Wリンス成分配合） [本体]",
+    "text": "皮脂ミクロ洗浄で毛穴につまったアブラを落として、育毛剤・育毛トニックの浸透を助けます。W（ダブル）のリンス成分（毛髪保護成分）の働きで、髪からまずにやさしく洗えます。乾いた後はきしまず、サラサラの仕上がりです。フケ･かゆみ、汗のニオイを防ぎます。ポンプタイプ。超爽快タイプのエクストラクール。※各アイテムを区別しやすいようにS1～S4の識別記号を表記しています。詳しくは右のQ＆Aをごらんください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/success/scs_shampoo_07_img_s.jpg",
+        "name": "Wリンス成分配合 エクストラクール つめかえ用 300ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/success/scs_rinse_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/success/scs_rinse_01_img_l.jpg",
+    "name": "サクセス リンス ボリュームアップタイプ [本体]",
+    "text": "ボリュームアップ成分配合。髪一本一本にハリ・コシのあるボリュームをあたえ、乾いた後に髪がペタッとなりません。頭皮がスーッとする心地よい爽快感。ベタつかず、シャンプー後のサッパリ感がつづきます。※各アイテムを区別しやすいようにR1～R2の識別記号を表記しています。詳しくは右のQ＆Aをごらんください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/success/scs_rinse_03_img_s.jpg",
+        "name": "ボリュームアップタイプ つめかえ用 330ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/success/scs_rinse_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/success/scs_rinse_00_img_l.jpg",
+    "name": "サクセス リンス 髪 サラッとタイプ [本体]",
+    "text": "さらさらパウダー配合。シャンプー後の「きしみ」や「ひっかかり」をやわらげ、乾いた後にサラッとした髪に仕上げます。頭皮がスーッとする心地よい爽快感。ベタつかず、シャンプー後のサッパリ感がつづきます。※各アイテムを区別しやすいようにR1～R2の識別記号を表記しています。詳しくは右のQ＆Aをごらんください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/success/scs_rinse_02_img_s.jpg",
+        "name": "髪 サラッとタイプ つめかえ用 330ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/success/scs_shampoo_brush_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/success/scs_shampoo_brush_00_img_l.jpg",
+    "name": "サクセス 頭皮洗浄ブラシ",
+    "text": "指では落としにくい毛穴の汚れをしっかり落とし、洗いながらのマッサージで血行促進効果もある洗浄ブラシ。ディープクリーナーが毛穴の奥のアブラまで落とし、2種類のマッサージ突起が頭皮をマッサージし血行を促進。頭皮にフィットするカーブ形状。ブラシの先端はすべて丸くなっており頭皮を傷つけません。ブラシの硬さ「ふつう」。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/success/scs_shampoo_brush_01_img_s.jpg",
+        "name": "やわらかめ"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/success/scs_vshampoo_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/success/scs_vshampoo_00_img_l.jpg",
+    "name": "サクセスV 薬用シャンプー [本体]",
+    "text": "大人の頭皮にマッサージケア。年齢と共に変化する髪と頭皮に着目。頭皮に負担をかけず洗えます。マイルドスムーザー成分配合の、マッサージに適したなめらか処方。毛穴につまったアブラを落として、育毛剤の浸透を助けます。ノンシリコーン処方。フケ・かゆみを防ぎます。3つの天然由来エキス配合（センブリエキス、黄杞エキス、トウガラシエキス）。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/success/scs_vshampoo_01_img_s.jpg",
+        "name": "薬用シャンプー つめかえ用 300ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/success/scs_vrinse_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/success/scs_vrinse_00_img_l.jpg",
+    "name": "サクセスV ハリ＆コシ リンス [本体]",
+    "text": "大人の頭皮にマッサージケア。年齢と共に変化する髪と頭皮に着目。髪の根元にハリ、コシをプラスします。ハリ＆コシ成分ＥＸ配合※。髪を根元から立ち上げて、乾いた後ペタッとしません。髪に適度なうるおいをあたえます。ベタつかず、シャンプー後のサッパリ感がつづきます。※β－ナフタレンスルホン酸、センブリエキス、黄杞エキス、ユーカリ葉エキス、ニンジンエキス、ローヤルゼリーエキス",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/success/scs_vrinse_01_img_s.jpg",
+        "name": "ハリ＆コシ リンス つめかえ用 300ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/success/scs_vmassage_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/success/scs_vmassage_00_img_l.jpg",
+    "name": "サクセスV ペアもみマッサージ",
+    "text": "大人の頭皮にマッサージケア。年齢と共に変化する髪と頭皮に着目。シャンプーしながらぐりぐり深もみ。絶妙な気持ちよさを引き出す独自設計です。やわらかボディで手の動きに合わせて頭皮にピタッとフィット。押しほぐしマッサージの先端にある７つの弾力突起が頭皮をググッと圧迫。もみほぐしマッサージが硬くなりがちな頭皮をやわらかくもみほぐします。自由自在のマッサージで血行促進。",
+    "lineup_num": 1
+  }
+]

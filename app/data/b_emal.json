@@ -1,0 +1,28 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/emal/ema_emalre_fresh_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/emal/ema_emalre_fresh_00_img_l.jpg",
+    "name": "エマール リフレッシュグリーンの香り",
+    "text": "トリートメントしながらすっきり洗うから、くり返し洗う服も、色・シルエットキープ。色あせ・毛羽立ち・ヨレ・縮みを防いで、汚れ・ニオイをしっかり落とします。使い方はカンタン。取り扱い絵表示で水洗いOKの衣料なら、洗濯機のドライコースで、安心して洗えます。ほのかなリフレッシュグリーンの香り。蛍光剤無配合のおしゃれ着用中性洗剤です。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/emal/ema_emalre_fresh_01_img_s.jpg",
+        "name": "リフレッシュグリーンの香り つめかえ用 400ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/emal/ema_emalre_aroma_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/emal/ema_emalre_aroma_00_img_l.jpg",
+    "name": "エマール アロマティックブーケの香り",
+    "text": "トリートメントしながらすっきり洗うから、くり返し洗う服も、色・シルエットキープ。色あせ・毛羽立ち・ヨレ・縮みを防いで、汚れ・ニオイをしっかり落とします。使い方はカンタン。取り扱い絵表示で水洗いOKの衣料なら、洗濯機のドライコースで、安心して洗えます。はなやぐアロマティックブーケの香りが続く、蛍光剤無配合のおしゃれ着用中性洗剤です。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/emal/ema_emalre_aroma_01_img_s.jpg",
+        "name": "アロマティックブーケの香り つめかえ用 400ml"
+      }
+    ]
+  }
+]

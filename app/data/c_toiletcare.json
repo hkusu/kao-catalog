@@ -1,0 +1,140 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_toilet_spray_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_toilet_spray_00_img_l.jpg",
+    "name": "トイレマジックリン 消臭・洗浄スプレー ミントの香り",
+    "text": "トイレのニオイ消しもおそうじも、1本でできるクリーナーです。トイレ使用前後の消臭や便の付着防止に、便器の中のそうじに、便座や床のふきそうじに。温水洗浄便座にも使えます。逆さにしても使える容器です。中性タイプです。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_toilet_spray_01_img_s.jpg",
+        "name": "ミントの香り つめかえ用 350ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_toilet_spray_02_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_toilet_spray_02_img_l.jpg",
+    "name": "トイレマジックリン 消臭・洗浄スプレー オレンジの香り",
+    "text": "トイレのニオイ消しもおそうじも、1本でできるクリーナーです。トイレ使用前後の消臭や便の付着防止に、便器の中のそうじに、便座や床のふきそうじに。温水洗浄便座にも使えます。逆さにしても使える容器です。中性タイプです。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_toilet_spray_03_img_s.jpg",
+        "name": "オレンジの香り つめかえ用 350ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_toilet_spray_aroma_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_toilet_spray_aroma_00_img_l.jpg",
+    "name": "トイレマジックリン 消臭・洗浄スプレーAROMA（アロマ） エッセンシャルローズの香り",
+    "text": "天然アロマエッセンスを配合したエッセンシャルローズの香りのトイレクリーナー。シュッとスプレーすれば、1本で便器内の「洗浄」はもちろん、「トイレの消臭」「便器や床の拭き掃除」にも使えて、更に「除菌」「防汚」の効果もあって便利。温水洗浄便座にも使えます。逆さにしても使える容器です。中性タイプです。※リセッシュアロマチャージと同じ香調です。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_toilet_spray_aroma_01_img_s.jpg",
+        "name": "エッセンシャルローズの香り つめかえ用 350ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_toilet_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_toilet_00_img_l.jpg",
+    "name": "トイレマジックリン 強力クレンザー [小]",
+    "text": "便器やタイルの汚れ、黄ばみをすっきり落とすクレンザータイプ。中性タイプです。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_toilet_wkirei_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_toilet_wkirei_00_img_l.jpg",
+    "name": "トイレマジックリン 流すだけで勝手にキレイ ライトブーケの香り",
+    "text": "洗浄と抗菌のW効果！流すたび汚れをしっかり落とすのはもちろん、水たまりのまわりの黒ずみや、イヤなニオイの原因にもなる、菌の繁殖まで抑えて、いつもピカピカなトイレを保ちます。ほのかなライトブーケの香りです。抗菌成分配合。流れる水は無色です。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_toilet_wkirei_01_img_s.jpg",
+        "name": "ライトブーケの香り つけかえ用 80g"
+      },
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_toilet_wkirei_02_img_s.jpg",
+        "name": "ライトブーケの香り つけかえ用2コパック 80g×2"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_toilet_wkirei_03_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_toilet_wkirei_03_img_l.jpg",
+    "name": "トイレマジックリン 流すだけで勝手にキレイ オレンジの香り",
+    "text": "洗浄と抗菌のW効果！流すたび汚れをしっかり落とすのはもちろん、水たまりのまわりの黒ずみや、イヤなニオイの原因にもなる、菌の繁殖まで抑えて、いつもピカピカなトイレを保ちます。ほのかなオレンジの香りです。抗菌成分配合。流れる水は無色です。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_toilet_wkirei_04_img_s.jpg",
+        "name": "オレンジの香り つけかえ用 80g"
+      },
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_toilet_wkirei_10_img_s.jpg",
+        "name": "オレンジの香り つけかえ用2コパック 80g×2"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_toilet_wkirei_07_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_toilet_wkirei_07_img_l.jpg",
+    "name": "トイレマジックリン 流すだけで勝手にキレイ ローズせっけんの香り",
+    "text": "洗浄と抗菌のW効果！流すたび汚れをしっかり落とすのはもちろん、水たまりのまわりの黒ずみや、イヤなニオイの原因にもなる、菌の繁殖まで抑えて、いつもピカピカなトイレを保ちます。ほのかなローズせっけんの香りです。抗菌成分配合。流れる水は無色です。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_toilet_wkirei_08_img_s.jpg",
+        "name": "ローズせっけんの香り つけかえ用 80g"
+      },
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_toilet_wkirei_09_img_s.jpg",
+        "name": "ローズせっけんの香り つけかえ用2コパック 80g×2"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_toilet_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_toilet_00_img_l.jpg",
+    "name": "除菌洗浄トイレハイター",
+    "text": "たれにくい液がフチ裏のしつこい黒ずみ・バイ菌に密着し、ブラシいらずで一度にスッキリ落とす塩素系クリーナーです。除菌漂白効果もあります。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/quickle/qkl_toilet_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/quickle/qkl_toilet_00_img_l.jpg",
+    "name": "トイレクイックル",
+    "text": "厚手で丈夫なふんわりデコボコシートなので、便座・便器まわりから床・壁まで「1枚でトイレまるごとおそうじ」。汚れが手につく心配もなく、快適にふきそうじができます。ミントの香りで、気になる尿ハネのニオイまでスッキリ消臭。使用後はそのままトイレに流せます。温水洗浄便座／暖房便座にも使えます。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/quickle/qkl_toilet_01_img_s.jpg",
+        "name": "つめかえ用 10枚入"
+      },
+      {
+        "img": "/jp/kao_imgs/quickle/qkl_toilet_02_img_s.jpg",
+        "name": "つめかえ用ジャンボパック 20枚入"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/quickle/qkl_toilet_aroma_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/quickle/qkl_toilet_aroma_00_img_l.jpg",
+    "name": "トイレクイックルアロマ エッセンシャルローズの香り",
+    "text": "厚手で丈夫なふんわりデコボコシートなので、便座・便器まわりから床・壁まで「1枚でトイレまるごとおそうじ」。汚れが手につく心配もなく、快適にふきそうじができます。華やかなアロマの香りを楽しみながら、トイレをおそうじできます。（リセッシュアロマチャージエッセンシャルローズの香りと同じ香調です）香りの持続性、消臭効果にも優れています。使用後はそのままトイレに流せます。温水洗浄便座／暖房便座にも使えます。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/quickle/qkl_toilet_aroma_01_img_s.jpg",
+        "name": "つめかえ用 10枚入"
+      },
+      {
+        "img": "/jp/kao_imgs/quickle/qkl_toilet_aroma_02_img_s.jpg",
+        "name": "つめかえ用ジャンボパック 20枚入"
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_flooring_spray_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_flooring_spray_00_img_l.jpg",
+    "name": "フローリングマジックリン つや出しスプレー",
+    "text": "フローリングの「汚れ落とし」と「つや出し」が一度にできます。中性タイプなので、ワックスした床にも安心して使えます。速乾タイプです。新緑の香り。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_flooring_spray_01_img_s.jpg",
+        "name": "つけかえ用 400ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_glass_spray_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_glass_spray_00_img_l.jpg",
+    "name": "ガラスマジックリン",
+    "text": "ホコリなどでくすんだ窓ガラス、手あかなどでくもった洗面台の鏡などの汚れもスッキリ落として、ピカピカで透明な仕上がりになります。2度ぶきなしで、ふきすじを残しません。たれにくい密着泡スプレー。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_glass_spray_01_img_s.jpg",
+        "name": "つめかえ用 350ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/mypet/mpt_mypet_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/mypet/mpt_mypet_00_img_l.jpg",
+    "name": "マイペット",
+    "text": "床、たたみ、カーペットや家具、照明器具、電気製品など住まいのいろいろなふきそうじに。汚れの程度にあわせて、うすめて幅広く使える、2度ぶきがいらない住まいの洗剤です。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/mypet/mpt_mypet_01_img_s.jpg",
+        "name": "大 2000ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/mypet/mpt_spray_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/mypet/mpt_spray_00_img_l.jpg",
+    "name": "かんたんマイペット",
+    "text": "住まいのいろいろなところに使える、ふきそうじ用洗剤。除菌もできて、2度ぶき不要のスプレータイプです。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/mypet/mpt_spray_01_img_s.jpg",
+        "name": "つめかえ用 350ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_pipe_jell_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_pipe_jell_00_img_l.jpg",
+    "name": "パイプハイター 高粘度ジェル",
+    "text": "高粘度ジェルが髪の毛・ヌメリを溶かしてつまりを解消。香りはマイルド。注ぎやすく液ダレしにくい容器です。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_pipe_powder_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_pipe_powder_00_img_l.jpg",
+    "name": "パイプハイター 連続発泡パウダー",
+    "text": "連続発泡パウダーがつまり・ニオイを解消！手軽に使える粉末分包タイプ。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_washing_tank_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_washing_tank_00_img_l.jpg",
+    "name": "洗たく槽ハイター",
+    "text": "発泡成分が見えない洗たく槽の裏側のカビ・水アカ汚れをはがして浮かせます。除菌もできて、嫌なニオイもスッキリ解消。ツンとしたニオイが気にならない粉末酸素系（つけ置きタイプ）。計量の手間がいらない、1回使い切りタイプです。【洗たく槽用洗浄剤（粉末酸素系）】※塩素系非使用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/quickle/qkl_wetcloth_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/quickle/qkl_wetcloth_00_img_l.jpg",
+    "name": "食卓クイックル ウエットクロス",
+    "text": "99％以上除菌の食卓用清潔ウエットクロスです。1枚で食卓から調理台・シンクまでスッキリ！まとめて１度のしっかり除菌に。凸凹シートが食卓などの食べこぼし・手垢、粒ごみをかきとり、消臭・除菌効果もあります。洗浄成分は植物由来。冷蔵庫・電子レンジ・電気製品・床などにも使えて安心です。2度ぶきの必要はありません。ほのかな緑茶の香りです。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/quickle/qkl_cleaner_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/quickle/qkl_cleaner_00_img_l.jpg",
+    "name": "食卓クイックルスプレー",
+    "text": "99％以上除菌の食卓用清潔スプレーです。ティッシュでふきとりOK。手軽に菌・汚れがスッキリ！食前食後のこまめ除菌に。食卓などの食べこぼし・手垢をしっかり落とし、消臭・除菌効果もあります。洗浄成分は植物由来で、中性タイプ。冷蔵庫・電子レンジ・電気製品・床などにも使えて安心です。2度ぶきの必要はありません。ほのかな緑茶の香りです。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/quickle/qkl_cleaner_01_img_s.jpg",
+        "name": "つめかえ用 250ml"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/family/fml_pure_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/family/fml_pure_00_img_l.jpg",
+    "name": "ファミリーピュア",
+    "text": "すぐれた洗浄力に消臭機能をプラス。ハーブと消臭成分のはたらきで、落ちにくいニオイまでスッキリ消臭。豊かな泡立ちで、洗浄力が長続き。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/family/fml_pure_01_img_s.jpg",
+        "name": "つめかえ用 400ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/family/fml_fresh_compact_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/family/fml_fresh_compact_00_img_l.jpg",
+    "name": "ファミリーフレッシュコンパクト",
+    "text": "とことん油汚れに強い食器用洗剤。プラスチックやスポンジにしみこんだ油汚れを溶かして落とします。力強い泡がたっぷりと続きます。植物性原料なので、手にもやさしい洗剤です。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/family/fml_fresh_compact_01_img_s.jpg",
+        "name": "つめかえ用 220ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/family/fml_pure_dishwash_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/family/fml_pure_dishwash_00_img_l.jpg",
+    "name": "自動食器洗い機用ファミリーピュア [本体］",
+    "text": "落ちにくいごはん粒のこびりつき、タンパク汚れまでしっかり分解します。消臭成分PCとハーブ香料の働きで、扉を開けた時に気になるニオイをスッキリ消臭します。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/family/fml_pure_dishwash_01_img_s.jpg",
+        "name": "大型つめかえ用 600g"
+      }
+    ]
+  }
+]

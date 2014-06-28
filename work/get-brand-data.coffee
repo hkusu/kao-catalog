@@ -12,9 +12,11 @@ getLinup = ->
     e.getAttribute('src')
 
 getLinupText = ->
-  links = document.querySelectorAll(".product-panel a")
+  #links = document.querySelectorAll(".product-panel a")
+  links = document.querySelectorAll(".product-panel img[src^=\"/jp/\"]")
   Array::map.call links, (e) ->
-    e.text
+    #e.text
+    e.getAttribute('alt')
 
 # 何かをスタートしないといけないみたいなので意味なくGoogleを指定
 casper.start "http://google.fr/", ->

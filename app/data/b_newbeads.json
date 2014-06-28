@@ -1,0 +1,42 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/newbeads/nbs_neo_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/newbeads/nbs_neo_00_img_l.jpg",
+    "name": "フレグランスニュービーズ Neo（ネオ）",
+    "text": "フレグランスニュービーズNeoは柔軟剤入りの2.5倍濃縮液体洗剤。スリムなコンパクトボトル。少しの量で衣類をピュアな白さに洗い上げます。しっかり消臭、ふわっと発香。上質なエレガントフローラルの香りが、香り立ちます。お気に入りの柔軟剤の香りと相性ぴったり。蛍光剤無配合なので、きなりや淡色の衣料も本来の色合いそのままに洗い上げます。すすぎ1回で節水・節電、時短につながり、環境負荷を軽減します。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/newbeads/nbs_neo_01_img_s.jpg",
+        "name": "つめかえ用 360g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/newbeads/nbs_funwarigel_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/newbeads/nbs_funwarigel_00_img_l.jpg",
+    "name": "フレグランスニュービーズジェル",
+    "text": "フレグランスニュービーズは柔軟剤入りの液体洗剤。香りふくらむピュアな白さ。しっかり消臭、ふわっと発香。ピュアフローラルの香りが優しく香り立ちます。お気に入りの柔軟剤の香りと相性ぴったり。蛍光剤無配合なので、きなりや淡色の衣料も本来の色合いそのままに洗い上げます。ドラム式洗濯機にもおすすめです。すすぎは2回をおすすめします。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/newbeads/nbs_funwarigel_01_img_s.jpg",
+        "name": "つめかえ用 770g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/newbeads/nbs_funwari_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/newbeads/nbs_funwari_00_img_l.jpg",
+    "name": "フレグランスニュービーズ",
+    "text": "フレグランスニュービーズは天然の柔軟剤入り洗剤。香りふくらむピュアな白さ。しっかり消臭、ふわっと発香。ピュアフローラルの香りが優しく香り立ちます。蛍光剤無配合なので、きなりや淡色の衣料も本来の色合いそのままに洗い上げます。すすぎは2回をおすすめします。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/newbeads/nbs_newbeads_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/newbeads/nbs_newbeads_00_img_l.jpg",
+    "name": "ニュービーズ",
+    "text": "柄物にも安心な漂白剤入り洗剤です。落ちにくい黄ばみ・くすみまですっきり落し、きれいな白さに。部屋干しのイヤなニオイも防ぎます。新鮮なすずらんの香りをギュッと凝縮しているので、洗う時から着ている時までさわやかな香りが続きます。蛍光剤無配合なので、きなりや淡色の衣料も本来の色合いそのままに洗い上げます。すすぎは2回をおすすめします。",
+    "lineup_num": 1
+  }
+]

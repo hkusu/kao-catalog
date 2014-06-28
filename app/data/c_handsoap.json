@@ -1,0 +1,78 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/bioreu/bru_handsoap_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/bioreu/bru_handsoap_00_img_l.jpg",
+    "name": "ビオレｕ 泡ハンドソープ",
+    "text": "うるおい守って楽しく手洗い！お子さまでも押しやすい、らくらくポンプの泡ハンドソープ。カサつきがちな手肌も、うるおいを守って洗えます。汚れもニオイもしっかり落として、洗い上がりすっきり。・殺菌成分配合。・素肌とおなじ弱酸性。・SPT（肌清浄化技術）採用。・手に香りが残りにくい、マイルドシトラスの香り。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/bioreu/bru_handsoap_01_img_s.jpg",
+        "name": "つめかえ用 450ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/bioreu/bru_handsoap_02_img_s.jpg",
+    "img_l": "/jp/kao_imgs/bioreu/bru_handsoap_02_img_l.jpg",
+    "name": "ビオレｕ 泡ハンドソープ フルーツの香り",
+    "text": "うるおい守って楽しく手洗い！お子さまでも押しやすい、らくらくポンプの泡ハンドソープ。カサつきがちな手肌も、うるおいを守って洗えます。汚れもニオイもしっかり落として、洗い上がりすっきり。・殺菌成分配合。・素肌とおなじ弱酸性。・SPT（肌清浄化技術）採用。・すすいだ後もほのかに残るフルーツの香り。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/bioreu/bru_handsoap_03_img_s.jpg",
+        "name": "つめかえ用 450ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/bioreu/bru_handsoap_04_img_s.jpg",
+    "img_l": "/jp/kao_imgs/bioreu/bru_handsoap_04_img_l.jpg",
+    "name": "ビオレｕ 泡ハンドソープ シトラスの香り",
+    "text": "うるおい守って楽しく手洗い！お子さまでも押しやすい、らくらくポンプの泡ハンドソープ。カサつきがちな手肌も、うるおいを守って洗えます。汚れもニオイもしっかり落として、洗い上がりすっきり。・殺菌成分配合。・素肌とおなじ弱酸性。・SPT（肌清浄化技術）採用。・すすいだ後もほのかに残るシトラスの香り。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/bioreu/bru_handsoap_05_img_s.jpg",
+        "name": "つめかえ用 450ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/bioreu/bru_hand_guard_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/bioreu/bru_hand_guard_00_img_l.jpg",
+    "name": "ビオレｕ 手指の消毒スプレー スキットガード 【指定医薬部外品】",
+    "text": "家族の清潔習慣に！幅広いバイ菌をすばやく消毒。手肌にやさしい保湿成分配合。液体タイプで、素早くなじみ、さらっとした使用感。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/bioreu/bru_hand_guard_01_img_s.jpg",
+        "name": "つけかえ用 400ml"
+      },
+      {
+        "img": "/jp/kao_imgs/bioreu/bru_hand_guard_02_img_s.jpg",
+        "name": "携帯用 30ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/bioreu/bru_wetsheet_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/bioreu/bru_wetsheet_00_img_l.jpg",
+    "name": "ビオレｕ 除菌やわらかウェットシート",
+    "text": "●厚手でやぶれにくいから、1枚ですみずみまでキレイに。●ノンアルコールタイプのやわらかシート。お子さまの口もともやさしくふけます。●泥・油汚れ・バイ菌もしっかりふきとります。【素肌と同じ弱酸性・無香料・テーブルやおもちゃなど、身のまわりのものの除菌に】◇仕事のときに◇スポーツ・レジャーに◇学校やオフィスで",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/curel/crl_handwash_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/curel/crl_handwash_00_img_l.jpg",
+    "name": "キュレル 泡ハンドウォッシュ ［本体］ 【医薬部外品】",
+    "text": "手肌にやさしい低刺激性の泡ハンドウォッシュ。肌の必須成分「セラミド」を守りながら、雑菌や汚れをすっきり洗い流します。2つの有効成分（殺菌消毒成分・グリチルリチン酸塩）配合。キュレルハンドクリームにも入っている保湿成分（グリセリン）配合。手肌への負担を抑えながら洗えます。・1回の使用量目安：ポンプ2押し分",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/curel/crl_handwash_01_img_s.jpg",
+        "name": "つめかえ用 450ml"
+      }
+    ]
+  }
+]

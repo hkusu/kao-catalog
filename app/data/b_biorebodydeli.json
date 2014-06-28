@@ -1,0 +1,84 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_claycleansing_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_claycleansing_00_img_l.jpg",
+    "name": "ビオレボディデリ ボディウォッシュ クレイタイプ",
+    "text": "胸元に手で直接なじませれば、デコルテケアに。クレイ*が汚れを吸着し、透明感のあるデコルテに洗い上げます。泡立てて洗えば、すすいだ時からうるおって全身なめらか美肌に。いつものバスタイムに、これ１本で毎日カンタン美肌づくりが楽しめます。心やすらぐ、グリーンティー＆ハーブの香りに気分まで癒されます。*タルク（洗浄補助成分）",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_scrubcleansing_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_scrubcleansing_00_img_l.jpg",
+    "name": "ビオレボディデリ ボディウォッシュ スクラブタイプ",
+    "text": "ソフトスクラブで角質もすっきり洗う、泡立つスクラブタイプの全身洗浄料。ヒジ・ヒザの角質・背中のザラつきには直接手でマッサージ、泡立てて洗えば全身つるつる美肌に。これ１本で毎日カンタン美肌づくり。心すっきりグレープフルーツ＆ゼリーの香り。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_liquidcleansing_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_liquidcleansing_00_img_l.jpg",
+    "name": "ビオレボディデリ ボディウォッシュ リキッドタイプ",
+    "text": "ベタつきや落ちにくい日やけ止めもしっかり落とすリキッドタイプの全身洗浄料。日やけ止め・ベタつきには直接なじませて、泡立てれば全身すべすべ美肌に。これ一本で毎日カンタン美肌づくり。心はずむオレンジ＆ローズヒップの香り。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_liquidcleansing_01_img_s.jpg",
+        "name": "つめかえ用 340ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_bubble_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_bubble_00_img_l.jpg",
+    "name": "ビオレボディデリ ボディウォッシュ しっとり濃密泡タイプ",
+    "text": "洗っていくうちにどんどん濃密になる泡が肌に密着し、贅沢に全身を包み込みます。うるおいを守りながら汚れをすっと落として、しっとり美肌に。泡が肌に密着して泡もちがよいので、手で泡マッサージをすれば血行を促進。気持ちまでほぐれます。いつものバスタイムに、これ１本で毎日カンタン美肌づくり。心うるおう、ピーチ＆ローズの香り。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_bubble_01_img_s.jpg",
+        "name": "つめかえ用 340ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_cream_overrich_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_cream_overrich_00_img_l.jpg",
+    "name": "ビオレボディデリ 濃厚ハンドバター とてもしっとり",
+    "text": "濃厚ハンドバターが、カサつく手肌も、ささくれやすい指先にも、うるおいを集中的に届けて閉じ込めます。かたくなりやすい指先もしっとりやわ肌に。心とろけるハチミツ＆ゆずの香り。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_cream_overrich_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_cream_overrich_01_img_l.jpg",
+    "name": "ビオレボディデリ 濃厚ハンドバター しっとり",
+    "text": "濃厚ハンドバターが、カサつく手肌も、ささくれやすい指先にも、うるおいを集中的に届けて閉じ込めます。粉ふく手肌も、しっとりなめらかに。心うっとりローズ＆ハーブの香り。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_cream_overrich_02_img_s.jpg",
+    "img_l": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_cream_overrich_02_img_l.jpg",
+    "name": "ビオレボディデリ 濃厚ハンドバター さっぱり",
+    "text": "濃厚ハンドバターが、カサつく手肌も、ささくれやすい指先にも、うるおいを集中的に届けて閉じ込めます。カサつく手肌も、しっとりぷるぷるに。心うるおうピーチ＆プルーンの香り。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_moistcream_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_moistcream_00_img_l.jpg",
+    "name": "ビオレボディデリ うるおいケアポット とてもしっとり",
+    "text": "濃厚ボディバターがお肌の温もりですべるように伸びて、うるおいを長時間閉じ込める高保湿ボディクリーム。お風呂あがりの温かい肌になじませるだけで、うるおい美肌ラッピング。ガサガサの角質も、しっとりやわ肌に。心とろけるハチミツ＆ゆずの香り。・からだ用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_moistcream_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_moistcream_01_img_l.jpg",
+    "name": "ビオレボディデリ うるおいケアポット しっとり",
+    "text": "こくのあるクリームがお肌の温もりですべるように伸びて、うるおいを長時間閉じ込める高保湿ボディクリーム。お風呂あがりの温かい肌になじませるだけで、うるおい美肌ラッピング。粉ふき肌も、しっとりなめらか肌に。心うっとりローズ＆ハーブの香り。・からだ用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_moistcream_02_img_s.jpg",
+    "img_l": "/jp/kao_imgs/biorebodydeli/bbd_bodydeli_moistcream_02_img_l.jpg",
+    "name": "ビオレボディデリ うるおいケアポット さっぱり",
+    "text": "ぷるぷるクリームがお肌の温もりですべるように伸びて、うるおいを長時間閉じ込める高保湿ボディクリーム。お風呂あがりの温かい肌になじませるだけで、うるおい美肌ラッピング。カサつく肌も、ぷるぷるうるおい肌に。心うるおうピーチ＆プルーンの香り。・からだ用",
+    "lineup_num": 1
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/segreta/seg_scalp_conditioner_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/segreta/seg_scalp_conditioner_00_img_l.jpg",
+    "name": "セグレタ 地肌コンディショナー",
+    "text": "髪を支える地肌だから、毎日お風呂でマッサージ。シャンプーをすすいだ後、地肌に直接つけてマッサージ。その後洗い流します。地肌やわらか、根元からハリ・コシのある髪に。地肌の美容液成分（保湿成分）配合（センブリエキス・ユーカリエキス）。さわやかなリフレッシュアロマの香り。別売の地肌マッサージャーとセットでの使用をお勧めします。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/segreta/seg_scalp_conditioner_01_img_s.jpg",
+        "name": "つめかえ用 160ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/segreta/seg_scalp_massage_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/segreta/seg_scalp_massage_00_img_l.jpg",
+    "name": "セグレタ 地肌マッサージャー",
+    "text": "髪を支える地肌だから、毎日お風呂でマッサージ。ラクに押せてしっかりマッサージでき、気持ちまでほぐれる心地よさです。マッサージ効果で血行も促進。地肌コンディショナーとセットでお使いください。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/segreta/seg_scalp_set_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/segreta/seg_scalp_set_00_img_l.jpg",
+    "name": "セグレタ 地肌コンディショナー&地肌マッサージャー",
+    "text": "髪を支える地肌だから、毎日お風呂でマッサージ。シャンプーをすすいだ後、地肌コンディショナーを地肌に直接つけてマッサージ。その後洗い流します。ラクにしっかりマッサージでき、気持ちまでほぐれる心地よさ。地肌やわらか、根元からハリ・コシのある髪に。地肌の美容液成分（保湿成分）配合（センブリエキス・ユーカリエキス）。さわやかなリフレッシュアロマの香り。",
+    "lineup_num": 1
+  }
+]

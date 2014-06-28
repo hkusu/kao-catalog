@@ -1,0 +1,161 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/cape/cpe_soft_02_img_s.jpg",
+    "img_l": "/jp/kao_imgs/cape/cpe_soft_02_img_l.jpg",
+    "name": "ケープ ソフト 微香性",
+    "text": "ハネ・広がりをおさえてふんわりキープ。※微香性。エアゾール製品です。お使いになる時や廃棄される時は、火気と高温にお気を付けください。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/cape/cpe_naturalkeep_02_img_s.jpg",
+    "img_l": "/jp/kao_imgs/cape/cpe_naturalkeep_02_img_l.jpg",
+    "name": "ケープ ナチュラル＆キープ 微香性",
+    "text": "バリッと固めず、自然な感じにキープ。動き、やわらかなニュアンスを保つ。※やわらかフィール成分配合（ポリシリコーン-9）※微香性。ふわっと香るスウィートフルーティの香り。エアゾール製品です。お使いになる時や廃棄される時は、火気と高温にお気を付けください。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/cape/cpe_naturalkeep_05_img_s.jpg",
+    "img_l": "/jp/kao_imgs/cape/cpe_naturalkeep_05_img_l.jpg",
+    "name": "ケープ ナチュラル＆キープ 無香料",
+    "text": "バリッと固めず、自然な感じにキープ。動き、やわらかなニュアンスを保つ。※やわらかフィール成分配合（ポリシリコーン-9）※無香料。エアゾール製品です。お使いになる時や廃棄される時は、火気と高温にお気を付けください。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/cape/cpe_naturalkeep_04_img_s.jpg",
+        "name": "無香料 135g"
+      },
+      {
+        "img": "/jp/kao_imgs/cape/cpe_naturalkeep_03_img_s.jpg",
+        "name": "無香料 50g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/cape/cpe_superhard_02_img_s.jpg",
+    "img_l": "/jp/kao_imgs/cape/cpe_superhard_02_img_l.jpg",
+    "name": "ケープ スーパーハード 微香性",
+    "text": "ハードなキープ力で雨・風にもくずれない。ハネ・浮き毛もしっかりおさえる。※微香性。ふわっと香るスウィートフルーティの香り。エアゾール製品です。お使いになる時や廃棄される時は、火気と高温にお気を付けください。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/cape/cpe_superhard_05_img_s.jpg",
+    "img_l": "/jp/kao_imgs/cape/cpe_superhard_05_img_l.jpg",
+    "name": "ケープ スーパーハード 無香料",
+    "text": "ハードなキープ力で雨・風にもくずれない。ハネ・浮き毛もしっかりおさえる。※無香料。エアゾール製品です。お使いになる時や廃棄される時は、火気と高温にお気を付けください。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/cape/cpe_superhard_04_img_s.jpg",
+        "name": "無香料 135g"
+      },
+      {
+        "img": "/jp/kao_imgs/cape/cpe_superhard_03_img_s.jpg",
+        "name": "無香料 50g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/cape/cpe_3dextra_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/cape/cpe_3dextra_00_img_l.jpg",
+    "name": "ケープ 3Dエクストラキープ 微香性",
+    "text": "くずれやすい立体感・動き・ボリューム感さえも1日強力キープ。湿気が多い時でもくずれない。※耐湿キープ処方※微香性。ふわっと香るスウィートフルーティの香り。エアゾール製品です。お使いになる時や廃棄される時は、火気と高温にお気を付けください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/cape/cpe_3dextra_01_img_s.jpg",
+        "name": "微香性 50g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/cape/cpe_3dextra_02_img_s.jpg",
+    "img_l": "/jp/kao_imgs/cape/cpe_3dextra_02_img_l.jpg",
+    "name": "ケープ 3Dエクストラキープ 無香料",
+    "text": "くずれやすい立体感・動き・ボリューム感さえも1日強力キープ。湿気が多い時でもくずれない。※耐湿キープ処方※無香料。エアゾール製品です。お使いになる時や廃棄される時は、火気と高温にお気を付けください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/cape/cpe_3dextra_03_img_s.jpg",
+        "name": "無香料 50g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/cape/cpe_freearrange_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/cape/cpe_freearrange_01_img_l.jpg",
+    "name": "ケープ フリーアレンジ 微香性",
+    "text": "立体感・空気感・束感ニュアンスどんなアレンジもテクニックいらず！簡単にクセづき、髪も手もベタつき感ゼロ！※しっかりクセづくのに髪も手もベタつかないフリーアレンジ成分*配合。*（PEG/PPG-75/25/炭酸）コポリマー※微香性。ほんのりただようやさしいフルーツの香り。エアゾール製品です。お使いになる時や廃棄される時は、火気と高温にお気を付けください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/cape/cpe_freearrange_00_img_s.jpg",
+        "name": "微香性 42g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/cape/cpe_freearrange_03_img_s.jpg",
+    "img_l": "/jp/kao_imgs/cape/cpe_freearrange_03_img_l.jpg",
+    "name": "ケープ フリーアレンジ 無香料",
+    "text": "立体感・空気感・束感ニュアンスどんなアレンジもテクニックいらず！簡単にクセづき、髪も手もベタつき感ゼロ！※しっかりクセづくのに髪も手もベタつかないフリーアレンジ成分*配合。*（PEG/PPG-75/25/炭酸）コポリマー※無香料。エアゾール製品です。お使いになる時や廃棄される時は、火気と高温にお気を付けください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/cape/cpe_freearrange_02_img_s.jpg",
+        "name": "無香料 42g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/cape/cpe_keep_reset_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/cape/cpe_keep_reset_01_img_l.jpg",
+    "name": "ケープ キープ＆リセット 微香性",
+    "text": "朝のスタイル何度でも手ぐしでよみがえる！風などで乱れた髪も手ぐしを通すだけで元どおりに。その秘密は、ケープ独自の「何度でもリセット処方」。朝のスタイリング時にスプレーしておけば、気づいた時に手直しできていつ見られてもOK♪のヘアスタイルでいられます。※微香性。手ぐしを通すたび香るほのかなスウィートフローラルの香り。エアゾール製品です。お使いになる時や廃棄される時は、火気と高温にお気を付けください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/cape/cpe_keep_reset_00_img_s.jpg",
+        "name": "微香性 42g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/cape/cpe_keep_reset_03_img_s.jpg",
+    "img_l": "/jp/kao_imgs/cape/cpe_keep_reset_03_img_l.jpg",
+    "name": "ケープ キープ＆リセット 無香料",
+    "text": "朝のスタイル何度でも手ぐしでよみがえる！風などで乱れた髪も手ぐしを通すだけで元どおりに。その秘密は、ケープ独自の「何度でもリセット処方」。朝のスタイリング時にスプレーしておけば、気づいた時に手直しできていつ見られてもOK♪のヘアスタイルでいられます。※無香料。エアゾール製品です。お使いになる時や廃棄される時は、火気と高温にお気を付けください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/cape/cpe_keep_reset_02_img_s.jpg",
+        "name": "無香料 42g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/cape/cpe_stylelock_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/cape/cpe_stylelock_01_img_l.jpg",
+    "name": "ケープ スタイルロック 微香性",
+    "text": "くずれやすい、アップのアレンジヘアを瞬間ロック！ケープ独自の「瞬間ロック処方」が、作ったスタイルをそのままキープするので、ムダなピンがいりません。※微香性。スタイル息づくピュアアップルの香り。エアゾール製品です。お使いになる時や廃棄される時は、火気と高温にお気を付けください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/cape/cpe_stylelock_00_img_s.jpg",
+        "name": "微香性 42g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/cape/cpe_stylelock_03_img_s.jpg",
+    "img_l": "/jp/kao_imgs/cape/cpe_stylelock_03_img_l.jpg",
+    "name": "ケープ スタイルロック 無香料",
+    "text": "くずれやすい、アップのアレンジヘアを瞬間ロック！ケープ独自の「瞬間ロック処方」が、作ったスタイルをそのままキープするので、ムダなピンがいりません。※無香料。エアゾール製品です。お使いになる時や廃棄される時は、火気と高温にお気を付けください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/cape/cpe_stylelock_02_img_s.jpg",
+        "name": "無香料 42g"
+      }
+    ]
+  }
+]

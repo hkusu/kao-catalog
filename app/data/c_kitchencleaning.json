@@ -1,0 +1,95 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_deodorant_plus_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_deodorant_plus_00_img_l.jpg",
+    "name": "キッチンマジックリン 消臭プラス",
+    "text": "汚れといっしょにニオイも落とす、キッチン用スプレー洗剤です。魚焼きグリルやレンジまわりの油汚れとニオイをスッキリ落とします。炊飯器やポットの外側、人工大理石の調理台にも使えます。オレンジオイル配合。除菌効果もあります。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_deodorant_plus_01_img_s.jpg",
+        "name": "つめかえ用 250ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_handy_spray_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_handy_spray_00_img_l.jpg",
+    "name": "マジックリン ハンディスプレー",
+    "text": "換気扇やガスレンジなどの、台所まわりのしつこい油汚れを浮かせて分解します。場所をとらないコンパクトサイズのスプレータイプでキッチンでお手軽に使えます。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_handy_spray_01_img_s.jpg",
+        "name": "つけかえ用 400ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_magiclean_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_magiclean_00_img_l.jpg",
+    "name": "マジックリン",
+    "text": "換気扇やガスレンジなどの、台所まわりのしつこい油汚れを浮かせて分解します。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_magiclean_01_img_s.jpg",
+        "name": "大 800ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_wide_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_wide_00_img_l.jpg",
+    "name": "ワイドマジックリン",
+    "text": "魚焼きグリルや鍋にこびりついたベタベタ油汚れ、パイプのつまりやニオイ、洗濯槽のカビ汚れまでをスッキリ落とす、粉末タイプのつけ置き洗剤です。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_wide_01_img_s.jpg",
+        "name": "つめかえ用 360g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_kitchen_drain_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_kitchen_drain_00_img_l.jpg",
+    "name": "キッチンハイター 除菌ヌメリとり",
+    "text": "使い方は排水口にポン！と置くだけ。水を流すたびカセット内部の錠剤が徐々に溶け出して排水口全体に洗浄成分が行き渡り、除菌効果を発揮し、ヌメリ・ニオイをしっかり予防。洗浄成分は安心な中性タイプ（塩素系非使用）。効果は約60日間持続。つけかえ用もあります。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/haiter/hit_kitchen_drain_01_img_s.jpg",
+        "name": "本体ゴムタイプ 17g"
+      },
+      {
+        "img": "/jp/kao_imgs/haiter/hit_kitchen_drain_02_img_s.jpg",
+        "name": "つけかえ用 17g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/quickle/qkl_kitchen_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/quickle/qkl_kitchen_00_img_l.jpg",
+    "name": "キッチンクイックル",
+    "text": "1枚でレンジまわりから壁まで、油料理をした後に飛び散った油汚れをスッキリ落とし、99％以上除菌ができる台所用掃除シートです。丈夫な凸凹シートだから、よれずにしっかりふきとれます。洗浄成分は植物由来です。電子レンジの内側やキッチンの家電製品などにも使えます。二度ぶきは不要です。用途に応じて半分サイズにカットできるミシン目入りです。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/quickle/qkl_kitchen_01_img_s.jpg",
+        "name": "つめかえ用 12枚入"
+      },
+      {
+        "img": "/jp/kao_imgs/quickle/qkl_kitchen_02_img_s.jpg",
+        "name": "つめかえ用 ジャンボパック 24枚入"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/quickpunch/qkp_quickpunch_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/quickpunch/qkp_quickpunch_00_img_l.jpg",
+    "name": "クイックパンチ",
+    "text": "気になるニオイのもとにすばやく効いて、除菌・消臭。バイ菌の繁殖を防ぎ、効果が長時間持続します。",
+    "lineup_num": 1
+  }
+]

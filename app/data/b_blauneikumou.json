@@ -1,0 +1,22 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/blauneikumou/bli_lotion_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/blauneikumou/bli_lotion_00_img_l.jpg",
+    "name": "ブローネ 薬用育毛ローション 無香料",
+    "text": "地肌の血行を促進し、抜け毛を防いで髪の成長を助ける女性向けの育毛ローションです。無香料。（医薬部外品）",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/blauneikumou/bli_lotion_01_img_s.jpg",
+        "name": "微香性"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/blauneikumou/bli_essence_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/blauneikumou/bli_essence_00_img_l.jpg",
+    "name": "ブローネ 薬用育毛エッセンス",
+    "text": "毛根の中心、「毛乳頭」のメカニズムに注目した女性用育毛剤。抜け毛予防、発毛促進効果があります。",
+    "lineup_num": 1
+  }
+]

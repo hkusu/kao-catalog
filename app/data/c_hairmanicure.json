@@ -1,0 +1,68 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/blaune/bln_hairmanicure_06_img_s.jpg",
+    "img_l": "/jp/kao_imgs/blaune/bln_hairmanicure_06_img_l.jpg",
+    "name": "ブローネ ヘアマニキュア ブラウン",
+    "text": "髪をいたわりながら白髪を染めるヘアマニキュア。濃い泡で白髪を目立たなくし、傷んだ髪を補修します。ダメージによる髪内部の空洞に浸透。さらに、髪表面の凹凸をコーティング。ツヤとしなやかさを生み出して、まとまりのよい髪に。ワンプッシュで使えるクシつきタイプ。",
+    "lineup_num": 12,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/blaune/bln_hairmanicure_00_img_s.jpg",
+        "name": "ティーブラウン クシつき本品"
+      },
+      {
+        "img": "/jp/kao_imgs/blaune/bln_hairmanicure_01_img_s.jpg",
+        "name": "ティーブラウン つけかえ用"
+      },
+      {
+        "img": "/jp/kao_imgs/blaune/bln_hairmanicure_04_img_s.jpg",
+        "name": "ライトブラウン クシつき本品"
+      },
+      {
+        "img": "/jp/kao_imgs/blaune/bln_hairmanicure_05_img_s.jpg",
+        "name": "ライトブラウン つけかえ用"
+      },
+      {
+        "img": "/jp/kao_imgs/blaune/bln_hairmanicure_07_img_s.jpg",
+        "name": "ブラウン つけかえ用"
+      },
+      {
+        "img": "/jp/kao_imgs/blaune/bln_hairmanicure_08_img_s.jpg",
+        "name": "ダークブラウン クシつき本品"
+      },
+      {
+        "img": "/jp/kao_imgs/blaune/bln_hairmanicure_09_img_s.jpg",
+        "name": "ダークブラウン つけかえ用"
+      },
+      {
+        "img": "/jp/kao_imgs/blaune/bln_hairmanicure_10_img_s.jpg",
+        "name": "ナチュラルブラック クシつき本品"
+      },
+      {
+        "img": "/jp/kao_imgs/blaune/bln_hairmanicure_11_img_s.jpg",
+        "name": "ナチュラルブラック つけかえ用"
+      },
+      {
+        "img": "/jp/kao_imgs/blaune/bln_hairmanicure_12_img_s.jpg",
+        "name": "アッシュブラウン クシつき本品"
+      },
+      {
+        "img": "/jp/kao_imgs/blaune/bln_hairmanicure_13_img_s.jpg",
+        "name": "アッシュブラウン つけかえ用"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/mensblaune/meb_men_hairmanicure_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/mensblaune/meb_men_hairmanicure_00_img_l.jpg",
+    "name": "メンズブローネ へアマニキュア メンズブラック",
+    "text": "白髪の目立ちをおさえ、自然な感じに仕上がる男性用ヘアマニキュアです。１回の使用で効果は３週間持続。髪にやさしい酸性タイプなので、髪に負担をかけません。※使用上の注意をよく読んで正しくお使いください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/mensblaune/meb_men_hairmanicure_01_img_s.jpg",
+        "name": "メンズブラック つけかえ用"
+      }
+    ]
+  }
+]

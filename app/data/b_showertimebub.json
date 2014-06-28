@@ -1,0 +1,62 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/showertimebub/stb_gel_rose_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/showertimebub/stb_gel_rose_00_img_l.jpg",
+    "name": "シャワータイムバブ らくらくジェル 肌感すっきりタイプ ローズの香り",
+    "text": "シャワーであったかジェルマッサージ！体を洗浄後、適量を手にとり、肩や首周りに塗りのばします。心地よい温かさとフレッシュな香りにふわ～っとつつまれます。軽くもみほぐすようにマッサージ。マッサージ効果で血流を促進、シャワーで流した後は、すっきり感が広がります。ほんのりメントールでマイルドな爽快感。肌感すっきりタイプ／ローズの香りローヤルゼリーエキス（保湿剤）配合",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/showertimebub/stb_gel_citrus_00_img_s.jpg",
+        "name": "シトラスハーブの香り 250ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/showertimebub/stb_rakumomi_massage_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/showertimebub/stb_rakumomi_massage_00_img_l.jpg",
+    "name": "シャワータイムバブ らくもみマッサージ ピンク",
+    "text": "お風呂で使うマッサージ道具。コリをほぐす6mmのイボイボ突起が、奥までググっと効いて血行促進！肩・首のコリをほぐします。また、しなやかに形をかえるやわらか素材なので、もみたいところにピタッとフィット。手や指で押すよりも簡単に、軽い力でマッサージできます。肩・首以外のほか、腕や足にも使えます。らくらくジェルとセットでお使い下さい。ピンク",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/showertimebub/stb_rakumomi_massage_01_img_s.jpg",
+        "name": "グリーン"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/showertimebub/stb_aroma_rose_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/showertimebub/stb_aroma_rose_00_img_l.jpg",
+    "name": "シャワータイムバブ リラックスアロマ 贅沢なローズの香り （香りのタブレット3錠＋専用カップつき）",
+    "text": "火で焚かないお湯アロマ。専用カップにシャワーのお湯（約40℃）と香りのタブレットを入れると、お湯で溶けて、はじけて、香りがひろがります。蒸気に満ちたバスルームでのアロマは、みずみずしく香り立ちます。バスルームいっぱいの香りでリラックス。贅沢なローズの香り（天然エッセンシャルオイルを香料中に使用）／香りのタブレット3錠＋専用カップつき",
+    "lineup_num": 4,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/showertimebub/stb_aroma_rose_01_img_s.jpg",
+        "name": "贅沢なローズの香り （香りのタブレット5錠）"
+      },
+      {
+        "img": "/jp/kao_imgs/showertimebub/stb_aroma_herb_00_img_s.jpg",
+        "name": "くつろぎのハーブの香り （香りのタブレット3錠＋専用カップつき）"
+      },
+      {
+        "img": "/jp/kao_imgs/showertimebub/stb_aroma_herb_01_img_s.jpg",
+        "name": "くつろぎのハーブの香り （香りのタブレット5錠）"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/showertimebub/stb_sarasara_lotion_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/showertimebub/stb_sarasara_lotion_00_img_l.jpg",
+    "name": "シャワータイムバブ さらっと素肌ローション フルーティローズの香り",
+    "text": "シャワーで流すボディローション。気になる汗のべたつき予防に。使い方は簡単！振って塗って流すだけ。高持続性さらさらパウダーが肌のべたつきをおさえ時間がたっても、さらさら感が続きます。心地よい香りで気分リラックス。フルーティローズの香り",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/showertimebub/stb_sarasara_lotion_01_img_s.jpg",
+        "name": "マンダリンシトラスの香り"
+      }
+    ]
+  }
+]

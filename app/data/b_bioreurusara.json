@@ -1,0 +1,28 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/bioreurusara/bus_bodycaresheet_moist_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/bioreurusara/bus_bodycaresheet_moist_00_img_l.jpg",
+    "name": "ビオレ うるさらボディケアシート モイスチャー",
+    "text": "汗のベタつきやニオイをしっかり取りのぞきながら、肌にうるおいを与えるボディ用シート。保湿化粧水成分※が肌（角層）に浸透。ふいたあと、サラッとしながら、すべすべうるおった肌に。上品なホワイトフローラルの香り。天然素材100%のやわらか大判シート。アルコールフリー。※ヒアルロン酸・ローズマリーエキス・ヒバマタ（海藻）エキス",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/bioreurusara/bus_bodycaresheet_moist_01_img_s.jpg",
+        "name": "36枚"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/bioreurusara/bus_bodycaresheet_rich_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/bioreurusara/bus_bodycaresheet_rich_00_img_l.jpg",
+    "name": "ビオレ うるさらボディケアシート リッチモイスチャー",
+    "text": "汗のベタつきやニオイをしっかり取りのぞきながら、肌にうるおいを与えるボディ用シート。保湿化粧水成分※が肌（角層）に浸透。ふいたあと、サラッとしながら、しっとりうるおった肌に。上品なホワイトフローラルの香り。天然素材100%のやわらか大判シート。アルコールフリー。※ヒアルロン酸・ホホバエキス・カミツレエキス",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/bioreurusara/bus_bodycaresheet_rich_01_img_s.jpg",
+        "name": "36枚"
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/relief/rlf_toiletwet_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/relief/rlf_toiletwet_00_img_l.jpg",
+    "name": "リリーフ トイレに流せるおしりふき",
+    "text": "トイレに流せるタイプのおしりふきなので、使用後の処理がとても簡単です。使いやすい厚手の大判タイプ。ミシン目入りで、半分に切って使えます。パルプ100％で肌にやさしく、無香料・ノンアルコールです。手や体にも使えます。※本体は、ふたに指がかけやすく、開けやすい容器です。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/relief/rlf_toiletwet_01_img_s.jpg",
+        "name": "つめかえ用 24枚"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/relief/rlf_handcleaner_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/relief/rlf_handcleaner_00_img_l.jpg",
+    "name": "リリーフ 手指の殺菌・消毒洗浄料",
+    "text": "高い殺菌効果で、手指を清潔に消毒する洗浄剤です。うるおい成分（保湿剤）配合。洗いあがりはしっとり。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/relief/rlf_glove_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/relief/rlf_glove_00_img_l.jpg",
+    "name": "リリーフ おむつ取換え手袋",
+    "text": "指先までフィットする極薄タイプ。ぴったりなじんで素手のような感覚で使えます。●便利で清潔な使い捨てタイプ。●環境にやさしい天然ゴム使用。●着脱しやすい内側ポリアクリレート加工。●パウダーを使用していないので衣類を汚しません。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/relief/rlf_foam_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/relief/rlf_foam_00_img_l.jpg",
+    "name": "リリーフ ポータブルトイレの消臭フォーム",
+    "text": "尿便に直接スプレーするポータブルトイレ専用の消臭剤です。泡がニオイの元を包み込み、緑茶消臭成分でしっかり消臭します。エアゾール製品です。お使いになる時や廃棄される時は、火気と高温にお気を付けください。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/relief/rlf_spray_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/relief/rlf_spray_00_img_l.jpg",
+    "name": "リリーフ お部屋の消臭スプレー",
+    "text": "お部屋の中や布製品にスプレーするだけで、気になるニオイをすばやく消臭。ほのかなサクラの香りです。",
+    "lineup_num": 1
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/segreta/seg_beauty_essence_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/segreta/seg_beauty_essence_00_img_l.jpg",
+    "name": "セグレタ 根元からふんわり美容液",
+    "text": "ハリ・コシのない髪に。ぬれた髪につけて、ドライヤーで乾かすだけで、根元から髪にコシ、気になる分け目もふんわり。手ぐしを通してもつぶれにくく、自然な手触りです。髪と地肌の美容液成分EX配合（ツヤ付与・保湿成分）＜5つの天然由来成分と美髪成分＞気品あるアロマティックフローラルの香り。・ミストタイプ",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/segreta/seg_beauty_essence_01_img_s.jpg",
+        "name": "つめかえ用"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/segreta/seg_beauty_milk_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/segreta/seg_beauty_milk_00_img_l.jpg",
+    "name": "セグレタ 毛先までまとまる美容ミルク",
+    "text": "浮いた髪・バラけた毛先に。髪のうねりを整えて、毛先まですんなり軽やかにまとまります。スーッとなじませやすいミルクタイプで、ベタつかず自然な手触り。ドライヤーの熱や日中の乾燥から守ります。髪と地肌の美容液成分EX配合（ツヤ付与・保湿成分）＜5つの天然由来成分と美髪成分＞気品あるアロマティックフローラルの香り。・ミルクタイプ",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/segreta/seg_beauty_oil_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/segreta/seg_beauty_oil_00_img_l.jpg",
+    "name": "セグレタ 髪サラッとつややか美容オイル",
+    "text": "つやを失ってくすんだ髪に。髪全体にいきいきとした自然なつやを与えます。さらりと軽やかなオイルタイプなので、ベタつかず、すべるような感触です。ドライヤーの熱や日中の乾燥から守ります。髪と地肌の美容液成分EX配合（ツヤ付与・保湿成分）＜5つの天然由来成分と美髪成分＞気品あるアロマティックフローラルの香り。・オイルタイプ",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/segreta/seg_beauty_full_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/segreta/seg_beauty_full_00_img_l.jpg",
+    "name": "セグレタ 髪の美容液 ふっくら仕上げ",
+    "text": "「セグレタシャンプー（ふっくら仕上げ）」で洗い、タオルで拭いた後の湿った髪にスプレー。ドライヤーの熱から守り、乾燥、ごわつきを防いで、ふっくらなめらかに仕上げます。髪の美容液成分配合*（保湿・保護）*4つの天然由来成分**と美髪成分*****ザクロ・バラ・ローヤルゼリー・ユーカリエキス***リンゴ酸気品あるアロマティックフローラルの香り。・ミストタイプ",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/asience/asc_pliant_milk_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/asience/asc_pliant_milk_00_img_l.jpg",
+    "name": "アジエンス しなやか美髪ミルク",
+    "text": "1日つづく、しっとりしたまとまり感。見るたび、さわるたび、いい髪を実感。美髪持続ヴェール成分*1が、髪にとどまって補修。内側にうるおいをキープ。*1 美髪持続ヴェール成分（補修、保湿）：蓮花エキス、椿油、真珠プロテイン*2、月桃エキス、ラノリン脂肪酸*2 加水分解コンキオリン",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/asience/asc_pliant_mist_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/asience/asc_pliant_mist_00_img_l.jpg",
+    "name": "アジエンス しなやか美髪ミスト",
+    "text": "1日つづく、さらっとしたまとまり感。見るたび、さわるたび、いい髪を実感。美髪持続ヴェール成分*1が、髪にとどまって補修。内側にうるおいをキープ。*1 美髪持続ヴェール成分（補修、保湿）：蓮花エキス、椿油、真珠プロテイン*2、月桃エキス、ラノリン脂肪酸*2 加水分解コンキオリン",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/asience/asc_pliant_mist_01_img_s.jpg",
+        "name": "340ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/asience/asc_pliant_oil_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/asience/asc_pliant_oil_00_img_l.jpg",
+    "name": "アジエンス しなやか美髪オイル",
+    "text": "1日つづく、毛先までなめらか。見るたび、さわるたび、いい髪を実感。美髪持続ヴェール成分*1が、髪にとどまって補修。内側にうるおいをキープ。*1 美髪持続ヴェール成分（補修、保湿）：蓮花エキス、椿油、真珠プロテイン*2、月桃エキス、ラノリン脂肪酸*2 加水分解コンキオリン",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/essential/esl_cuticle_milk_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/essential/esl_cuticle_milk_00_img_l.jpg",
+    "name": "エッセンシャル キューティクル補修ミルク",
+    "text": "夜ケアしても、朝には広がりが気になる傷んだ髪に。寝ている間は髪がこすれてダメージが進行します。キューティクルケア処方でキューティクルを補修・保湿。キューティクル密着バリア成分（ポリシリコーン-9、グリセリン）がキューティクルを包み込んで枕ダメージをガード。朝から、すぐにスタイリングを楽しめる髪に。・濃厚なミルクタイプ・ふんわり香るフルーティフラワーノート",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/essential/esl_cuticle_oil_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/essential/esl_cuticle_oil_00_img_l.jpg",
+    "name": "エッセンシャル キューティクル補修オイル",
+    "text": "夜ケアしても、朝にはパサつき・指どおりが気になる傷んだ髪に。寝ている間は髪がこすれてダメージが進行します。キューティクルケア処方でキューティクルを補修・保湿。キューティクル均一コート成分（ポリシリコーン-9、パルミチン酸イソプロピル）が髪1本1本に広がって枕ダメージをガード。朝から、すぐにスタイリングを楽しめる髪に。・べたつかないオイルタイプ・ふんわり香るフルーティフラワーノート",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/essential/esl_cuticle_mist_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/essential/esl_cuticle_mist_00_img_l.jpg",
+    "name": "エッセンシャル キューティクル補修ミスト",
+    "text": "朝、からまりが気になる傷んだ髪に。キューティクルケア処方で傷んだキューティクルを補修・保湿。キューティクルヴェール成分（ポリシリコーン-9、グリシルグリシン）が、からまり、パサつきをリセット。すぐになめらかスルスル。毛先まで素直にまとまる。・コテ・アイロン・ドライヤーの熱から髪を守ります。朝の寝ぐせ直しにも使えます。・紫外線防止成分配合・揺れ動くたびに香るフルーティフラワーノート",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/essential/esl_cuticle_mist_01_img_s.jpg",
+        "name": "340ml"
+      }
+    ]
+  }
+]

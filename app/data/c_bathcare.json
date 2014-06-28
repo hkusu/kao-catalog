@@ -1,0 +1,81 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_bath_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_bath_00_img_l.jpg",
+    "name": "バスマジックリン",
+    "text": "浴槽の湯アカはもちろん、洗面器、イスなど、お風呂中のしつこい汚れまでラクに落とせます。中性タイプ。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_bath_bubble_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_bath_bubble_00_img_l.jpg",
+    "name": "バスマジックリン 泡立ちスプレー",
+    "text": "泡が汚れにはりついて長く効くから、浴槽などの湯アカ・皮脂汚れはスプレーして流すだけでスッキリ。中性タイプ。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_bath_bubble_01_img_s.jpg",
+        "name": "つめかえ用 350ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_bath_wall_plus_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_bath_wall_plus_00_img_l.jpg",
+    "name": "バスマジックリン 泡立ちスプレー 壁の防カビプラス",
+    "text": "「バスマジックリン壁の防カビプラス」は、壁のカビの発生も防ぐバスクリーナーです。水切れ成分を配合。壁の水切れを良くし、カビの原因となる水滴を残さないことで、カビの発生を防ぎます。もちろん、湯アカ・石けんカス汚れもしっかり落とします。浴槽内など毎日のおそうじには、泡の力でこすらず落とします。塩素系のカビとり剤ではないので、いつものおそうじで気軽に使えます。中性タイプ。＊カビが生えている箇所は、まず[強力カビハイター]などでカビを落としてからご使用ください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_bath_wall_plus_01_img_s.jpg",
+        "name": "つめかえ用 350ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_bath_jokin_plus_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_bath_jokin_plus_00_img_l.jpg",
+    "name": "バスマジックリン 泡立ちスプレー 除菌消臭プラス",
+    "text": "「バスマジックリン除菌消臭プラス」は、浴室のピンク汚れの発生を抑えるバスクリーナーです。新除菌成分配合で、従来の除菌効果に加えて、ピンク汚れの原因菌もしっかりと除菌することで次の発生を抑えます。また、浴室のこもったニオイもスッキリ消臭できます。グリーンハーブの香り。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_bath_jokin_plus_01_img_s.jpg",
+        "name": "つめかえ用 350ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/magiclean/mcl_bath_aromadeodorant_plus_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/magiclean/mcl_bath_aromadeodorant_plus_00_img_l.jpg",
+    "name": "バスマジックリン 泡立ちスプレー アロマ消臭プラス",
+    "text": "「バスマジックリンアロマ消臭プラス」は、天然アロマエッセンスを配合。バスマジックリンの高い洗浄力はそのままに、優雅なアロマの香りがおそうじしてる間お風呂空間いっぱいに広がるから、香りを楽しみながら浴室内の洗浄と消臭ができます。リセッシュアロマチャージエッセンシャルローズの香りが楽しめます。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/magiclean/mcl_bath_aromadeodorant_plus_01_img_s.jpg",
+        "name": "つめかえ用 350ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_bath_superstrong_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_bath_superstrong_00_img_l.jpg",
+    "name": "強力カビハイター",
+    "text": "密着成分配合で、きめ細かい泡が垂直面のカビにもとどまって効きます。壁、棚の下側のゴムパッキンやシャワーホースなど、いままで落としにくかった場所のカビもしっかり落とします。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/haiter/hit_bath_superstrong_01_img_s.jpg",
+        "name": "つけかえ用 400ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/furomizuwonder/fmw_furomizuwonder_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/furomizuwonder/fmw_furomizuwonder_00_img_l.jpg",
+    "name": "ふろ水ワンダー 翌日も風呂水キレイ",
+    "text": "清浄成分配合。入浴後に錠剤を一錠入れるだけで浴槽内の清潔をキープし、沸かしなおし時に気になるニオイとヌメリを防ぎます。ご家族の入浴に気持ちよくお使いいただけます。残り湯を沸かしなおしすることで、節水、節約にもつながります。次の日のお洗たくにも気持ちよく使えます。",
+    "lineup_num": 1
+  }
+]

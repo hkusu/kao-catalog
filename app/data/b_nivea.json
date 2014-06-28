@@ -1,0 +1,349 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_lip_moisture_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_lip_moisture_00_img_l.jpg",
+    "name": "ニベア ディープモイスチャーリップ 無香料",
+    "text": "「保水持続ヴェール＊」が唇に広がり、ひと塗りでしっかり潤う高保湿リップクリーム。＊アミノ酸系保水成分とダイマー酸エステル（保水成分）の保水構造体●4つの保湿成分（アミノ酸系保水成分・はちみつ・ローヤルゼリーエキス・オリーブオイル）配合。●2つの有効成分配合で、唇の荒れ・ひび割れを防ぎます。●紫外線から唇を守ります。UVカット成分配合（SPF16・PA+）。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_moisture_01_img_s.jpg",
+        "name": "はちみつの香り"
+      },
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_moisture_03_img_s.jpg",
+        "name": "オリーブ＆レモンの香り"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_lip_basic_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_lip_basic_00_img_l.jpg",
+    "name": "ニベア モイスチャーリップ 無香料",
+    "text": "濃厚保湿の薬用リップクリーム。3つの効果で美しい唇に保ちます。●自然由来の保湿成分（シアバター・ホホバオイル）配合。なめらかな付け心地で保湿成分が唇にひろがります。乾燥を防いでしっとり感を長続きさせます。●ビタミンE（血行促進成分）配合。健やかな唇に保ちます。●グリチルレチン酸ステアリル（消炎成分）配合。唇の荒れ・ひび割れを防ぎます。無香料・無着色・無味。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_basic_01_img_s.jpg",
+        "name": "ビタミンＥ"
+      },
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_basic_02_img_s.jpg",
+        "name": "ＵＶ"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_lip_watering_02_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_lip_watering_02_img_l.jpg",
+    "name": "ニベア モイスチャーリップ ウォータータイプ 無香料",
+    "text": "自然なツヤのある、みずみずしいぷるぷる唇が続きます。3つの保湿成分でうるおいチャージ！（アミノ酸系保水成分、植物性コラーゲンC＊、ヒアルロン酸配合）。＊ニンジンエキス●つけた瞬間水が浸透するようにすーっとなじんでのびる、潤うのにべたつかない使い心地。●2つの有効成分配合。唇の荒れ・ひび割れを防ぎます。●紫外線から唇を守ります。UVカット成分配合（SPF20、PA++）。●無香料",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_watering_04_img_s.jpg",
+        "name": "モイスチャーリッチ"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_lip_natural_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_lip_natural_00_img_l.jpg",
+    "name": "ニベア ナチュラルカラーリップ ウォータータイプ ピンクベージュ",
+    "text": "ほんのり色づいた、みずみずしいぷるぷる唇が続きます。3つの保湿成分でうるおいチャージ！（アミノ酸系保水成分、植物性コラーゲンC＊、ヒアルロン酸配合）。＊ニンジンエキス●ほんのりとした色づきです。●つけた瞬間水が浸透するようにすーっとなじんでのびる潤うのにべたつかない使い心地。●紫外線から唇を守ります。UVカット成分配合（SPF20、PA++）。●ほのかなフレッシュフルーティーの香り",
+    "lineup_num": 4,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_natural_01_img_s.jpg",
+        "name": "ピンクヴェール"
+      },
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_natural_02_img_s.jpg",
+        "name": "チェリーレッド"
+      },
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_natural_03_img_s.jpg",
+        "name": "ローズピンク"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_lip_essence_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_lip_essence_00_img_l.jpg",
+    "name": "ニベア ナチュラルカラーリップ パーフェクトエッセンス ほんのりピンク",
+    "text": "1本でナチュラルメイク＆高保湿。これ1本でふっくらみずみずしいピンク色の唇になる多機能リップ美容液。●美容液成分（ヒアルロン酸・マカデミアナッツオイル）配合。荒れ・乾燥を防ぎ、しっとり唇を保ちます。●グロス効果で、自然で上品なツヤ唇に。●くすみがちな唇をほんのりピンク色に仕上げます。●なめらかにのびて、サラリとなじむつけ心地。●UVカット成分配合（SPF20・PA++）●無香料",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_essence_01_img_s.jpg",
+        "name": "レッド"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_lip_flavor_deli_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_lip_flavor_deli_00_img_l.jpg",
+    "name": "ニベア フレーバーリップ デリシャスドロップ ピーチの香り",
+    "text": "ベースのピーチの香りにアクセントとなるバニラの香りが入った香りのドロップ*を配合。塗ってからしばらくすると香りのドロップがとろけて、バニラの香りのアクセントがふわっと広がります。*シクロデキストリン・香料包接成分●果実由来の保湿成分（オリーブオイル、植物スクワラン）配合●紫外線から唇を守ります。UVカット成分配合（SPF11）●雫型の容器を新採用！",
+    "lineup_num": 4,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_flavor_deli_01_img_s.jpg",
+        "name": "グレープフルーツの香り"
+      },
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_flavor_deli_02_img_s.jpg",
+        "name": "イチゴの香り"
+      },
+      {
+        "img": "/jp/kao_imgs/nivea/nva_lip_flavor_deli_03_img_s.jpg",
+        "name": "ラ・フランスの香り"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_sun_smooth_milk_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_sun_smooth_milk_00_img_l.jpg",
+    "name": "ニベアサン フェイスモイスト スムースミルク",
+    "text": "強力紫外線にはもちろん、毎日の化粧下地にも。朝のうるおい美肌が長時間つづく。皮脂くずれなく、さらっと軽い素肌感覚。ベタつき・テカりを防ぐ化粧下地UVスムースミルク。いつもお使いのメイク落としで落とせます。美容液成分ヒアルロン酸+ローヤルゼリーエキス配合（保湿）皮脂くずれ防止処方液の色：明るい美肌へ導くピンクベージュ（白浮きしません）◆SPF50+／PA+++◆無香料◆顔用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_sun_essence_cream_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_sun_essence_cream_00_img_l.jpg",
+    "name": "ニベアサン フェイスモイスト エッセンスクリーム",
+    "text": "強力紫外線にはもちろん、毎日の化粧下地にも。朝のうるおい美肌が長時間つづく。毛穴・くすみをしっかりカバー。ベタつかないのにしっとり仕上がる化粧下地UVエッセンスクリーム。いつもお使いのメイク落としで落とせます。美容液成分ヒアルロン酸+ローヤルゼリーエキス配合（保湿）皮脂くずれ防止処方液の色：明るい美肌へ導くピンクベージュ（白浮きしません）◆SPF50+／PA+++◆無香料◆顔用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_sun_waterproof_uv_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_sun_waterproof_uv_00_img_l.jpg",
+    "name": "ニベアサン プロテクトプラス ウォータープルーフUVミルク",
+    "text": "「SPF50+／PA++++」で強力紫外線をカット。UV-B波だけでなく、肌内部に届いてシミの原因となるUV-A波までしっかりブロック。うるおい持続処方で、強い日差しの下で失われがちなうるおいをまもります。汗・水に強い、ウォータープルーフタイプのミルク。いつもお使いのメイク落としや、洗浄料などで落とせます。◆SPF50+／PA++++◆無香料・無着色◆顔・からだ用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_sun_skin_uv_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_sun_skin_uv_00_img_l.jpg",
+    "name": "ニベアサン プロテクトプラス スキンUVクリーム",
+    "text": "「SPF50+／PA++++」で強力紫外線をカット。UV-B波だけでなく、肌内部に届いてシミの原因となるUV-A波までしっかりブロック。うるおい持続処方で、強い日差しの下で失われがちなうるおいをまもります。伸びのよいクリームタイプ。いつもお使いの石けんや洗顔料・洗浄料などで落とせます。化粧下地にもご使用いただけます。◆SPF50+／PA++++◆無香料・無着色◆顔・からだ用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_sun_watergel50_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_sun_watergel50_00_img_l.jpg",
+    "name": "ニベアサン プロテクトウォータージェル SPF50",
+    "text": "日常紫外線や強力紫外線から素肌をやさしく守る、みずみずしい使い心地の化粧水感覚UVジェル。紫外線による乾燥などのダメージや、日やけによるシミ・ソバカスを防ぎます。専用クレンジング不要。いつもお使いの石けんや洗顔料・洗浄料などで落とせます。化粧下地にもご使用いただけます。◆SPF50／PA+++◆無香料・無着色◆顔・からだ用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_sun_watergel_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_sun_watergel_00_img_l.jpg",
+    "name": "ニベアサン プロテクトウォータージェル SPF33",
+    "text": "日常紫外線から素肌をやさしく守る、みずみずしい使い心地の化粧水感覚UVジェル。紫外線による乾燥などのダメージや、日やけによるシミ・ソバカスを防ぎます。専用クレンジング不要。いつもお使いの石けんや洗顔料・洗浄料などで落とせます。化粧下地にもご使用いただけます。◆SPF33／PA+++◆無香料・無着色◆顔・からだ用",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_sun_watergel_02_img_s.jpg",
+        "name": "ポンプ 140g"
+      },
+      {
+        "img": "/jp/kao_imgs/nivea/nva_sun_watergel_03_img_s.jpg",
+        "name": "つめかえ用 125g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_sun_watergel_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_sun_watergel_01_img_l.jpg",
+    "name": "ニベアサン プロテクトウォータージェル クール",
+    "text": "クールタイプで日常紫外線から素肌をやさしく守る、化粧水感覚UVジェル。心地よいひんやり感で、肌をすっきり整え、ベタつきをおさえます。専用クレンジング不要。いつもお使いの石けんや洗顔料・洗浄料などで落とせます。化粧下地にもご使用いただけます。◆SPF30／PA++◆無香料・無着色◆顔・からだ用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_sun_watergel_04_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_sun_watergel_04_img_l.jpg",
+    "name": "ニベアサン プロテクトウォータージェル こども用",
+    "text": "乾燥しやすいお子さまの肌を紫外線からやさしく守るノンアルコールUVジェル。専用クレンジング不要。いつもお使いの石けんや洗顔料・洗浄料などで落とせます。◆SPF28／PA++◆ノンアルコール・無香料・無着色◆顔・からだ用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_sun_watermilk_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_sun_watermilk_00_img_l.jpg",
+    "name": "ニベアサン プロテクトウォーターミルク",
+    "text": "汗・水に強く、アウトドアスポーツやマリンスポーツの時も長時間、強力紫外線からしっかり守る、サラッと素肌感覚のUVカットミルク。日やけによるシミ・ソバカスを防ぎます。いつもお使いのメイク落としや洗浄料などで落とせます。化粧下地にもご使用いただけます。◆SPF50+／PA+++◆無香料・無着色◆顔・からだ用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_sun_watermilk_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_sun_watermilk_01_img_l.jpg",
+    "name": "ニベアサン プロテクトウォーターミルク マイルド",
+    "text": "紫外線吸収剤やアルコールに敏感な肌も、強力紫外線からしっかり守る。いつもお使いのメイク落としや洗浄料などで落とせます。化粧下地にもご使用いただけます。◆SPF50+／PA+++◆紫外線吸収剤無配合◆ノンアルコール・無香料・無着色◆顔・からだ用",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_cream_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_cream_01_img_l.jpg",
+    "name": "ニベアクリーム",
+    "text": "健康でしっとりした素肌を保つスキンケアクリームです。顔にも身体にも、全身のスキンケアに家族みんなで使えます。肌にうるおいを与えるスクワラン、ホホバオイル配合。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_cream_00_img_s.jpg",
+        "name": "チューブ 50g"
+      },
+      {
+        "img": "/jp/kao_imgs/nivea/nva_cream_02_img_s.jpg",
+        "name": "缶／大 169g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_skincare_cream_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_skincare_cream_00_img_l.jpg",
+    "name": "ニベアソフト スキンケアクリーム",
+    "text": "乳液のようなサラッとした使用感で、顔や身体や手などの全身に。肌に心地よい感覚のウォーターベースのクリームです。・植物性天然保湿成分「ホホバオイル」配合・肌の内側（角層）に保湿成分がすばやく浸透。ベタつかずにうるおいが長続き。・顔、腕、脚、ひじ、ひざなど全身に簡単にのばして使えます。・無着色",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_skincare_cream_01_img_s.jpg",
+        "name": "ジャー 98g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_skinmilk_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_skinmilk_01_img_l.jpg",
+    "name": "ニベア スキンミルク しっとり",
+    "text": "乾燥などの外的環境から肌を守って肌本来のうるおいを保つボディ用乳液。うるおい持続成分（タウリン）配合●肌荒れ防止成分：ベタイン配合。乾燥や肌荒れを防いで、カサつきがちな肌をやわらかく保ちます●保湿成分：セラミドＩＩ・トレハロース配合。肌内部（角層）のセラミドの働きを補って、すべすべの肌に保ちます●コクのあるミルク、しっとりタイプ（W／O処方）《超乾燥肌～乾燥肌》",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_body_skinmilk_00_img_s.jpg",
+        "name": "しっとり 120g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_skinmilk_03_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_skinmilk_03_img_l.jpg",
+    "name": "ニベア スキンミルク さっぱり",
+    "text": "乾燥などの外的環境から肌を守って肌本来のうるおいを保つボディ用乳液。うるおい持続成分（タウリン）配合●肌荒れ防止成分：ベタイン配合。乾燥や肌荒れを防いで、カサつきがちな肌をやわらかく保ちます●保湿成分：セラミドＩＩ・トレハロース配合。肌内部（角層）のセラミドの働きを補って、すべすべの肌に保ちます●サラッとしたミルク　さっぱりタイプ《乾燥肌～普通肌》",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_body_skinmilk_02_img_s.jpg",
+        "name": "さっぱり 120g"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_aquamilk_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_aquamilk_00_img_l.jpg",
+    "name": "ニベア アクアボディミルク",
+    "text": "べたつきがちな肌をさらっと仕上げ、爽やかで心地よい「みずみずしい肌」に。自然のうるおいに着目し植物から抽出したエキス、ボタニカルモイスト成分＊配合＊ユキノシタエキス（保湿成分）：すばやく肌（角層）　に浸透し、みずみずしさで満たします＊クインスシードエキス（整肌成分）：うるおいを保ちながら、肌表面をすべすべに整えますアクアソープの香り",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_creamymilk_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_creamymilk_00_img_l.jpg",
+    "name": "ニベア クリーミィボディ ミルク",
+    "text": "すーっと伸びてすばやくなじむ。高保湿で、とろけるようにクリーミィなボディミルク●シアバター（天然保湿成分）配合。一日続く、つややかでなめらかな肌へ●イチョウ葉エキス（保湿成分）配合。肌内部（角層）をうるおいで満たし、カサついた肌をやわらかくほぐしてキメを整えます●うるおい持続成分（タウリン）配合。乾燥などの外的環境から肌を守って、肌本来のうるおいを保ちます*ほのかにやさしい、フローラルの香り",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_happytime_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_happytime_00_img_l.jpg",
+    "name": "ニベア ハッピータイム ボディミルク シトラスハッピー",
+    "text": "触れて感じるすべすべの肌。シトラスの香りも長続きするフレグランスボディミルク。ミルクが肌になじむとともにふわっと心地よい香りが広がり、寝る時も、翌朝、服を着替えるその時までも、ほのかに香り続けます。●フルーツモイスチャーEX成分（ユズエキス・グリセリン）配合。うるおいを肌内部（角層）に閉じこめ、すべすべ肌に整えます。甘すぎず爽やかな、ジューシーカクテルの香り",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_happytime_sweet_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_happytime_sweet_00_img_l.jpg",
+    "name": "ニベア ハッピータイム ボディミルク スウィートハッピー",
+    "text": "触れて感じるすべすべの肌。スウィートな香りも長続きするフレグランスボディミルク。ミルクが肌になじむとともにふわっと心地よい香りが広がり、寝る時も、翌朝、服を着替える時までも、ほのかに香り続けます。●フルーツモイスチャーEX成分（洋ナシエキス・グリセリン）配合。うるおいを肌内部（角層）に閉じこめ、すべすべ肌に整えます。ふんわり可愛い、スウィートカクテルの香り",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_premium_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_premium_00_img_l.jpg",
+    "name": "ニベア プレミアムボディミルク",
+    "text": "指先がするっと軽くなった時が保湿のサイン。カサつきの気になる乾燥肌をしっとりやわらかな肌に整えるドライスキン高保湿ミルク。●高保湿なのに軽やかな使い心地。●たっぷりのうるおいが角層深くまで素早く浸透。（高浸透クイックモイスト処方）●植物から抽出したプレミアムモイスチャー成分 （アボカドオイル、ローズウォーター、カミツレエキス、ヤグルマギクエキス）配合*心もやすらぐ、上質で優雅なローズの香り",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_advance_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_advance_00_img_l.jpg",
+    "name": "ニベア プレミアムボディミルク アドバンス",
+    "text": "カサつきの気になる大人の肌にたっぷりのうるおいを与え弾むようなハリのある肌に導くドライスキン高保湿ミルク●うるおいが角層深くまで素早く浸透し、しっとりなめらか肌に整えます。（高浸透クイックモイスト処方）●保湿成分：コエンザイムQ10（ユビキノン）・グリセリン、植物性コラーゲンC（ニンジンエキス）配合。ふっくら弾むようなハリを与え、いきいきとした肌に導きます。上質でおだやかなカモミール＆ローズの香り",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_whitemilk_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_whitemilk_00_img_l.jpg",
+    "name": "ニベア 薬用ホワイトニングリペアＵＶボディミルク",
+    "text": "紫外線ダメージを受けた肌に、美白+保湿のダブルの効果。デコルテ・背中・二の腕などを透明感のあるうるおいのある肌に保つ薬用美白ミルク●日常紫外線をきちんとカット（SPF26・PA++）●モイストリペア成分（保湿成分）配合（アセロラエキス・L-システイン）日焼けにより失われがちなうるおいを補給します●美白成分配合（安定型ビタミンC）：メラニンの生成を抑えて、シミ・ソバカスを防ぎます",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_whitejell_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_whitejell_00_img_l.jpg",
+    "name": "ニベア 薬用ホワイトニングリペアボディジェル",
+    "text": "紫外線ダメージを受けた肌に、保湿と美白のダブルの効果。デコルテ・背中・二の腕などを透明感のあるうるおいのある肌に保つ薬用美白ボディジェル。●モイストリペア成分（保湿成分）配合（天然美容果実（アセロラ）エキス・L-システイン）日焼けにより失われがちなうるおいを補給します。●美白成分配合（安定型ビタミンC）：メラニンの生成を抑えて、シミ・ソバカスを防ぎます。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_body_whitecream_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_body_whitecream_00_img_l.jpg",
+    "name": "ニベア 薬用ホワイトニングリペアボディウォータークリーム",
+    "text": "紫外線ダメージを受けた肌に、保湿と美白のダブル効果。カサつきがちな肌を美白しながら濃密保湿。透明感あるうるおい肌に整える薬用美白ボディウォータークリーム●モイストリペア成分EX配合（保湿）：天然美容果実エキス・L-システイン・グリセリン 日やけにより失われがちなうるおいを補給●美白成分配合（安定型ビタミンC）：メラニンの生成を抑え、シミソバカスを防ぎます●クリームなのにベタつき感ない使い心地",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_leg_beautyjell_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_leg_beautyjell_00_img_l.jpg",
+    "name": "ニベア マイレッグビューティジェル",
+    "text": "ジンジンとしたひきしめ感のあるひんやりとしたジェルで気になるヒップ・太もも・ふくらはぎなどの肌に塗るだけで、すっきりシャープなひきしまった肌に導きます。●4つの天然ひきしめ成分（緑茶エキス・オニいちごエキス・ブッチャーブルームエキス・ハマメリスエキス）配合。肌をキュッと整えすっきりシャープなひきしまった肌に導きます。●肌にうるおいを与え、みずみずしくすべすべな肌を保ちます。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_bodywash_european_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_bodywash_european_00_img_l.jpg",
+    "name": "ニベアボディウォッシュ エクストラタッチ ヨーロピアンホワイトソープの香り",
+    "text": "濃厚ホイップで、上質な触れごこちの肌へ洗いあげるボディウォッシュ。素肌にも存在する保湿成分（グリセリン）を高濃度配合した、エクストラモイスチャーホイップ処方。とろみのある液から豊かに生まれるリッチな泡で、贅沢な洗いごこちに。すっきり洗い流せるのに、しっとり上質な触れごこちの肌へ。上質なバスタイムを演出する、ヨーロピアンホワイトソープの香り。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_bodywash_european_01_img_s.jpg",
+        "name": "つめかえ用　380ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_bodywash_french_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_bodywash_french_00_img_l.jpg",
+    "name": "ニベアボディウォッシュ エクストラタッチ フレンチガーデンローズの香り",
+    "text": "濃厚ホイップで、上質な触れごこちの肌へ洗いあげるボディウォッシュ。素肌にも存在する保湿成分（グリセリン）を高濃度配合した、エクストラモイスチャーホイップ処方。とろみのある液から豊かに生まれるリッチな泡で、贅沢な洗いごこちに。すっきり洗い流せるのに、しっとり上質な触れごこちの肌へ。上質なバスタイムを演出する、フレンチガーデンローズの香り。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_bodywash_french_01_img_s.jpg",
+        "name": "つめかえ用　380ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/nivea/nva_bodywash_sicilian_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/nivea/nva_bodywash_sicilian_00_img_l.jpg",
+    "name": "ニベアボディウォッシュ エクストラタッチ シチリアンリゾートシトラスの香り",
+    "text": "濃厚ホイップで、上質な触れごこちの肌へ洗いあげるボディウォッシュ。素肌にも存在する保湿成分（グリセリン）を高濃度配合した、エクストラモイスチャーホイップ処方。とろみのある液から豊かに生まれるリッチな泡で、贅沢な洗いごこちに。すっきり洗い流せるのに、しっとり上質な触れごこちの肌へ。上質なバスタイムを演出する、シチリアンリゾートシトラスの香り。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/nivea/nva_bodywash_sicilian_01_img_s.jpg",
+        "name": "つめかえ用　380ml"
+      }
+    ]
+  }
+]

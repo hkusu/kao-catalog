@@ -1,0 +1,70 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/laurier/lre_f_panty_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/laurier/lre_f_panty_00_img_l.jpg",
+    "name": "ロリエ エフ しあわせ素肌 パンティライナー 無香料",
+    "text": "敏感な肌*にも、やさしい使い心地。1.空気をスーッと通すエアスルー。ムレにくく、かぶれにくい。2.薄くてしなやか。つけているのを忘れそう。＊おりものでかぶれやすい肌14cm",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/laurier/lre_f_panty_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/laurier/lre_f_panty_01_img_l.jpg",
+    "name": "ロリエ エフ しあわせ素肌 パンティライナー フレッシュハーブの香り",
+    "text": "敏感な肌*にも、やさしい使い心地。1.空気をスーッと通すエアスルー。ムレにくく、かぶれにくい。2.薄くてしなやか。つけているのを忘れそう。＊おりものでかぶれやすい肌14cm",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/laurier/lre_kirei_01_img_s.jpg",
+    "img_l": "/jp/kao_imgs/laurier/lre_kirei_01_img_l.jpg",
+    "name": "ロリエ きれいスタイル 無香料",
+    "text": "下着のおしゃれを楽しむためのパンティライナーです。ヨレ・ズレ防止効果アップで、下着の可愛さを損なわず、下着をキレイに保ちます。無香料。14cm",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/laurier/lre_kirei_00_img_s.jpg",
+        "name": "無香料 40コ入"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/laurier/lre_kirei_08_img_s.jpg",
+    "img_l": "/jp/kao_imgs/laurier/lre_kirei_08_img_l.jpg",
+    "name": "ロリエ きれいスタイル ロマンティックローズの香り",
+    "text": "下着のおしゃれを楽しむためのパンティライナーです。ヨレ・ズレ防止効果アップで、下着の可愛さを損なわず、下着をキレイに保ちます。ロマンティックローズの香り。14cm",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/laurier/lre_kirei_03_img_s.jpg",
+    "img_l": "/jp/kao_imgs/laurier/lre_kirei_03_img_l.jpg",
+    "name": "ロリエ きれいスタイル ヒーリングベリーの香り",
+    "text": "下着のおしゃれを楽しむためのパンティライナーです。ヨレ・ズレ防止効果アップで、下着の可愛さを損なわず、下着をキレイに保ちます。ヒーリングベリーの香り。14cm",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/laurier/lre_kirei_02_img_s.jpg",
+        "name": "ヒーリングベリーの香り 40コ入"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/laurier/lre_kirei_07_img_s.jpg",
+    "img_l": "/jp/kao_imgs/laurier/lre_kirei_07_img_l.jpg",
+    "name": "ロリエ きれいスタイル スパークリングフルーツの香り",
+    "text": "下着のおしゃれを楽しむためのパンティライナーです。ヨレ・ズレ防止効果アップで、下着の可愛さを損なわず、下着をキレイに保ちます。スパークリングフルーツの香り。14cm",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/laurier/lre_kirei_05_img_s.jpg",
+    "img_l": "/jp/kao_imgs/laurier/lre_kirei_05_img_l.jpg",
+    "name": "ロリエ きれいスタイル 消臭Agデオドラント",
+    "text": "下着のおしゃれを楽しむためのパンティライナーです。ヨレ・ズレ防止効果アップで、下着の可愛さを損なわず、下着をキレイに保ちます。消臭成分Ag（銀）で、気になるおりもののニオイまでスッキリ消臭します。14cm",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/laurier/lre_kirei_04_img_s.jpg",
+    "img_l": "/jp/kao_imgs/laurier/lre_kirei_04_img_l.jpg",
+    "name": "ロリエ きれいスタイル 天然コットン100%",
+    "text": "下着のおしゃれを楽しむためのパンティライナーです。ヨレ・ズレ防止効果アップで、下着の可愛さを損なわず、下着をキレイに保ちます。USAコットンマーク取得の天然コットン100％ならではの吸水性と高吸収ポリマーが、おりものや汗をすーっと吸収して、素肌をさらさらに保ちます。14cm",
+    "lineup_num": 1
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/biore/bio_freshsheet_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/biore/bio_freshsheet_00_img_l.jpg",
+    "name": "ビオレ メイクしたままさっぱりシート",
+    "text": "ファンデーションの上から軽くおさえるだけで、皮脂だけでなく、ベタつき汚れまで取り除く清浄シートです。オモテのドライ面であぶらをとり、ウラのウェット面でベタつき汚れを吸収。洗顔したような気持ちよさがえられます。無香料とクールな感触のひんやりミントの２タイプがあります。・メイクをくずさず使えて、きれいな仕上がりが続きます。・うるおい成分配合・素肌とおなじ弱酸性（ウェット面の液）",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/biore/bio_freshsheet_01_img_s.jpg",
+        "name": "ひんやりミント"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/mensbiore/mbi_facesheet_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/mensbiore/mbi_facesheet_00_img_l.jpg",
+    "name": "メンズビオレ 洗顔パワーシート",
+    "text": "ゴシゴシ不要の極細繊維シートで、ベタつき・ニオイまでからめ取る洗顔シートです。とてもやわらかいシートなので小鼻の凹凸にもぴったり密着。ゴシゴシ強くこすらなくても、汗・皮脂のベタつきや、自分では気づきにくい首すじや耳のうしろのニオイまでしっかりからめ取ります。皮脂吸収パウダー配合で、サラサラな肌が続きます。メントール（清涼成分）配合で、スッキリ爽快な使い心地です。アルコール過敏症の方、特に肌の弱い方、乳幼児は使わないでください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/mensbiore/mbi_facesheet_01_img_s.jpg",
+        "name": "卓上用"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/mensbiore/mbi_facesheetcool_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/mensbiore/mbi_facesheetcool_00_img_l.jpg",
+    "name": "メンズビオレ 洗顔パワーシート クールタイプ",
+    "text": "ゴシゴシ不要の極細繊維シートで、ベタつき・ニオイまでからめ取る洗顔シートです。とてもやわらかいシートなので小鼻の凹凸にもぴったり密着。ゴシゴシ強くこすらなくても、汗・皮脂のベタつきや、自分では気づきにくい首すじや耳のうしろのニオイまでしっかりからめ取ります。皮脂吸収パウダー配合で、サラサラな肌が続きます。メントール（清涼成分）高配合で、ひんやりクールな使い心地です。メントールの冷感刺激に弱い方、アルコール過敏症の方、特に肌の弱い方、乳幼児は使わないでください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/mensbiore/mbi_facesheetcool_01_img_s.jpg",
+        "name": "卓上用"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/mensbiore/mbi_facesheetsupercool_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/mensbiore/mbi_facesheetsupercool_00_img_l.jpg",
+    "name": "メンズビオレ 洗顔パワーシート スーパークールタイプ",
+    "text": "ゴシゴシ不要の極細繊維シートで、ベタつき・ニオイまでからめ取る洗顔シートです。とてもやわらかいシートなので小鼻の凹凸にもぴったり密着。ゴシゴシ強くこすらなくても、汗・皮脂のベタつきや、自分では気づきにくい首すじや耳のうしろのニオイまでしっかりからめ取ります。皮脂吸収パウダー配合で、サラサラな肌が続きます。メントール（清涼成分）4倍*配合で、目が覚めるような爽快感ある使い心地です。*レギュラータイプ比メントールの冷感刺激に弱い方、アルコール過敏症の方、特に肌の弱い方、乳幼児は使わないでください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/mensbiore/mbi_facesheetsupercool_01_img_s.jpg",
+        "name": "卓上用"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/mensbiore/mbi_facesheet_freshapple_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/mensbiore/mbi_facesheet_freshapple_00_img_l.jpg",
+    "name": "メンズビオレ 洗顔パワーシート フレッシュアップルの香り",
+    "text": "ゴシゴシ不要の極細繊維シートで、ベタつき・ニオイまでからめ取る洗顔シートです。やわらかいシートが小鼻の凹凸にもぴったり密着。ひとふきで、汗・皮脂のベタつきや、自分では気づきにくい首すじや耳のうしろのニオイまでしっかりからめ取ります。皮脂吸収パウダー配合で、サラサラ肌が続きます。フレッシュアップルの香り。アルコール過敏症の方、特に肌の弱い方、乳幼児は使わないでください。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/mensbiore/mbi_facesheet_freshapple_01_img_s.jpg",
+        "name": "卓上用"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/mensbiore/mbi_facesheetlotion_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/mensbiore/mbi_facesheetlotion_00_img_l.jpg",
+    "name": "メンズビオレ 洗顔パワーシート 化粧水inタイプ [携帯用]",
+    "text": "ゴシゴシ不要のやわらか繊維シートで、ベタつき・ニオイまでからめ取る洗顔シートです。とてもやわらかいシートなので小鼻の凹凸にもぴったり密着。ゴシゴシ強くこすらなくても、汗・皮脂のベタつきや、自分では気づきにくい首すじや耳のうしろのニオイまでからめ取ります。ヒアルロン酸（保湿成分）配合。ふきとり後もつっぱることなくカサつきを防ぎます。メントール（清涼成分）・アルコール無配合でヒリヒリしない使い心地。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/mensbiore/mbi_facesheetlotion_01_img_s.jpg",
+        "name": "卓上用"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/mensbiore/mbi_facesheetuv_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/mensbiore/mbi_facesheetuv_00_img_l.jpg",
+    "name": "メンズビオレ 洗顔パワーシート UVカットタイプ",
+    "text": "ゴシゴシ不要のやわらか繊維シートで、ベタつき・ニオイまでからめ取る洗顔シートです。とてもやわらかいシートなので小鼻の凹凸にもぴったり密着。ゴシゴシ強くこすらなくても、汗・皮脂のベタつきや、自分では気づきにくい首すじや耳のうしろのニオイまでからめ取ります。皮脂吸収パウダー配合で、サラサラ肌が続きます。紫外線防止成分配合（SPF15）配合で、日やけによるカサつきも防ぎます。メントール（清涼成分）配合。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/mensbiore/mbi_facesheetuv_01_img_s.jpg",
+        "name": "卓上用"
+      }
+    ]
+  }
+]

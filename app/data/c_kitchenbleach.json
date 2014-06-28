@@ -1,0 +1,39 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_kitchen_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_kitchen_00_img_l.jpg",
+    "name": "キッチンハイター",
+    "text": "つけ置きで、すみずみまで除菌・漂白・消臭ができる台所用漂白剤（塩素系）です。スポンジ、ふきんやまな板についている雑菌・ニオイもしっかり取り除きます。食器用洗剤では取れない、シミ、茶シブ、くもり、黒ずみ等をきれいに落とします。",
+    "lineup_num": 3,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/haiter/hit_kitchen_01_img_s.jpg",
+        "name": "大 1500ml"
+      },
+      {
+        "img": "/jp/kao_imgs/haiter/hit_kitchen_02_img_s.jpg",
+        "name": "特大 2500ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_kitchen_bubble_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_kitchen_bubble_00_img_l.jpg",
+    "name": "キッチン泡ハイター",
+    "text": "気がついた時に手軽に使える、スプレータイプの台所用漂白剤（塩素系）です。まな板、排水口ゴミ受け、スポンジなど台所用品の除菌・漂白・消臭に。まな板※1、排水口ゴミ受けならたった30秒で99.9％強力除菌！※2スポンジも99.9％強力除菌！※2※1 プラスチック製まな板。※2 すべての菌を除菌できるわけではありません。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/haiter/hit_kitchen_bubble_01_img_s.jpg",
+        "name": "つけかえ用 400ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/haiter/hit_kitchen_powder_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/haiter/hit_kitchen_powder_00_img_l.jpg",
+    "name": "キッチンハイター 粉末酸素系",
+    "text": "においが気にならず、色・柄物のふきんも漂白できる酸素系の台所用漂白剤。サッと溶けて、つけておくだけで茶わん・きゅうす等の茶しぶや黒ずみ、ふきん・おしぼり等のシミや黄ばみもきれいに落とします。ふきん・まな板・スポンジ等の雑菌や悪臭を除き、衛生的に仕上げます。手もヌルヌルしません。",
+    "lineup_num": 1
+  }
+]

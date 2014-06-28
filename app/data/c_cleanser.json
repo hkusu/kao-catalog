@@ -1,0 +1,30 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/homing/hom_homing_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/homing/hom_homing_00_img_l.jpg",
+    "name": "ホーミング",
+    "text": "コンロのがんこな油汚れやなべのコゲつきもグングン落としピカピカにします。すばやくすすげて、気になるザラツキが残りません。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/homing/hom_lemon_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/homing/hom_lemon_00_img_l.jpg",
+    "name": "ホーミングレモン",
+    "text": "レモンの香り。魚や肉などのニオイやしつこい汚れもしっかり落とします。すばやくすすげて、気になるザラつきが残りません。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/homing/hom_new_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/homing/hom_new_00_img_l.jpg",
+    "name": "ニューホーミング",
+    "text": "水あか、茶しぶ、こげつき、灰皿のヤニ等のしつこい汚れ、油汚れをすっきり落とす、泡立ちのよい粉末クレンザーです。",
+    "lineup_num": 1
+  },
+  {
+    "img_s": "/jp/kao_imgs/homing/hom_super_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/homing/hom_super_00_img_l.jpg",
+    "name": "スーパーホーミング",
+    "text": "漂白剤配合の研磨力の高い粉末クレンザーです。こげつき、煮こぼれ、油汚れ、茶シブ等をすっきり落とします。除菌・消臭効果もあります。",
+    "lineup_num": 1
+  }
+]

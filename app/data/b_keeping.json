@@ -1,0 +1,41 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/keeping/kpg_wash_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/keeping/kpg_wash_00_img_l.jpg",
+    "name": "キーピング 洗たく機用のり剤",
+    "text": "洗たく機でムラなくカンタンにのりづけができる乳液タイプののり剤。たたいて干すだけで、かたちが整い、パリッと仕上がります。手で切れるラクラクそそぎ口の、つめかえ用もあります。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/keeping/kpg_wash_01_img_s.jpg",
+        "name": "つめかえ用 480ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/keeping/kpg_iron_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/keeping/kpg_iron_00_img_l.jpg",
+    "name": "キーピング アイロン用のり剤",
+    "text": "アイロンがけの時に手軽にのりづけができるスプレータイプののり剤。衣類をパリッと仕上げて、仕上がりが長持ちします。エリ・そでなど、部分仕上げにも。エリ・そでの汚れもつきにくくなります。高温でもこげつきません。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/keeping/kpg_iron_01_img_s.jpg",
+        "name": "つめかえ用 350ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/keeping/kpg_smoother_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/keeping/kpg_smoother_00_img_l.jpg",
+    "name": "キーピング スムーザー アイロン用シワとり剤",
+    "text": "スプレーするだけでアイロンすべりを軽くします。細かい洗たくジワがラクにとれて、しなやかなハリが続きます。戻りジワを防ぎます。フレッシュグリーンの爽やかな香り。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/keeping/kpg_smoother_01_img_s.jpg",
+        "name": "つめかえ用 350ml"
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "img_s": "/jp/kao_imgs/mypet/mpt_mypet_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/mypet/mpt_mypet_00_img_l.jpg",
+    "name": "マイペット",
+    "text": "床、たたみ、カーペットや家具、照明器具、電気製品など住まいのいろいろなふきそうじに。汚れの程度にあわせて、うすめて幅広く使える、2度ぶきがいらない住まいの洗剤です。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/mypet/mpt_mypet_01_img_s.jpg",
+        "name": "大 2000ml"
+      }
+    ]
+  },
+  {
+    "img_s": "/jp/kao_imgs/mypet/mpt_spray_00_img_s.jpg",
+    "img_l": "/jp/kao_imgs/mypet/mpt_spray_00_img_l.jpg",
+    "name": "かんたんマイペット",
+    "text": "住まいのいろいろなところに使える、ふきそうじ用洗剤。除菌もできて、2度ぶき不要のスプレータイプです。",
+    "lineup_num": 2,
+    "lineup": [
+      {
+        "img": "/jp/kao_imgs/mypet/mpt_spray_01_img_s.jpg",
+        "name": "つめかえ用 350ml"
+      }
+    ]
+  }
+]
