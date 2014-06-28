@@ -1,29 +1,39 @@
-<ons-navigator title="" hide-toolbar="true">
-    <ons-page class="center">
-        <div ng-controller="CategoryCtrl">
-            <ons-list>
-                <div align="left" style="margin:10px 10px 10px 10px">
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <span ng-click="ons.slidingMenu.setBehindPage('views/brand.html')">
-                        <i class="fa fa-repeat"></i>&nbsp;<u>ブランド一覧へ</u>
-                    </span>
-                </div>
+<ons-page class="center">
+    <div ng-controller="CategoryCtrl">
+        <ons-list>
+            <div align="left" style="margin:10px 10px 10px 15px">
+                <span ng-click="ons.slidingMenu.setBehindPage('views/brand.html')">
+                    <i class="fa fa-repeat"></i>&nbsp;<u>ブランド一覧へ</u>
+                </span>
+            </div>
+            <div ng-repeat="item in items" style="background-color:white">
+                <!-- なぜか ons-row、ons-col を使うとAndroid端末で崩れるため、Tableタグを利用-->
+                <table>
+                    <tr>
+                        <td>
+                            <div align ="center" style="margin-top:5px">
+                                <img ng-src="http://www.kao.com{{item.img}}" width="40">
+                            </div>
+                        </td>
+                        <td>
+                            <!-- line-height で行間をあける -->
+                            <div align="left" style="margin:0px 10px 0px 5px; line-height:110%">
+                                <span class="kao-color"><font size="2px">{{item.name}}</font></span>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
                 <ons-list-item
                         class="topcoat-list__item--tappable topcoat-list__item__line-height"
-                        ng-repeat="item in items"
-                        ng-click="showSubCategory($index)">
+                        ng-repeat="product in item.product"
+                        ng-click="showProduct(product.key)">
                     <!-- なぜか ons-row、ons-col を使うとAndroid端末で崩れるため、Tableタグを利用-->
                     <table>
                         <tr>
                             <td>
-                                <div align ="center" style="margin-top:20px">
-                                    <img ng-src="http://www.kao.com{{item.img}}" width="50">
-                                </div>
-                            </td>
-                            <td>
                                 <!-- line-height で行間をあける -->
-                                <div align="left" style="margin:5px 10px 0px 15px; line-height:110%">
-                                    <font size="2px">{{item.name}}</font>
+                                <div align="left" style="margin:13px 10px 0px 10px; line-height:110%">
+                                    <font size="2px">{{product.name}}<font color="grey">（{{product.product_num}}）</font></font>
                                 </div>
                             </td>
                             <td width="20%">
@@ -32,7 +42,7 @@
                         </tr>
                     </table>
                 </ons-list-item>
-            </ons-list>
-        </div>
-    </ons-page>
-</ons-navigator>
+            </div>
+        </ons-list>
+    </div>
+</ons-page>

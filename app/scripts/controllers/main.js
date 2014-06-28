@@ -96,27 +96,31 @@ angular.module('kaoCatalogApp')
             $scope.items = $response.data;
         });
 
-        $scope.showSubCategory = function(index){
-
-            // 選択したカテゴリーを引き渡したいのでFactoryへ保存
-            ShareData.selectedCategory = $scope.items[index];
-            // 目的一覧サブページを表示
-            $scope.ons.navigator.pushPage('views/category_sub.html');
-        };
-    }])
-    // サブカテゴリーページ用（views/category_sub.html）のController
-    .controller('SubCategoryCtrl', ['$scope', 'ShareData', function ($scope, ShareData) {
-
-        // Factoryからカテゴリーのデータを取得
-        $scope.items = ShareData.selectedCategory;
+        // 同一Viewだと setAbovePage で Viewが更新されない事象の対応
+        // product.html と product2.html を随時、切り替える
+        ShareData.product_view = 'views/product.html';
 
         $scope.showProduct = function(list_key){
 
-            // 選択したカテゴリーのキー（アルファベット）を引き渡したいのでFactoryへ保存
-            ShareData.list_key = list_key;
-            // 各製品の一覧ページを表示
+            if (ShareData.list_key !== list_key){
+
+                // 選択したカテゴリーのキー（アルファベット）を引き渡したいのでFactoryへ保存
+                ShareData.list_key = list_key;
+
+                if (ShareData.product_view === 'views/product.html') {
+                    ShareData.product_view = 'views/product2.html';
+                } else {
+                    ShareData.product_view = 'views/product.html';
+                }
+                // 各製品の一覧ページを表示
+                $scope.ons.slidingMenu.setAbovePage(ShareData.product_view);
+
+            } else {
+                //リストが変わらない場合は何もしない
+            }
+
+            // スライドメニューを閉じる
             $scope.ons.slidingMenu.toggleMenu();
-            $scope.ons.slidingMenu.setAbovePage('views/product.html');
         };
     }])
     // 各製品の一覧ページ用（views/product.html）のController
