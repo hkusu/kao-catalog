@@ -1,67 +1,3 @@
-# ブランド名のリスト
-#  "asience"
-#  "attack"
-#  "atrix"
-#  "8x4"
-#  "8x4men"
-#  "essential"
-#  "emal"
-#  "emollica"
-#  "guardhalo"
-#  "keeping"
-#  "kyukyutto"
-#  "curel"
-#  "safety"
-#  "quickpunch"
-#  "quickle"
-#  "clearclean"
-#  "cape"
-#  "success"
-#  "sanina"
-#  "showertimebub"
-#  "stylecare"
-#  "smartguard"
-#  "segreta"
-#  "check"
-#  "tsubushio"
-#  "deepclean"
-#  "nivea"
-#  "niveaformen"
-#  "nyantomo"
-#  "newbeads"
-#  "haiter"
-#  "bub"
-#  "bubshower"
-#  "humming"
-#  "biore"
-#  "bioreurusara"
-#  "bioresarasarauv"
-#  "bioresarasara"
-#  "biorebodydeli"
-#  "bioreu"
-#  "pyuora"
-#  "purewhip"
-#  "family"
-#  "prettia"
-#  "flairfragrance"
-#  "blaune"
-#  "blauneikumou"
-#  "furomizuwonder"
-#  "healthya"
-#  "homing"
-#  "white"
-#  "mypet"
-#  "magiclean"
-#  "megurhythm"
-#  "merries"
-#  "merit"
-#  "mensbiore"
-#  "mensblaune"
-#  "liese"
-#  "resesh"
-#  "relief"
-#  "laurier"
-#  "widehaiter"
 
 casper = require("casper").create()
 
@@ -83,12 +19,10 @@ getLinupText = ->
 # 何かをスタートしないといけないみたいなので意味なくGoogleを指定
 casper.start "http://google.fr/", ->
 
-  # ブランド名をここに指定
-  #brand = "humming"
+  # ブランド名をスクリプト起動時の引数で受取り
   if casper.cli.args.length isnt 1
     @log 'Missing required argument.', 'error'
     @exit()
-
   brand = @cli.args[0]
 
   url = "http://www.kao.com/jp/" + brand + "/index.html"
@@ -134,21 +68,24 @@ casper.start "http://google.fr/", ->
         @echo "    \"img_l\": " + "\"/jp/kao_imgs" + link + "_img_l.jpg\","
 
         # 商品名の出力
-        @echo "    \"name\": " + "\"" + @getTitle() + "\","
+        title = @getTitle()
+        title = title.replace(/^花王株式会社 /g,"")
+        title = title.replace(/\ ［.+?］$/g,"")
+        @echo "    \"name\": " + "\"" + title + "\","
 
         # 商品説明の出力
         links_sub = @evaluate getPtag
         m = 0
         while m < links_sub.length
-          links_sub[m] = links_sub[m].replace(/[\n\r]/g,"");
+          links_sub[m] = links_sub[m].replace(/[\n\r]/g,"")
           m++
         m = 0
         while m < links_sub.length
-          links_sub[m] = links_sub[m].replace(/<br>/g,"");
+          links_sub[m] = links_sub[m].replace(/<br>/g,"")
           m++
         m = 0
         while m < links_sub.length
-          links_sub[m] = links_sub[m].replace(/\"/g,"");
+          links_sub[m] = links_sub[m].replace(/\"/g,"")
           m++
         m = 0
         while m < links_sub.length
@@ -165,6 +102,26 @@ casper.start "http://google.fr/", ->
         m = 0
         while m < links_sub.length
           links_sub[m] = links_sub[m].replace(/<\/font>/g,"")
+          m++
+        m = 0
+        while m < links_sub.length
+          links_sub[m] = links_sub[m].replace(/<a.+?>/g,"")
+          m++
+        m = 0
+        while m < links_sub.length
+          links_sub[m] = links_sub[m].replace(/<\/a>/g,"")
+          m++
+        m = 0
+        while m < links_sub.length
+          links_sub[m] = links_sub[m].replace(/<u>/g,"")
+          m++
+        m = 0
+        while m < links_sub.length
+          links_sub[m] = links_sub[m].replace(/<\/u>/g,"")
+          m++
+        m = 0
+        while m < links_sub.length
+          links_sub[m] = links_sub[m].replace(/<img.+?>/g,"")
           m++
         m = 0
         while m < links_sub.length
