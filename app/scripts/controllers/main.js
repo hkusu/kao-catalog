@@ -41,7 +41,7 @@ angular.module('kaoCatalogApp')
                 {
                     element: '#step4',
                     intro: "スライドメニューは画面を右にフリックしても開くことができます。",
-                    position: 'right'
+                    position: 'top'
                 }
             ],
             showStepNumbers: false,
